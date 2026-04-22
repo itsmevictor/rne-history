@@ -60,9 +60,9 @@ Code du département;Libellé du département;Code de la collectivité à statut
 25;Doubs;;;GROSPERRIN;Jacques;M;17/10/1955;34;Professeur, profession scientifique;01/10/2020
 25;Doubs;;;JACQUEMET;Annick;F;20/01/1956;72;Ancien artisan, commerçant, chef d'entreprise;01/10/2020
 25;Doubs;;;LONGEOT;Jean-François;M;27/12/1956;74;Ancien cadre;01/10/2020
-26;Drôme;;;BOUCHET;Gilbert;M;08/01/1947;72;Ancien artisan, commerçant, chef d'entreprise;01/10/2020
 26;Drôme;;;BUIS;Bernard;M;23/06/1956;74;Ancien cadre;01/10/2020
 26;Drôme;;;MONIER;Marie-Pierre;F;28/02/1958;74;Ancien cadre;01/10/2020
+26;Drôme;;;MOUTON;Marie-Pierre;F;26/03/1965;85;Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité);21/10/2025
 27;Eure;;;DURANTON;Nicole;F;13/10/1958;45;Profession intermédiaire administrative de la fonction publique;02/11/2020
 27;Eure;;;MAUREY;Hervé;M;07/05/1961;85;Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité);01/10/2020
 27;Eure;;;PLUCHET;Kristina;F;01/05/1973;12;Agriculteur sur moyenne exploitation;01/10/2020
@@ -86,8 +86,8 @@ Code du département;Libellé du département;Code de la collectivité à statut
 32;Gers;;;DUFFOURG;Alain;M;22/01/1950;31;Profession libérale;01/10/2020
 32;Gers;;;MONTAUGE;Franck;M;14/09/1961;38;Ingénieur et cadre technique d'entreprise;01/10/2020
 33;Gironde;;;CAZABONNE;Alain;M;25/08/1944;86;Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité);01/10/2020
-33;Gironde;;;CONTE JAUBERT;Mireille;F;23/10/1954;77;Ancien employé;22/10/2024
 33;Gironde;;;DE MARCO;Monique;F;12/11/1953;34;Professeur, profession scientifique;01/10/2020
+33;Gironde;;;DELATTRE;Nathalie;F;02/12/1968;85;Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité);06/11/2025
 33;Gironde;;;GILLÉ;Hervé;M;09/10/1960;74;Ancien cadre;01/10/2020
 33;Gironde;;;HARRIBEY;Laurence;F;08/02/1953;77;Ancien employé;01/10/2020
 33;Gironde;;;LASSARADE;Florence;F;18/08/1957;31;Profession libérale;01/10/2020
@@ -125,7 +125,7 @@ Code du département;Libellé du département;Code de la collectivité à statut
 44;Loire-Atlantique;;;DANTEC;Ronan;M;05/08/1963;35;Profession de l'information, des arts et des spectacles;02/10/2023
 44;Loire-Atlantique;;;GARNIER;Laurence;F;03/04/1978;37;Cadre administratif et commercial d'entreprise;24/01/2025
 44;Loire-Atlantique;;;GROSVALET;Philippe;M;13/04/1958;74;Ancien cadre;02/10/2023
-44;Loire-Atlantique;;;GUERRIAU;Joël;M;09/11/1957;74;Ancien cadre;02/10/2023
+44;Loire-Atlantique;;;GUÉRIN;Marie-Pierre;F;06/03/1956;74;Ancien cadre;06/10/2025
 45;Loiret;;;CHAILLOU;Christophe;M;13/11/1964;33;Cadre de la fonction publique;02/10/2023
 45;Loiret;;;MARTIN;Pauline;F;25/09/1966;37;Cadre administratif et commercial d'entreprise;02/10/2023
 45;Loiret;;;SAURY;Hugues;M;12/11/1958;31;Profession libérale;02/10/2023
@@ -201,13 +201,13 @@ Code du département;Libellé du département;Code de la collectivité à statut
 67;Bas-Rhin;;;FERNIQUE;Jacques;M;13/11/1961;34;Professeur, profession scientifique;01/10/2020
 67;Bas-Rhin;;;KERN;Claude;M;13/03/1959;34;Professeur, profession scientifique;01/10/2020
 67;Bas-Rhin;;;MULLER-BRONN;Laurence;F;04/11/1961;31;Profession libérale;01/10/2020
-67;Bas-Rhin;;;REICHARDT;André;M;05/12/1949;74;Ancien cadre;01/10/2020
 67;Bas-Rhin;;;SCHALCK;Elsa;F;04/12/1986;31;Profession libérale;01/10/2020
+67;Bas-Rhin;;;SÉNÉ;Marc;M;28/10/1964;37;Cadre administratif et commercial d'entreprise;01/10/2025
 68;Haut-Rhin;;;DREXLER;Sabine;F;17/08/1963;42;Professeur des écoles, instituteur et assimilé;01/10/2020
 68;Haut-Rhin;;;HAYE;Ludovic;M;18/01/1975;33;Cadre de la fonction publique;01/10/2020
 68;Haut-Rhin;;;KLINGER;Christian;M;15/12/1968;37;Cadre administratif et commercial d'entreprise;01/10/2020
 68;Haut-Rhin;;;SCHILLINGER;Patricia;F;18/01/1963;77;Ancien employé;01/10/2020
-69;Rhône;69M;Métropole De Lyon;VIDAL;Paul;M;08/09/1950;74;Ancien cadre;22/10/2024
+69;Rhône;69M;Métropole De Lyon;BUFFET;François-Noël;M;28/08/1963;31;Profession libérale;06/11/2025
 69;Rhône;;;BLANC;Étienne;M;29/08/1954;31;Profession libérale;01/10/2020
 69;Rhône;;;DEVINAZ;Gilbert-Luc;M;19/07/1953;74;Ancien cadre;01/10/2020
 69;Rhône;;;DI FOLCO;Catherine;F;30/11/1960;85;Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité);01/10/2020
@@ -216,8 +216,8 @@ Code du département;Libellé du département;Code de la collectivité à statut
 69;Rhône;;;PONCET;Raymonde;F;01/08/1951;37;Cadre administratif et commercial d'entreprise;01/10/2020
 70;Haute-Saône;;;JOYANDET;Alain;M;15/01/1954;72;Ancien artisan, commerçant, chef d'entreprise;01/10/2020
 70;Haute-Saône;;;RIETMANN;Olivier;M;22/11/1971;12;Agriculteur sur moyenne exploitation;01/10/2020
-71;Saône-Et-Loire;;;DURAIN;Jérôme;M;02/06/1969;33;Cadre de la fonction publique;01/10/2020
 71;Saône-Et-Loire;;;GENET;Fabien;M;22/03/1975;46;Profession intermédiaire administrative et commerciale des entreprises;01/10/2020
+71;Saône-Et-Loire;;;MATRAY;Paulette;F;29/11/1955;75;Ancienne profession intermédiaire;07/10/2025
 71;Saône-Et-Loire;;;MERCIER;Marie;F;16/06/1958;31;Profession libérale;01/10/2020
 72;Sarthe;;;COZIC;Thierry;M;09/02/1973;33;Cadre de la fonction publique;01/10/2020
 72;Sarthe;;;DE NICOLAY;Louis-Jean;M;18/09/1949;86;Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité);01/10/2020
@@ -272,10 +272,10 @@ Code du département;Libellé du département;Code de la collectivité à statut
 83;Var;;;GUIOL;André;M;28/06/1954;74;Ancien cadre;01/10/2020
 84;Vaucluse;;;BLANC;Jean-Baptiste;M;03/09/1972;31;Profession libérale;01/10/2020
 84;Vaucluse;;;MILON;Alain;M;16/09/1947;75;Ancienne profession intermédiaire;01/10/2020
-84;Vaucluse;;;STANZIONE;Lucien;M;19/08/1950;147;Fonctionnaire de catégorie A (obsolète);01/10/2020
+84;Vaucluse;;;STANZIONE;Lucien;M;19/08/1950;33;Cadre de la fonction publique;01/10/2020
 85;Vendée;;;BILLON;Annick;F;03/08/1967;85;Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité);01/10/2020
-85;Vendée;;;HYBERT;Brigitte;F;12/05/1960;72;Ancien artisan, commerçant, chef d'entreprise;22/10/2024
 85;Vendée;;;MANDELLI;Didier;M;07/08/1964;23;Chef d'entreprise de 10 salariés ou plus;01/10/2020
+85;Vendée;;;RETAILLEAU;Bruno;M;20/11/1960;74;Ancien cadre;14/11/2025
 86;Vienne;;;BELIN;Bruno;M;08/06/1962;31;Profession libérale;01/10/2020
 86;Vienne;;;BELLAMY;Marie-Jeanne;F;05/01/1966;45;Profession intermédiaire administrative de la fonction publique;17/03/2024
 87;Haute-Vienne;;;BRIQUET;Isabelle;F;04/09/1967;85;Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité);01/10/2020
@@ -321,14 +321,14 @@ Code du département;Libellé du département;Code de la collectivité à statut
 974;La Réunion;;;CORBIERE NAMINZO;Evelyne;F;12/11/1980;42;Professeur des écoles, instituteur et assimilé;02/10/2023
 974;La Réunion;;;FOUASSIN;Stéphane;M;17/10/1960;31;Profession libérale;02/10/2023
 974;La Réunion;;;MALET;Viviane;F;28/10/1954;86;Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité);02/10/2023
+976;Mayotte;;;MOHAMED SOILIHI;Thani;M;20/06/1972;31;Profession libérale;06/11/2025
 976;Mayotte;;;OMAR OILI;Said;M;20/06/1957;74;Ancien cadre;02/10/2023
-976;Mayotte;;;RAMIA;Salama;F;22/02/1968;37;Cadre administratif et commercial d'entreprise;22/10/2024
 ZZ;Français Établis Hors De France;;;BRIANTE-GUILLEMONT;Sophie;F;27/09/1991;33;Cadre de la fonction publique;17/08/2024
-ZZ;Français Établis Hors De France;;;CADIC;Olivier;M;22/04/1962;105;Industriel-Chef entreprise (obsolète);01/10/2021
-ZZ;Français Établis Hors De France;;;CAZEBONNE;Samantha;F;10/08/1971;144;Profession rattachée à enseignt. (obsolète);01/10/2021
+ZZ;Français Établis Hors De France;;;CADIC;Olivier;M;22/04/1962;23;Chef d'entreprise de 10 salariés ou plus;01/10/2021
+ZZ;Français Établis Hors De France;;;CAZEBONNE;Samantha;F;10/08/1971;42;Professeur des écoles, instituteur et assimilé;01/10/2021
 ZZ;Français Établis Hors De France;;;CHANTREL;Yan;M;14/04/1979;37;Cadre administratif et commercial d'entreprise;01/10/2021
 ZZ;Français Établis Hors De France;;;CONWAY-MOURET;Hélène;F;13/09/1960;34;Professeur, profession scientifique;02/10/2023
-ZZ;Français Établis Hors De France;;;FRASSA;Christophe-André;M;04/02/1968;132;Conseiller juridique (obsolète);01/10/2021
+ZZ;Français Établis Hors De France;;;FRASSA;Christophe-André;M;04/02/1968;37;Cadre administratif et commercial d'entreprise;01/10/2021
 ZZ;Français Établis Hors De France;;;LE GLEUT;Ronan;M;21/08/1976;38;Ingénieur et cadre technique d'entreprise;02/10/2023
 ZZ;Français Établis Hors De France;;;OLLIVIER;Mathilde;F;09/06/1994;37;Cadre administratif et commercial d'entreprise;02/10/2023
 ZZ;Français Établis Hors De France;;;RENAUD-GARABEDIAN;Evelyne;F;18/06/1950;23;Chef d'entreprise de 10 salariés ou plus;02/10/2023
@@ -339,6 +339,7 @@ ZZ;Français Établis Hors De France;;;VOGEL;Mélanie;F;22/05/1985;85;Personne d
 ;;972;Martinique;CONCONNE;Catherine;F;18/05/1963;85;Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité);02/10/2023
 ;;973;Guyane;PATIENT;Georges;M;01/04/1949;37;Cadre administratif et commercial d'entreprise;01/10/2020
 ;;973;Guyane;PHINÉRA-HORTH;Marie-Laure;F;28/06/1957;43;Profession intermédiaire de la santé et du travail social;01/10/2020
+;;975;Saint-Pierre-Et-Miquelon;GIRARDIN;Annick;F;03/08/1964;33;Cadre de la fonction publique;15/09/2025
 ;;977;Saint-Barthélemy;JACQUES;Micheline;F;08/10/1971;42;Professeur des écoles, instituteur et assimilé;01/10/2020
 ;;978;Saint-Martin;PÉTRUS;Annick;F;05/01/1961;42;Professeur des écoles, instituteur et assimilé;01/10/2020
 ;;986;Wallis Et Futuna;KULIMOETOKE;Mikaele;M;17/06/1963;53;Policier et militaire;01/10/2020

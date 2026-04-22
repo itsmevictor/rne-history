@@ -320,7 +320,7 @@ Code du département;Libellé du département;Code du canton;Libellé du canton;
 09;Ariège;0903;Couserans Est;TEQUI;Christine;F;10/10/1963;38;Ingénieur et cadre technique d'entreprise;01/07/2021;Président du conseil départemental;02/07/2021
 09;Ariège;0904;Couserans Ouest;NÉNY;Nadine;F;20/02/1958;75;Ancienne profession intermédiaire;01/07/2021;;
 09;Ariège;0904;Couserans Ouest;VIGNEAU;Jean-Noel;M;13/12/1968;42;Professeur des écoles, instituteur et assimilé;01/07/2021;;
-09;Ariège;0905;Foix;GUICHOU;Fabien;M;21/10/1979;43;Profession intermédiaire de la santé et du travail social;01/07/2021;;
+09;Ariège;0905;Foix;GUICHOU;Fabien;M;21/10/1979;37;Cadre administratif et commercial d'entreprise;01/07/2021;;
 09;Ariège;0905;Foix;RUMEAU;Véronique;F;08/04/1959;74;Ancien cadre;01/07/2021;6ème Vice-président du conseil départemental;02/07/2021
 09;Ariège;0906;Mirepoix;QUILLIEN;Nicole;F;03/03/1956;77;Ancien employé;01/07/2021;4ème Vice-président du conseil départemental;02/07/2021
 09;Ariège;0906;Mirepoix;TOMEO;Alain;M;22/01/1966;33;Cadre de la fonction publique;01/07/2021;;
@@ -342,14 +342,13 @@ Code du département;Libellé du département;Code du canton;Libellé du canton;
 10;Aube;1001;Aix-Villemaur-Pâlis;LEPRINCE;Didier;M;29/03/1958;74;Ancien cadre;01/07/2021;;
 10;Aube;1002;Arcis-Sur-Aube;BERNIER;Guy;M;17/09/1955;13;Agriculteur sur grande exploitation;01/07/2021;;
 10;Aube;1002;Arcis-Sur-Aube;SOUCAT;Annie;F;08/07/1961;43;Profession intermédiaire de la santé et du travail social;01/07/2021;;
-10;Aube;1003;Bar-Sur-Aube;DALLEMAGNE;Philippe;M;05/09/1962;52;Employé civil et agent de service de la fonction publique;01/07/2021;8ème Vice-président du conseil départemental;01/07/2021
+10;Aube;1003;Bar-Sur-Aube;DALLEMAGNE;Philippe;M;05/09/1962;52;Employé civil et agent de service de la fonction publique;01/07/2021;Président du conseil départemental;06/10/2025
 10;Aube;1003;Bar-Sur-Aube;RIGOLLOT;Marie-Noëlle;F;25/12/1956;77;Ancien employé;01/07/2021;1er Vice-président du conseil départemental;01/07/2021
 10;Aube;1004;Bar-Sur-Seine;DE LA HAMAYDE;Bernard;M;20/02/1952;72;Ancien artisan, commerçant, chef d'entreprise;01/07/2021;6ème Vice-président du conseil départemental;01/07/2021
 10;Aube;1004;Bar-Sur-Seine;MASSIN;Arlette;F;03/03/1955;74;Ancien cadre;01/07/2021;;
 10;Aube;1005;Brienne-Le-Château;GUILLEMINOT;Angélique;F;26/10/1969;37;Cadre administratif et commercial d'entreprise;01/07/2021;;
 10;Aube;1005;Brienne-Le-Château;JACQUINET;Olivier;M;01/03/1961;33;Cadre de la fonction publique;01/07/2021;;
 10;Aube;1006;Creney-Près-Troyes;HOMEHR;Claude;F;15/10/1957;74;Ancien cadre;01/07/2021;9ème Vice-président du conseil départemental;01/07/2021
-10;Aube;1006;Creney-Près-Troyes;PICHERY;Philippe;M;18/02/1952;74;Ancien cadre;01/07/2021;Président du conseil départemental;01/07/2021
 10;Aube;1007;Nogent-Sur-Seine;BOMBERGER-RIVOT;Estelle;F;29/05/1975;34;Professeur, profession scientifique;01/07/2021;;
 10;Aube;1007;Nogent-Sur-Seine;MATHIAS;Jean-Yves;M;11/05/1960;77;Ancien employé;01/07/2021;;
 10;Aube;1008;Les Riceys;HUPFER;Jean-Michel;M;14/05/1953;72;Ancien artisan, commerçant, chef d'entreprise;01/07/2021;;
@@ -482,7 +481,7 @@ Code du département;Libellé du département;Code du canton;Libellé du canton;
 13;Bouches-Du-Rhône;1313;Marseille-2;DJAMBAÉ;Nouriati;F;13/03/1977;33;Cadre de la fonction publique;01/07/2021;;
 13;Bouches-Du-Rhône;1313;Marseille-2;KREHMEIER;Anthony;M;04/10/1986;33;Cadre de la fonction publique;01/07/2021;;
 13;Bouches-Du-Rhône;1314;Marseille-3;JIBRAYEL;Sébastien;M;24/10/1979;54;Employé administratif d'entreprise;01/07/2021;;
-13;Bouches-Du-Rhône;1314;Marseille-3;SPORTIELLO;Josette;F;12/01/1958;109;Commercant (obsolète);01/07/2021;;
+13;Bouches-Du-Rhône;1314;Marseille-3;SPORTIELLO;Josette;F;12/01/1958;22;Commerçant et assimilé;01/07/2021;;
 13;Bouches-Du-Rhône;1315;Marseille-4;GHALI;Samia;F;10/06/1968;45;Profession intermédiaire administrative de la fonction publique;01/07/2021;;
 13;Bouches-Du-Rhône;1315;Marseille-4;KAZANDJIAN;Azad;M;28/03/1984;33;Cadre de la fonction publique;01/07/2021;;
 13;Bouches-Du-Rhône;1316;Marseille-5;PREZIOSI;Nora;F;16/11/1960;33;Cadre de la fonction publique;01/07/2021;;
@@ -703,7 +702,6 @@ Code du département;Libellé du département;Code du canton;Libellé du canton;
 18;Cher;1809;Dun-Sur-Auron;BRUGÈRE;Didier;M;19/07/1952;74;Ancien cadre;01/07/2021;11ème Vice-président du conseil départemental;01/07/2021
 18;Cher;1809;Dun-Sur-Auron;RICHER;Marie-Pierre;F;19/04/1963;85;Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité);01/07/2021;;
 18;Cher;1810;La Guerche-Sur-L'Aubois;COURIVAUD;Bernadette;F;22/09/1950;77;Ancien employé;01/07/2021;;
-18;Cher;1810;La Guerche-Sur-L'Aubois;MECHIN;Serge;M;11/02/1948;77;Ancien employé;01/07/2021;;
 18;Cher;1811;Mehun-Sur-Yèvre;BERTRAND;Sophie;F;26/07/1970;54;Employé administratif d'entreprise;01/07/2021;4ème Vice-président du conseil départemental;01/07/2021
 18;Cher;1811;Mehun-Sur-Yèvre;GATTEFIN;Christian;M;17/09/1960;47;Technicien;01/07/2021;;
 18;Cher;1812;Saint-Amand-Montrond;DULUC;Clarisse;F;06/05/1967;85;Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité);01/07/2021;;
@@ -825,7 +823,7 @@ Code du département;Libellé du département;Code du canton;Libellé du canton;
 22;Côtes-D'Armor;2209;Loudéac;BOULANGER;Béatrice;F;14/04/1970;37;Cadre administratif et commercial d'entreprise;01/07/2021;;
 22;Côtes-D'Armor;2209;Loudéac;BOUTRON;Romain;M;04/04/1983;22;Commerçant et assimilé;01/07/2021;;
 22;Côtes-D'Armor;2210;Guerlédan;GUILLAUME;Céline;F;01/11/1968;56;Personnel des services directs aux particuliers;01/07/2021;;
-22;Côtes-D'Armor;2210;Guerlédan;ROSCOUËT;Loïc;M;22/01/1957;163;Retraité fonct.publique (sf enseig.) (obsolète);25/06/2022;;
+22;Côtes-D'Armor;2210;Guerlédan;ROSCOUËT;Loïc;M;22/01/1957;74;Ancien cadre;25/06/2022;;
 22;Côtes-D'Armor;2211;Paimpol;CADUDAL;Véronique;F;03/01/1970;31;Profession libérale;01/07/2021;2ème Vice-président du conseil départemental;01/07/2021
 22;Côtes-D'Armor;2211;Paimpol;PAGNY;Gilles;M;03/12/1955;75;Ancienne profession intermédiaire;01/07/2021;;
 22;Côtes-D'Armor;2212;Perros-Guirec;DRONIOU;Marie Louise;F;10/07/1955;74;Ancien cadre;01/07/2021;;
@@ -1159,7 +1157,7 @@ Code du département;Libellé du département;Code du canton;Libellé du canton;
 30;Gard;3007;Calvisson;LARROQUE;Marc;M;05/03/1962;48;Contremaître, agent de maîtrise;01/07/2021;;
 30;Gard;3008;La Grand-Combe;FARDOUX-JOUVE;Isabelle;F;03/11/1964;35;Profession de l'information, des arts et des spectacles;01/07/2021;;
 30;Gard;3008;La Grand-Combe;MALAVIELLE;Patrick;M;10/10/1962;34;Professeur, profession scientifique;01/07/2021;3ème Vice-président du conseil départemental;01/07/2021
-30;Gard;3009;Marguerittes;GUARDIOLA;Valérie;F;28/10/1967;53;Policier et militaire;01/07/2021;;
+30;Gard;3009;Marguerittes;ACHKAR;Laïla;F;29/06/1974;46;Profession intermédiaire administrative et commerciale des entreprises;26/06/2025;;
 30;Gard;3009;Marguerittes;NICOLAS;Rémi;M;10/05/1968;33;Cadre de la fonction publique;01/07/2021;11ème Vice-président du conseil départemental;01/07/2021
 30;Gard;3010;Nîmes-1;PLANTIER;Julien;M;13/01/1986;31;Profession libérale;01/07/2021;;
 30;Gard;3010;Nîmes-1;ROULLE;Sophie;F;13/04/1970;31;Profession libérale;01/07/2021;;
@@ -1269,7 +1267,7 @@ Code du département;Libellé du département;Code du canton;Libellé du canton;
 32;Gers;3213;L'Isle-Jourdain;LARROQUE;Francis;M;02/02/1954;71;Ancien agriculteur exploitant;01/07/2021;;
 32;Gers;3214;Lectoure-Lomagne;FOURNEX-MARROCQ;Patricia;F;10/10/1958;86;Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité);13/03/2023;;
 32;Gers;3214;Lectoure-Lomagne;GONELLA;Dominique;M;15/02/1972;11;Agriculteur sur petite exploitation;13/03/2023;;
-32;Gers;3215;Mirande-Astarac;DUPOUEY;Francis;M;25/08/1949;165;Autre retraité (obsolète);01/07/2021;8ème Vice-président du conseil départemental;22/01/2022
+32;Gers;3215;Mirande-Astarac;DUPOUEY;Francis;M;25/08/1949;77;Ancien employé;01/07/2021;8ème Vice-président du conseil départemental;22/01/2022
 32;Gers;3215;Mirande-Astarac;SALLES;Céline;F;07/09/1963;45;Profession intermédiaire administrative de la fonction publique;01/07/2021;1er Vice-président du conseil départemental;01/07/2021
 32;Gers;3216;Pardiac-Rivière-Basse;BARROUILLET;Nathalie;F;29/05/1964;31;Profession libérale;01/07/2021;5ème Vice-président du conseil départemental;01/07/2021
 32;Gers;3216;Pardiac-Rivière-Basse;CASTET;Gérard;M;25/06/1949;77;Ancien employé;01/07/2021;;
@@ -1372,7 +1370,7 @@ Code du département;Libellé du département;Code du canton;Libellé du canton;
 34;Hérault;3415;Montpellier-1;BOUIDA;Manar;F;05/01/1985;45;Profession intermédiaire administrative de la fonction publique;01/07/2021;;
 34;Hérault;3415;Montpellier-1;EL MOUDDEN;Rachid;M;26/08/1974;52;Employé civil et agent de service de la fonction publique;01/07/2021;;
 34;Hérault;3416;Montpellier-2;GÉLY;Jean-Louis;M;13/04/1958;48;Contremaître, agent de maîtrise;01/07/2021;11ème Vice-président du conseil départemental;01/07/2021
-34;Hérault;3416;Montpellier-2;HENRY;Gabrielle;F;01/05/1951;74;Ancien cadre;01/07/2021;8ème Vice-président du conseil départemental;01/07/2021
+34;Hérault;3416;Montpellier-2;ZANETTO-POURREAU;Gabrielle;F;01/05/1951;74;Ancien cadre;01/07/2021;8ème Vice-président du conseil départemental;01/07/2021
 34;Hérault;3417;Montpellier-3;MOYNIER;Jérôme;M;12/06/1979;52;Employé civil et agent de service de la fonction publique;20/02/2023;;
 34;Hérault;3417;Montpellier-3;WISNIEWSKI;Karine;F;22/06/1973;37;Cadre administratif et commercial d'entreprise;01/07/2021;;
 34;Hérault;3418;Montpellier-4;ALMARCHA;Jean;M;26/02/1952;75;Ancienne profession intermédiaire;01/07/2021;;
@@ -1536,7 +1534,6 @@ Code du département;Libellé du département;Code du canton;Libellé du canton;
 38;Isère;3813;Le Haut-Grésivaudan;KOHLY;Martine;F;10/10/1960;31;Profession libérale;01/07/2021;7ème Vice-président du conseil départemental;01/07/2021
 38;Isère;3814;L'Isle-D'Abeau;PAPADOPULO;Jean;M;19/08/1959;31;Profession libérale;01/07/2021;;
 38;Isère;3814;L'Isle-D'Abeau;SIMON;Catherine;F;03/08/1970;23;Chef d'entreprise de 10 salariés ou plus;01/07/2021;5ème Vice-président du conseil départemental;01/07/2021
-38;Isère;3815;Matheysine-Trièves;MULYK;Fabien;M;26/03/1973;43;Profession intermédiaire de la santé et du travail social;01/07/2021;10ème Vice-président du conseil départemental;01/07/2021
 38;Isère;3815;Matheysine-Trièves;PUISSAT;Frédérique;F;04/11/1967;85;Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité);01/07/2021;;
 38;Isère;3816;Meylan;BENHAMOU;Franck;M;18/06/1962;31;Profession libérale;01/07/2021;;
 38;Isère;3816;Meylan;HOURS;Joëlle;F;24/01/1961;34;Professeur, profession scientifique;01/07/2021;;
@@ -1627,7 +1624,7 @@ Code du département;Libellé du département;Code du canton;Libellé du canton;
 40;Landes;4013;Pays Morcenais Tarusate;CARRÈRE;Paul;M;14/09/1968;33;Cadre de la fonction publique;01/07/2021;3ème Vice-président du conseil départemental;01/07/2021
 40;Landes;4013;Pays Morcenais Tarusate;DEGOS;Dominique;F;20/01/1960;75;Ancienne profession intermédiaire;01/07/2021;8ème Vice-président du conseil départemental;01/07/2021
 40;Landes;4014;Pays Tyrossais;BERGEROO;Sylvie;F;26/06/1963;34;Professeur, profession scientifique;01/07/2021;;
-40;Landes;4014;Pays Tyrossais;DELPUECH;Jean-Luc;M;06/07/1953;74;Ancien cadre;01/07/2021;5ème Vice-président du conseil départemental;01/07/2021
+40;Landes;4014;Pays Tyrossais;GALDOS;Louis;M;17/01/1959;74;Ancien cadre;27/10/2025;;
 40;Landes;4015;Seignanx;BELIN;Eva;F;28/09/1978;48;Contremaître, agent de maîtrise;01/07/2021;6ème Vice-président du conseil départemental;01/07/2021
 40;Landes;4015;Seignanx;LESPADE;Jean-Marc;M;13/09/1966;52;Employé civil et agent de service de la fonction publique;01/07/2021;;
 41;Loir-Et-Cher;4101;La Beauce;HUGUET;Pascal;M;21/04/1964;12;Agriculteur sur moyenne exploitation;01/07/2021;5ème Vice-président du conseil départemental;19/10/2023
@@ -1740,7 +1737,7 @@ Code du département;Libellé du département;Code du canton;Libellé du canton;
 43;Haute-Loire;4318;Velay Volcanique;MUGNIER;Marie-Laure;F;24/09/1987;37;Cadre administratif et commercial d'entreprise;01/07/2021;;
 43;Haute-Loire;4319;Yssingeaux;LIOGIER;Arthur;M;11/09/1994;33;Cadre de la fonction publique;01/07/2021;;
 43;Haute-Loire;4319;Yssingeaux;VALENTIN;Isabelle;F;20/01/1962;85;Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité);01/07/2021;;
-44;Loire-Atlantique;4401;Ancenis-Saint-Géréon;ORHON;Rémy Marie Yves René;M;16/03/1966;37;Cadre administratif et commercial d'entreprise;01/07/2021;14ème Vice-président du conseil départemental;01/07/2021
+44;Loire-Atlantique;4401;Ancenis-Saint-Géréon;ORHON;Rémy;M;16/03/1966;37;Cadre administratif et commercial d'entreprise;01/07/2021;14ème Vice-président du conseil départemental;01/07/2021
 44;Loire-Atlantique;4401;Ancenis-Saint-Géréon;THOMINIAUX;Leïla-Roxanne;F;15/10/1990;37;Cadre administratif et commercial d'entreprise;01/07/2021;;
 44;Loire-Atlantique;4402;La Baule-Escoublac;GOSLIN-GUIHÉNEUF;Sylvie;F;04/04/1979;37;Cadre administratif et commercial d'entreprise;01/07/2021;;
 44;Loire-Atlantique;4402;La Baule-Escoublac;RAHER;Rémi;M;13/09/1984;35;Profession de l'information, des arts et des spectacles;01/07/2021;;
@@ -2028,7 +2025,7 @@ Code du département;Libellé du département;Code du canton;Libellé du canton;
 50;Manche;5020;Quettreville-Sur-Sienne;AGNES;Hervé;M;09/04/1967;56;Personnel des services directs aux particuliers;01/07/2021;;
 50;Manche;5020;Quettreville-Sur-Sienne;LEDOUX;Dany;F;06/06/1976;31;Profession libérale;01/07/2021;;
 50;Manche;5021;Saint-Hilaire-Du-Harcouët;BOUVET;Jacky;M;04/02/1965;48;Contremaître, agent de maîtrise;01/07/2021;1er Vice-président du conseil départemental;01/07/2021
-50;Manche;5021;Saint-Hilaire-Du-Harcouët;GRASSET-MAHIEU;Carine;F;20/07/1976;42;Professeur des écoles, instituteur et assimilé;01/07/2021;;
+50;Manche;5021;Saint-Hilaire-Du-Harcouët;GRASSET;Carine;F;20/07/1976;42;Professeur des écoles, instituteur et assimilé;01/07/2021;;
 50;Manche;5022;Saint-Lô-1;GOSSELIN;Philippe;M;23/10/1966;34;Professeur, profession scientifique;01/07/2021;;
 50;Manche;5022;Saint-Lô-1;HOMMET;Adèle;F;23/06/1985;22;Commerçant et assimilé;01/07/2021;8ème Vice-président du conseil départemental;01/07/2021
 50;Manche;5023;Saint-Lô-2;BOISGERAULT;Brigitte;F;04/07/1955;77;Ancien employé;01/07/2021;;
@@ -2421,10 +2418,10 @@ Code du département;Libellé du département;Code du canton;Libellé du canton;
 59;Nord;5929;Marly;DESCAMPS;Béatrice;F;24/04/1961;42;Professeur des écoles, instituteur et assimilé;01/07/2021;;
 59;Nord;5929;Marly;VERFAILLIE;Jean-Noël;M;13/10/1983;33;Cadre de la fonction publique;01/07/2021;;
 59;Nord;5930;Maubeuge;LEBLANC;Nicolas;M;14/10/1983;37;Cadre administratif et commercial d'entreprise;01/07/2021;;
-59;Nord;5930;Maubeuge;ROUSSELLE;Marie-Paule;F;02/06/1949;43;Profession intermédiaire de la santé et du travail social;01/07/2021;;
+59;Nord;5930;Maubeuge;ROUSSELLE-DUBOIS;Marie-Paule;F;02/06/1949;43;Profession intermédiaire de la santé et du travail social;01/07/2021;;
 59;Nord;5931;Orchies;DETAVERNIER;Jean Luc;M;12/12/1952;74;Ancien cadre;01/07/2021;3ème Vice-président du conseil départemental;01/07/2021
 59;Nord;5931;Orchies;QUATREBOEUFS-NIKLIKOWSKI;Marie-Hélène;F;12/12/1975;52;Employé civil et agent de service de la fonction publique;01/07/2021;;
-59;Nord;5932;Roubaix-1;PICK;Max-André;M;23/04/1958;37;Cadre administratif et commercial d'entreprise;01/07/2021;;
+59;Nord;5932;Roubaix-1;GACEM;Michel;M;03/11/1963;47;Technicien;04/12/2025;;
 59;Nord;5932;Roubaix-1;ZOUGGAGH;Karima;F;18/11/1978;37;Cadre administratif et commercial d'entreprise;01/07/2021;;
 59;Nord;5933;Roubaix-2;CAILLIERET;Benjamin;M;25/06/1994;54;Employé administratif d'entreprise;01/07/2021;;
 59;Nord;5933;Roubaix-2;FAHEM;Soraya;F;31/07/1968;33;Cadre de la fonction publique;01/07/2021;;
@@ -2499,7 +2496,7 @@ Code du département;Libellé du département;Code du canton;Libellé du canton;
 61;Orne;6106;Athis-Val de Rouvre;FROUEL;Marie-Françoise;F;02/10/1959;42;Professeur des écoles, instituteur et assimilé;01/07/2021;4ème Vice-président du conseil départemental;01/07/2021
 61;Orne;6106;Athis-Val de Rouvre;LANGE;Alain;M;10/06/1955;74;Ancien cadre;01/07/2021;;
 61;Orne;6107;Bagnoles de l'Orne Normandie;PETITJEAN;Olivier;M;12/04/1968;31;Profession libérale;01/07/2021;;
-61;Orne;6107;Bagnoles de l'Orne Normandie;SERAIS;Sylvie;F;22/06/1963;54;Employé administratif d'entreprise;01/07/2021;;
+61;Orne;6107;Bagnoles de l'Orne Normandie;SERAIS;Sylvie;F;22/09/1963;54;Employé administratif d'entreprise;01/07/2021;;
 61;Orne;6108;Bretoncelles;RADENAC;Christelle;F;01/04/1977;54;Employé administratif d'entreprise;01/07/2021;;
 61;Orne;6108;Bretoncelles;RODHAIN;Patrick;M;19/08/1966;37;Cadre administratif et commercial d'entreprise;01/07/2021;8ème Vice-président du conseil départemental;01/07/2021
 61;Orne;6109;Ceton;BRUNEAU;Anick;F;29/10/1951;74;Ancien cadre;01/07/2021;2ème Vice-président du conseil départemental;01/07/2021
@@ -2583,7 +2580,7 @@ Code du département;Libellé du département;Code du canton;Libellé du canton;
 62;Pas-De-Calais;6227;Hénin-Beaumont-1;POULAIN;Maryse;F;29/11/1951;77;Ancien employé;01/07/2021;;
 62;Pas-De-Calais;6227;Hénin-Beaumont-1;VIAL;François;M;02/03/1970;33;Cadre de la fonction publique;01/07/2021;;
 62;Pas-De-Calais;6228;Hénin-Beaumont-2;BRIOIS;Steeve;M;28/11/1972;33;Cadre de la fonction publique;01/07/2021;;
-62;Pas-De-Calais;6228;Hénin-Beaumont-2;LE PEN;Marine;F;05/08/1968;33;Cadre de la fonction publique;01/07/2021;;
+62;Pas-De-Calais;6228;Hénin-Beaumont-2;DUYME;Christiane;F;26/03/1947;77;Ancien employé;10/11/2025;;
 62;Pas-De-Calais;6229;Lens;AIT-CHIKHEBBIH;Fatima;F;16/07/1970;54;Employé administratif d'entreprise;01/07/2021;;
 62;Pas-De-Calais;6229;Lens;KRUSZKA;Daniel;M;13/09/1952;74;Ancien cadre;01/07/2021;;
 62;Pas-De-Calais;6230;Liévin;DUPORGE;Laurent;M;22/04/1968;33;Cadre de la fonction publique;01/07/2021;12ème Vice-président du conseil départemental;01/07/2021
@@ -2613,7 +2610,7 @@ Code du département;Libellé du département;Code du canton;Libellé du canton;
 63;Puy-De-Dôme;6303;Aubière;RIOL;Pierre;M;01/07/1957;31;Profession libérale;01/07/2021;9ème Vice-président du conseil départemental;01/07/2021
 63;Puy-De-Dôme;6303;Aubière;SZCZEPANIAK;Eléonore;F;29/05/1956;86;Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité);01/07/2021;4ème Vice-président du conseil départemental;01/07/2021
 63;Puy-De-Dôme;6304;Beaumont;CUZIN;Jean-Paul;M;14/02/1957;74;Ancien cadre;01/07/2021;1er Vice-président du conseil départemental;01/07/2021
-63;Puy-De-Dôme;6304;Beaumont;PICARD;Anne-Marie;F;20/05/1953;156;Autre profession (obsolète);01/07/2021;;
+63;Puy-De-Dôme;6304;Beaumont;PICARD;Anne-Marie;F;20/05/1953;85;Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité);01/07/2021;;
 63;Puy-De-Dôme;6305;Billom;GLACE LE GARS;Jocelyne;F;12/08/1954;75;Ancienne profession intermédiaire;01/07/2021;;
 63;Puy-De-Dôme;6305;Billom;GRAND;Jacky;M;29/03/1953;74;Ancien cadre;01/07/2021;;
 63;Puy-De-Dôme;6306;Brassac-Les-Mines;BESSEYRE;Fabien;M;06/05/1976;37;Cadre administratif et commercial d'entreprise;01/07/2021;;
@@ -2647,7 +2644,7 @@ Code du département;Libellé du département;Code du canton;Libellé du canton;
 63;Puy-De-Dôme;6320;Maringues;GOLD;Éric;M;07/06/1964;42;Professeur des écoles, instituteur et assimilé;01/07/2021;;
 63;Puy-De-Dôme;6320;Maringues;VIRLOGEUX;Alexandra;F;10/05/1974;52;Employé civil et agent de service de la fonction publique;01/07/2021;;
 63;Puy-De-Dôme;6321;Les Martres-De-Veyre;PETEL;Gilles;M;10/07/1956;34;Professeur, profession scientifique;01/07/2021;;
-63;Puy-De-Dôme;6321;Les Martres-De-Veyre;PHAM;Catherine;F;21/08/1954;120;Employé (secteur privé) (obsolète);01/07/2021;;
+63;Puy-De-Dôme;6321;Les Martres-De-Veyre;PHAM;Catherine;F;21/08/1954;46;Profession intermédiaire administrative et commerciale des entreprises;01/07/2021;;
 63;Puy-De-Dôme;6322;Les Monts Du Livradois;BURIAS;Aude;F;03/10/1982;34;Professeur, profession scientifique;01/07/2021;;
 63;Puy-De-Dôme;6322;Les Monts Du Livradois;DUBOURGNOUX;Eric;M;15/03/1959;77;Ancien employé;01/07/2021;;
 63;Puy-De-Dôme;6323;Orcines;BONY;Martine;F;18/04/1959;71;Ancien agriculteur exploitant;01/07/2021;2ème Vice-président du conseil départemental;01/07/2021
@@ -2722,10 +2719,10 @@ Code du département;Libellé du département;Code du canton;Libellé du canton;
 64;Pyrénées-Atlantiques;6426;Ustaritz-Vallées De Nive Et Nivelle;LUBERRIAGA;Bénédicte;F;22/07/1969;75;Ancienne profession intermédiaire;01/07/2021;;
 64;Pyrénées-Atlantiques;6427;Vallées De L'Ousse Et Du Lagoin;CABANNE;Marie-Pierre;F;08/07/1959;46;Profession intermédiaire administrative et commerciale des entreprises;01/07/2021;;
 64;Pyrénées-Atlantiques;6427;Vallées De L'Ousse Et Du Lagoin;MINVIELLE;Michel;M;31/10/1958;78;Ancien ouvrier;01/07/2021;;
+65;Hautes-Pyrénées;6501;Aureilhan;BARON;Marie-Paule;F;04/10/1959;77;Ancien employé;02/05/2025;;
 65;Hautes-Pyrénées;6501;Aureilhan;BOUBÉE;Yannick;M;04/12/1953;74;Ancien cadre;01/07/2021;;
-65;Hautes-Pyrénées;6501;Aureilhan;ISSON;Geneviève;F;14/07/1950;74;Ancien cadre;01/07/2021;;
 65;Hautes-Pyrénées;6502;Bordères-Sur-L'Echez;BURON;Jean;M;22/12/1948;74;Ancien cadre;01/07/2021;5ème Vice-président du conseil départemental;01/07/2021
-65;Hautes-Pyrénées;6502;Bordères-Sur-L'Echez;SOUQUET;Andrée;F;15/08/1948;78;Ancien ouvrier;01/07/2021;;
+65;Hautes-Pyrénées;6502;Bordères-Sur-L'Echez;LACROIX;Beatrice;F;04/10/1959;77;Ancien employé;02/09/2025;;
 65;Hautes-Pyrénées;6503;Les Coteaux;LAMON;Monique;F;10/08/1953;74;Ancien cadre;01/07/2021;9ème Vice-président du conseil départemental;01/07/2021
 65;Hautes-Pyrénées;6503;Les Coteaux;VERDIER;Bernard;M;25/05/1947;71;Ancien agriculteur exploitant;01/07/2021;3ème Vice-président du conseil départemental;01/07/2021
 65;Hautes-Pyrénées;6504;La Haute-Bigorre;BRAU-NOGUÉ;Pierre;M;20/12/1974;43;Profession intermédiaire de la santé et du travail social;01/07/2021;;
@@ -2967,7 +2964,6 @@ Code du département;Libellé du département;Code du canton;Libellé du canton;
 71;Saône-Et-Loire;7116;Gergy;DAMY-DECHAMBENOIT;Nathalie;F;04/10/1973;48;Contremaître, agent de maîtrise;01/07/2021;;
 71;Saône-Et-Loire;7116;Gergy;DUVERNOIS;Michel;M;01/03/1955;37;Cadre administratif et commercial d'entreprise;01/07/2021;;
 71;Saône-Et-Loire;7117;Givry;LANOISELET;Dominique;F;27/05/1954;75;Ancienne profession intermédiaire;01/07/2021;;
-71;Saône-Et-Loire;7117;Givry;MARTIN;Sébastien;M;24/11/1977;33;Cadre de la fonction publique;01/07/2021;1er Vice-président du conseil départemental;01/07/2021
 71;Saône-Et-Loire;7118;Gueugnon;GIEN;Chantal;F;28/09/1966;42;Professeur des écoles, instituteur et assimilé;01/07/2021;;
 71;Saône-Et-Loire;7118;Gueugnon;LOTTE;Dominique;M;22/06/1961;42;Professeur des écoles, instituteur et assimilé;01/07/2021;9ème Vice-président du conseil départemental;01/07/2021
 71;Saône-Et-Loire;7119;Hurigny;DESROCHES;Patrick;M;30/10/1966;38;Ingénieur et cadre technique d'entreprise;01/07/2021;;
@@ -3470,7 +3466,7 @@ Code du département;Libellé du département;Code du canton;Libellé du canton;
 84;Vaucluse;8402;Avignon-1;LOUARD;Léa;F;11/03/1962;31;Profession libérale;01/07/2021;;
 84;Vaucluse;8403;Avignon-2;LEFEVRE;Laurence;F;01/03/1961;86;Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité);01/07/2021;;
 84;Vaucluse;8403;Avignon-2;MARTINEZ-TOCABENS;Fabrice;M;07/10/1972;22;Commerçant et assimilé;01/07/2021;;
-84;Vaucluse;8404;Avignon-3;BLANC;Rémy;M;11/08/1982;149;Fonctionnaire de catégorie C (obsolète);01/07/2023;;
+84;Vaucluse;8404;Avignon-3;BLANC;Rémy;M;11/08/1982;52;Employé civil et agent de service de la fonction publique;01/07/2023;;
 84;Vaucluse;8404;Avignon-3;DUBOIS;Annick;F;12/12/1954;75;Ancienne profession intermédiaire;01/07/2021;;
 84;Vaucluse;8405;Bollène;LANTHELME;Christine;F;15/08/1958;21;Artisan;01/07/2021;;
 84;Vaucluse;8405;Bollène;ZILIO;Anthony;M;17/03/1985;31;Profession libérale;01/07/2021;;
@@ -3489,7 +3485,7 @@ Code du département;Libellé du département;Code du canton;Libellé du canton;
 84;Vaucluse;8412;Pernes-Les-Fontaines;RASPAIL;Max;M;08/10/1948;71;Ancien agriculteur exploitant;01/07/2021;;
 84;Vaucluse;8412;Pernes-Les-Fontaines;SILEM;Myriam;F;01/02/1967;31;Profession libérale;01/07/2021;;
 84;Vaucluse;8413;Pertuis;LOVISOLO;Jean-François;M;15/11/1968;85;Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité);01/07/2021;;
-84;Vaucluse;8413;Pertuis;TRINQUIER;Noëlle;F;14/12/1954;144;Profession rattachée à enseignt. (obsolète);01/07/2021;;
+84;Vaucluse;8413;Pertuis;TRINQUIER;Noëlle;F;14/12/1954;42;Professeur des écoles, instituteur et assimilé;01/07/2021;;
 84;Vaucluse;8414;Le Pontet;BRUN;Danielle;F;18/10/1956;72;Ancien artisan, commerçant, chef d'entreprise;01/07/2021;;
 84;Vaucluse;8414;Le Pontet;HUMBERT;Nicolas;M;10/11/1999;38;Ingénieur et cadre technique d'entreprise;30/08/2022;;
 84;Vaucluse;8415;Sorgues;JABLONSKI-CASTANIER;Christelle;F;08/09/1983;37;Cadre administratif et commercial d'entreprise;01/07/2021;8ème Vice-président du conseil départemental;01/07/2021
@@ -3521,7 +3517,7 @@ Code du département;Libellé du département;Code du canton;Libellé du canton;
 85;Vendée;8512;La Roche-Sur-Yon-1;FAVREAU;Laurent;M;11/02/1975;12;Agriculteur sur moyenne exploitation;01/07/2021;3ème Vice-président du conseil départemental;01/07/2021
 85;Vendée;8513;La Roche-Sur-Yon-2;BOUARD;Luc;M;25/03/1961;31;Profession libérale;01/07/2021;;
 85;Vendée;8513;La Roche-Sur-Yon-2;RAMBAUD-BOSSARD;Christine;F;20/07/1976;23;Chef d'entreprise de 10 salariés ou plus;01/07/2021;;
-85;Vendée;8514;Les Sables-D'Olonne;CHENECHAUD;Nicolas;M;16/07/1982;33;Cadre de la fonction publique;01/07/2021;;
+85;Vendée;8514;Les Sables-D'Olonne;CHENECHAUD;Nicolas;M;16/07/1982;37;Cadre administratif et commercial d'entreprise;01/07/2021;;
 85;Vendée;8514;Les Sables-D'Olonne;PINEAU;Florence;F;03/06/1966;85;Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité);01/07/2021;6ème Vice-président du conseil départemental;01/07/2021
 85;Vendée;8515;Saint-Hilaire-De-Riez;DURANTEAU;Isabelle;F;10/08/1966;21;Artisan;01/07/2021;Président de commission du conseil départemental;01/07/2021
 85;Vendée;8515;Saint-Hilaire-De-Riez;PERROCHEAU;Thomas;M;02/05/1984;31;Profession libérale;01/07/2021;;
@@ -3697,7 +3693,7 @@ Code du département;Libellé du département;Code du canton;Libellé du canton;
 90;Territoire De Belfort;9005;Châtenois-Les-Forges;MORALLET;Maryline;F;26/03/1967;54;Employé administratif d'entreprise;01/07/2021;;
 90;Territoire De Belfort;9006;Delle;MONNIER VON AESCH;Anaïs;F;18/06/1990;54;Employé administratif d'entreprise;01/07/2021;5ème Vice-président du conseil départemental;01/07/2021
 90;Territoire De Belfort;9006;Delle;PERRIN;Cédric;M;20/01/1974;37;Cadre administratif et commercial d'entreprise;01/07/2021;;
-90;Territoire De Belfort;9007;Giromagny;MEYNIEL;Françoise;F;01/04/1973;124;Médecin (obsolète);07/03/2022;;
+90;Territoire De Belfort;9007;Giromagny;MEYNIEL;Françoise;F;01/04/1973;31;Profession libérale;07/03/2022;;
 90;Territoire De Belfort;9007;Giromagny;VALLVERDU;Didier;M;19/07/1973;34;Professeur, profession scientifique;01/07/2021;2ème Vice-président du conseil départemental;01/07/2021
 90;Territoire De Belfort;9008;Grandvillars;MOUGIN;Isabelle;F;08/07/1961;33;Cadre de la fonction publique;01/07/2021;;
 90;Territoire De Belfort;9008;Grandvillars;RAYOT;Christian;M;01/03/1953;72;Ancien artisan, commerçant, chef d'entreprise;01/07/2021;;
@@ -3792,17 +3788,16 @@ Code du département;Libellé du département;Code du canton;Libellé du canton;
 92;Hauts-De-Seine;9223;Saint-Cloud;BERDOATI;Eric;M;09/05/1964;23;Chef d'entreprise de 10 salariés ou plus;01/07/2021;7ème Vice-président du conseil départemental;01/07/2021
 93;Seine-Saint-Denis;9301;Aubervilliers;FRANCLET;Karine;F;13/12/1981;33;Cadre de la fonction publique;01/07/2021;;
 93;Seine-Saint-Denis;9301;Aubervilliers;MARTIN;Samuel;M;11/07/1983;22;Commerçant et assimilé;01/07/2021;;
-93;Seine-Saint-Denis;9302;Aulnay-Sous-Bois;CANNAROZZO;Frank;M;30/05/1967;156;Autre profession (obsolète);01/07/2021;;
+93;Seine-Saint-Denis;9302;Aulnay-Sous-Bois;CANNAROZZO;Frank;M;30/05/1967;85;Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité);01/07/2021;;
 93;Seine-Saint-Denis;9302;Aulnay-Sous-Bois;MAROUN;Séverine;F;11/10/1971;33;Cadre de la fonction publique;01/07/2021;;
 93;Seine-Saint-Denis;9303;Bagnolet;GIRARDET;Elodie;F;25/06/1976;43;Profession intermédiaire de la santé et du travail social;01/07/2021;;
 93;Seine-Saint-Denis;9303;Bagnolet;GUIRAUD;Daniel;M;03/05/1958;33;Cadre de la fonction publique;01/07/2021;1er Vice-président du conseil départemental;01/07/2021
 93;Seine-Saint-Denis;9304;Le Blanc-Mesnil;MONANY;Vijay;M;14/12/1981;33;Cadre de la fonction publique;01/07/2021;;
 93;Seine-Saint-Denis;9304;Le Blanc-Mesnil;SEGURA;Angela;F;06/06/1989;37;Cadre administratif et commercial d'entreprise;01/07/2021;;
-93;Seine-Saint-Denis;9305;Bobigny;LABBE;Pascale;F;06/09/1968;120;Employé (secteur privé) (obsolète);01/07/2021;2ème Vice-président du conseil départemental;01/07/2021
+93;Seine-Saint-Denis;9305;Bobigny;LABBE;Pascale;F;06/09/1968;46;Profession intermédiaire administrative et commerciale des entreprises;01/07/2021;2ème Vice-président du conseil départemental;01/07/2021
 93;Seine-Saint-Denis;9305;Bobigny;SADI;Abdel;M;11/02/1962;43;Profession intermédiaire de la santé et du travail social;01/07/2021;;
 93;Seine-Saint-Denis;9306;Bondy;DALLIER;Philippe;M;08/12/1962;38;Ingénieur et cadre technique d'entreprise;01/07/2021;;
 93;Seine-Saint-Denis;9306;Bondy;PIERRE;Oldhynn;F;28/01/1984;31;Profession libérale;01/07/2021;;
-93;Seine-Saint-Denis;9307;La Courneuve;SAID ANZUM;Zaïnaba;F;28/04/1980;37;Cadre administratif et commercial d'entreprise;01/07/2021;;
 93;Seine-Saint-Denis;9307;La Courneuve;TROUSSEL;Stéphane;M;07/04/1970;33;Cadre de la fonction publique;01/07/2021;Président du conseil départemental;01/07/2021
 93;Seine-Saint-Denis;9308;Drancy;CHABANI;Hamid;M;25/03/1983;34;Professeur, profession scientifique;01/07/2021;;
 93;Seine-Saint-Denis;9308;Drancy;LAGARDE;Aude;F;15/05/1976;37;Cadre administratif et commercial d'entreprise;01/07/2021;;
@@ -3814,7 +3809,7 @@ Code du département;Libellé du département;Code du canton;Libellé du canton;
 93;Seine-Saint-Denis;9311;Livry-Gargan;PAUL;Sylvie;F;28/03/1971;37;Cadre administratif et commercial d'entreprise;01/07/2021;;
 93;Seine-Saint-Denis;9312;Montreuil-1;MOLOSSI;Frédéric;M;07/03/1968;74;Ancien cadre;01/07/2021;;
 93;Seine-Saint-Denis;9312;Montreuil-1;THIBAULT;Magalie;F;25/01/1988;37;Cadre administratif et commercial d'entreprise;01/07/2021;10ème Vice-président du conseil départemental;01/07/2021
-93;Seine-Saint-Denis;9313;Montreuil-2;BEDREDDINE;Belaïde;M;04/02/1971;119;Autre cadre (secteur privé) (obsolète);01/07/2021;5ème Vice-président du conseil départemental;01/07/2021
+93;Seine-Saint-Denis;9313;Montreuil-2;BEDREDDINE;Belaïde;M;04/02/1971;37;Cadre administratif et commercial d'entreprise;01/07/2021;5ème Vice-président du conseil départemental;01/07/2021
 93;Seine-Saint-Denis;9313;Montreuil-2;CHAUMILLON;Tessa;F;08/07/1985;34;Professeur, profession scientifique;01/07/2021;;
 93;Seine-Saint-Denis;9314;Noisy-Le-Grand;CONSTANT;Emmanuel;M;17/03/1968;33;Cadre de la fonction publique;01/07/2021;7ème Vice-président du conseil départemental;01/07/2021
 93;Seine-Saint-Denis;9314;Noisy-Le-Grand;DENIS;Frédérique;F;28/07/1957;74;Ancien cadre;01/07/2021;;
@@ -3858,7 +3853,7 @@ Code du département;Libellé du département;Code du canton;Libellé du canton;
 94;Val-De-Marne;9412;Le Kremlin-Bicêtre;TRAORÉ;Ibrahima;M;23/05/1975;52;Employé civil et agent de service de la fonction publique;01/07/2021;;
 94;Val-De-Marne;9413;Maisons-Alfort;CAPITANIO;Olivier;M;26/06/1968;85;Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité);01/07/2021;Président du conseil départemental;01/07/2021
 94;Val-De-Marne;9413;Maisons-Alfort;PARRAIN;Marie France;F;17/03/1952;74;Ancien cadre;01/07/2021;;
-94;Val-De-Marne;9414;Nogent-Sur-Marne;BAZIN;Paul;M;04/09/1985;33;Cadre de la fonction publique;01/07/2021;1er Vice-président du conseil départemental;01/07/2021
+94;Val-De-Marne;9414;Nogent-Sur-Marne;BERRUEZO;Thomas;M;24/05/1984;34;Professeur, profession scientifique;01/12/2025;1er Vice-président du conseil départemental;01/12/2025
 94;Val-De-Marne;9414;Nogent-Sur-Marne;MÜNZER;Déborah;F;31/12/1979;37;Cadre administratif et commercial d'entreprise;01/07/2021;10ème Vice-président du conseil départemental;01/07/2021
 94;Val-De-Marne;9415;Orly;GUÉRIN;Daniel;M;01/07/1963;37;Cadre administratif et commercial d'entreprise;01/07/2021;;
 94;Val-De-Marne;9416;Plateau Briard;BASTIER;Karine;F;19/01/1970;45;Profession intermédiaire administrative de la fonction publique;01/07/2021;;
@@ -3935,7 +3930,7 @@ Code du département;Libellé du département;Code du canton;Libellé du canton;
 971;Guadeloupe;97105;Baie-Mahault-2;ROGER;Sabrina;F;05/01/1979;34;Professeur, profession scientifique;06/12/2021;;
 971;Guadeloupe;97106;Basse-Terre;CALIFER;Elie;M;19/04/1954;74;Ancien cadre;01/07/2021;;
 971;Guadeloupe;97106;Basse-Terre;RODES;Brigitte;F;14/06/1960;31;Profession libérale;01/07/2021;;
-971;Guadeloupe;97107;Capesterre-Belle-Eau;COURTOIS;Jean-Philippe;M;02/11/1984;119;Autre cadre (secteur privé) (obsolète);01/07/2021;1er Vice-président du conseil départemental;01/07/2021
+971;Guadeloupe;97107;Capesterre-Belle-Eau;COURTOIS;Jean-Philippe;M;02/11/1984;37;Cadre administratif et commercial d'entreprise;01/07/2021;1er Vice-président du conseil départemental;01/07/2021
 971;Guadeloupe;97107;Capesterre-Belle-Eau;MINATCHY;Danielle France-Lyse;F;11/12/1964;45;Profession intermédiaire administrative de la fonction publique;01/07/2021;;
 971;Guadeloupe;97108;Le Gosier;JOAB;Catherine;F;02/06/1971;85;Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité);01/07/2021;;
 971;Guadeloupe;97108;Le Gosier;PIERRE-JUSTIN;Patrice;M;05/05/1972;33;Cadre de la fonction publique;01/07/2021;;
@@ -3945,7 +3940,7 @@ Code du département;Libellé du département;Code du canton;Libellé du canton;
 971;Guadeloupe;97110;Marie-Galante;MAES;Jean-Claude;M;16/02/1955;77;Ancien employé;01/07/2021;;
 971;Guadeloupe;97111;Le Moule;DULAC;Daniel;M;08/10/1946;34;Professeur, profession scientifique;01/07/2021;;
 971;Guadeloupe;97111;Le Moule;LOUIS CARABIN;Gabrielle;F;20/02/1946;77;Ancien employé;01/07/2021;4ème Vice-président du conseil départemental;01/07/2021
-971;Guadeloupe;97112;Morne-À-L'Eau;DARTRON;Jean;M;24/12/1956;162;Retraité de l'enseignement (obsolète);01/07/2021;11ème Vice-président du conseil départemental;01/07/2021
+971;Guadeloupe;97112;Morne-À-L'Eau;DARTRON;Jean;M;24/12/1956;74;Ancien cadre;01/07/2021;11ème Vice-président du conseil départemental;01/07/2021
 971;Guadeloupe;97112;Morne-À-L'Eau;NEGRIT;Nadia;F;23/03/1969;33;Cadre de la fonction publique;01/07/2021;;
 971;Guadeloupe;97113;Petit-Bourg;LOUISY;Ferdy;M;10/12/1961;31;Profession libérale;01/07/2021;5ème Vice-président du conseil départemental;01/07/2021
 971;Guadeloupe;97113;Petit-Bourg;UNIMON;Jocelyne;F;07/04/1955;77;Ancien employé;01/07/2021;;

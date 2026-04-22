@@ -23,7 +23,7 @@ Code de la région;Libellé de la région;Code de la section départementale;Lib
 01;Guadeloupe;971;Guadeloupe;LUREL;Victorin;M;20/08/1951;74;Ancien cadre;02/07/2021;;
 01;Guadeloupe;971;Guadeloupe;MARCIN;Magaly;F;12/06/1981;38;Ingénieur et cadre technique d'entreprise;02/07/2021;;
 01;Guadeloupe;971;Guadeloupe;MARTOL;Loïc;M;15/05/1979;38;Ingénieur et cadre technique d'entreprise;02/07/2021;;
-01;Guadeloupe;971;Guadeloupe;MATHURIN VANOUKIA;Sylvie;F;07/02/1958;119;Autre cadre (secteur privé) (obsolète);02/07/2021;;
+01;Guadeloupe;971;Guadeloupe;MATHURIN VANOUKIA;Sylvie;F;07/02/1958;37;Cadre administratif et commercial d'entreprise;02/07/2021;;
 01;Guadeloupe;971;Guadeloupe;MONTOUT;David;M;22/05/1967;45;Profession intermédiaire administrative de la fonction publique;02/07/2021;;
 01;Guadeloupe;971;Guadeloupe;NAIGRE;Géraldine;F;09/12/1976;45;Profession intermédiaire administrative de la fonction publique;02/07/2021;;
 01;Guadeloupe;971;Guadeloupe;NELSON;Jean-Claude;M;26/10/1957;77;Ancien employé;02/07/2021;9ème Vice-président du conseil régional;02/07/2021
@@ -33,7 +33,7 @@ Code de la région;Libellé de la région;Code de la section départementale;Lib
 01;Guadeloupe;971;Guadeloupe;PIERROT;Marcelle;F;20/12/1949;74;Ancien cadre;02/07/2021;;
 01;Guadeloupe;971;Guadeloupe;PILLI;Jean-Marie;M;16/12/1963;85;Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité);02/07/2021;;
 01;Guadeloupe;971;Guadeloupe;REINE;Sheila Moréna;F;08/08/1976;37;Cadre administratif et commercial d'entreprise;02/07/2021;;
-01;Guadeloupe;971;Guadeloupe;SAMUEL;Valérie Estelle;F;10/05/1981;156;Autre profession (obsolète);02/07/2021;;
+01;Guadeloupe;971;Guadeloupe;SAMUEL;Valérie Estelle;F;10/05/1981;85;Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité);02/07/2021;;
 01;Guadeloupe;971;Guadeloupe;SELLIN;Patrick;M;13/08/1960;12;Agriculteur sur moyenne exploitation;02/07/2021;;
 01;Guadeloupe;971;Guadeloupe;TAILLEPIERRE;Sonia;F;12/06/1969;52;Employé civil et agent de service de la fonction publique;02/07/2021;;
 01;Guadeloupe;971;Guadeloupe;THURAM-ULIEN ANNE-MARIE;Bernadette Colette;F;08/12/1953;74;Ancien cadre;02/07/2021;;
@@ -64,7 +64,7 @@ Code de la région;Libellé de la région;Code de la section départementale;Lib
 04;La Réunion;974;La Réunion;LOCAME VAISSETTE;Patricia;F;22/06/1975;22;Commerçant et assimilé;02/07/2021;;
 04;La Réunion;974;La Réunion;MAILLOT;Frédéric;M;15/11/1986;56;Personnel des services directs aux particuliers;02/07/2021;;
 04;La Réunion;974;La Réunion;MARATCHIA;Jean-Bernard;M;27/11/1962;11;Agriculteur sur petite exploitation;02/07/2021;;
-04;La Réunion;974;La Réunion;MOREL;Jean-Jacques;M;21/05/1963;129;Avocat (obsolète);02/07/2021;;
+04;La Réunion;974;La Réunion;MOREL;Jean-Jacques;M;21/05/1963;31;Profession libérale;02/07/2021;;
 04;La Réunion;974;La Réunion;NABENESA;Karine;F;11/10/1976;33;Cadre de la fonction publique;02/07/2021;4ème Vice-président du conseil régional;02/07/2021
 04;La Réunion;974;La Réunion;NATIVEL;Lorraine;F;27/07/1964;42;Professeur des écoles, instituteur et assimilé;02/07/2021;2ème Vice-président du conseil régional;02/07/2021
 04;La Réunion;974;La Réunion;NIRLO;Richard;M;12/06/1949;74;Ancien cadre;02/07/2021;;
@@ -84,7 +84,7 @@ Code de la région;Libellé de la région;Code de la section départementale;Lib
 04;La Réunion;974;La Réunion;VERGOZ;Michel;M;10/01/1950;31;Profession libérale;02/07/2021;;
 04;La Réunion;974;La Réunion;VIENNE;Axel;M;04/01/1956;86;Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité);02/07/2021;;
 11;Île-De-France;75;Paris;ABEILLE;Laurence;F;17/06/1960;35;Profession de l'information, des arts et des spectacles;02/07/2021;;
-11;Île-De-France;75;Paris;ANSEL;Maxence;F;25/04/1974;137;Journaliste et autre média (obsolète);07/10/2023;;
+11;Île-De-France;75;Paris;ANSEL;Maxence;F;25/04/1974;35;Profession de l'information, des arts et des spectacles;07/10/2023;;
 11;Île-De-France;75;Paris;BARGETON;Julien;M;29/03/1973;33;Cadre de la fonction publique;02/07/2021;;
 11;Île-De-France;75;Paris;BATY;Pierre-Jean;M;31/01/1992;37;Cadre administratif et commercial d'entreprise;02/07/2021;;
 11;Île-De-France;75;Paris;BLOCH;Gypsie;F;30/04/1972;37;Cadre administratif et commercial d'entreprise;02/07/2021;;
@@ -139,7 +139,6 @@ Code de la région;Libellé de la région;Code de la section départementale;Lib
 11;Île-De-France;77;Seine-Et-Marne;DURAND;Jean-Louis;M;01/04/1961;33;Cadre de la fonction publique;02/07/2021;;
 11;Île-De-France;77;Seine-Et-Marne;DUROX;Aymeric;M;06/08/1985;34;Professeur, profession scientifique;02/07/2021;;
 11;Île-De-France;77;Seine-Et-Marne;JEUNEMAÎTRE;Eric;M;28/05/1956;12;Agriculteur sur moyenne exploitation;02/07/2021;;
-11;Île-De-France;77;Seine-Et-Marne;JURAVER;Philippe;M;17/12/1959;78;Ancien ouvrier;02/07/2021;;
 11;Île-De-France;77;Seine-Et-Marne;LACROUTE;Valérie;F;29/10/1965;33;Cadre de la fonction publique;02/07/2021;;
 11;Île-De-France;77;Seine-Et-Marne;LE MEUR;Stéphanie;F;02/01/1974;45;Profession intermédiaire administrative de la fonction publique;02/07/2021;;
 11;Île-De-France;77;Seine-Et-Marne;MEURICE;Fabienne;F;18/11/1975;22;Commerçant et assimilé;01/11/2022;;
@@ -165,7 +164,7 @@ Code de la région;Libellé de la région;Code de la section départementale;Lib
 11;Île-De-France;78;Yvelines;DUCROHET;Élodie;F;20/06/1983;33;Cadre de la fonction publique;02/07/2021;;
 11;Île-De-France;78;Yvelines;FOUCHÉ;Huguette;F;07/12/1951;74;Ancien cadre;02/07/2021;;
 11;Île-De-France;78;Yvelines;GARNIER;Julie;F;12/08/1983;45;Profession intermédiaire administrative de la fonction publique;02/07/2021;;
-11;Île-De-France;78;Yvelines;GOURLAN;Thomas;M;07/01/1973;118;Cadre supérieur (secteur privé) (obsolète);02/07/2021;;
+11;Île-De-France;78;Yvelines;GOURLAN;Thomas;M;07/01/1973;37;Cadre administratif et commercial d'entreprise;02/07/2021;;
 11;Île-De-France;78;Yvelines;GRANDGAMBE;Sandrine;F;06/01/1971;34;Professeur, profession scientifique;27/11/2023;;
 11;Île-De-France;78;Yvelines;HABERT-DUPUIS;Sylvie;F;16/04/1962;85;Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité);02/07/2021;;
 11;Île-De-France;78;Yvelines;HAMON;Benoît;M;26/06/1967;37;Cadre administratif et commercial d'entreprise;02/07/2021;;
@@ -207,10 +206,10 @@ Code de la région;Libellé de la région;Code de la section départementale;Lib
 11;Île-De-France;92;Hauts-De-Seine;AZZAZ;Nadège;F;16/09/1981;33;Cadre de la fonction publique;02/07/2021;;
 11;Île-De-France;92;Hauts-De-Seine;BAELDE;Charlotte;F;06/10/1988;37;Cadre administratif et commercial d'entreprise;02/07/2021;;
 11;Île-De-France;92;Hauts-De-Seine;BOUZID;Élodie;F;03/06/2002;84;Elève, étudiant;02/07/2021;;
+11;Île-De-France;92;Hauts-De-Seine;COCHEPAIN;Stéphane;M;22/11/1968;37;Cadre administratif et commercial d'entreprise;13/01/2025;;
 11;Île-De-France;92;Hauts-De-Seine;CUIP;Mathieu;M;20/05/1989;37;Cadre administratif et commercial d'entreprise;02/07/2021;;
 11;Île-De-France;92;Hauts-De-Seine;DE LARMINAT;Ségolène;F;12/07/1978;42;Professeur des écoles, instituteur et assimilé;30/06/2022;;
 11;Île-De-France;92;Hauts-De-Seine;DE PAMPELONNE;Florence;F;07/04/1962;85;Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité);02/07/2021;;
-11;Île-De-France;92;Hauts-De-Seine;DE SAINT JUST;Wallerand;M;06/07/1950;74;Ancien cadre;02/07/2021;;
 11;Île-De-France;92;Hauts-De-Seine;DENIZIOT;Pierre;M;19/09/1981;33;Cadre de la fonction publique;02/07/2021;;
 11;Île-De-France;92;Hauts-De-Seine;DESCHIENS;Sophie;F;06/04/1962;23;Chef d'entreprise de 10 salariés ou plus;02/07/2021;;
 11;Île-De-France;92;Hauts-De-Seine;DIDIER;Geoffroy;M;12/04/1976;31;Profession libérale;02/07/2021;;
@@ -236,11 +235,12 @@ Code de la région;Libellé de la région;Code de la section départementale;Lib
 11;Île-De-France;92;Hauts-De-Seine;SEGAUD;Carl;M;07/04/1973;33;Cadre de la fonction publique;02/07/2021;;
 11;Île-De-France;92;Hauts-De-Seine;SOLERE;Thierry;M;17/08/1971;33;Cadre de la fonction publique;02/07/2021;;
 11;Île-De-France;92;Hauts-De-Seine;TAQUILLAIN;Aurélie;F;19/08/1983;33;Cadre de la fonction publique;02/07/2021;;
+11;Île-De-France;92;Hauts-De-Seine;TERCHI;Aïssa;M;05/08/1978;33;Cadre de la fonction publique;13/11/2025;;
 11;Île-De-France;93;Seine-Saint-Denis;ADLANI;Farida;F;11/03/1976;43;Profession intermédiaire de la santé et du travail social;02/07/2021;7ème Vice-président du conseil régional;02/07/2021
 11;Île-De-France;93;Seine-Saint-Denis;BESCHIZZA;Bruno;M;24/03/1968;33;Cadre de la fonction publique;02/07/2021;;
 11;Île-De-France;93;Seine-Saint-Denis;BOURREAU;Murielle;F;15/10/1977;22;Commerçant et assimilé;02/07/2021;;
 11;Île-De-France;93;Seine-Saint-Denis;CARVALHINHO;Geoffrey;M;11/01/1990;33;Cadre de la fonction publique;02/07/2021;;
-11;Île-De-France;93;Seine-Saint-Denis;CASALASPRO;Muriel;F;05/01/1971;;Non Connu;26/01/2023;;
+11;Île-De-France;93;Seine-Saint-Denis;CASALASPRO;Muriel;F;05/01/1971;85;Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité);26/01/2023;;
 11;Île-De-France;93;Seine-Saint-Denis;CERRIGONE;Christine;F;21/09/1966;33;Cadre de la fonction publique;02/07/2021;;
 11;Île-De-France;93;Seine-Saint-Denis;CHIBANE;Kader;M;02/01/1971;37;Cadre administratif et commercial d'entreprise;02/07/2021;;
 11;Île-De-France;93;Seine-Saint-Denis;DELACROIX;Adrien;M;15/01/1981;37;Cadre administratif et commercial d'entreprise;02/07/2021;;
@@ -257,7 +257,7 @@ Code de la région;Libellé de la région;Code de la section départementale;Lib
 11;Île-De-France;94;Val-De-Marne;CAMARA;Yasmine;F;05/12/1982;85;Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité);02/07/2021;;
 11;Île-De-France;94;Val-De-Marne;CLAUDE;Jessie;F;20/05/1992;37;Cadre administratif et commercial d'entreprise;02/07/2021;;
 11;Île-De-France;94;Val-De-Marne;DE COMARMOND;Hélène;F;15/03/1964;33;Cadre de la fonction publique;02/07/2021;;
-11;Île-De-France;94;Val-De-Marne;DE FREITAS;Gorete;F;05/09/1980;120;Employé (secteur privé) (obsolète);01/08/2024;;
+11;Île-De-France;94;Val-De-Marne;DE FREITAS;Gorete;F;05/09/1980;46;Profession intermédiaire administrative et commerciale des entreprises;01/08/2024;;
 11;Île-De-France;94;Val-De-Marne;DIRRINGER;Marie Christine;F;17/06/1957;23;Chef d'entreprise de 10 salariés ou plus;05/09/2022;;
 11;Île-De-France;94;Val-De-Marne;DOSNE;Olivier;M;20/01/1961;31;Profession libérale;02/07/2021;;
 11;Île-De-France;94;Val-De-Marne;GERGEN;Colette;F;10/03/1981;34;Professeur, profession scientifique;02/07/2021;;
@@ -295,7 +295,7 @@ Code de la région;Libellé de la région;Code de la section départementale;Lib
 24;Centre-Val De Loire;18;Cher;CHAMPION;Jacqueline;F;30/04/1968;34;Professeur, profession scientifique;31/07/2023;;
 24;Centre-Val De Loire;18;Cher;COQUIN;Christophe;M;02/12/1959;47;Technicien;02/07/2021;;
 24;Centre-Val De Loire;18;Cher;DE LA TOCNAYE;Thibaut;M;20/10/1958;23;Chef d'entreprise de 10 salariés ou plus;02/07/2021;;
-24;Centre-Val De Loire;18;Cher;ESSAYAN;Nadia;F;06/06/1957;119;Autre cadre (secteur privé) (obsolète);07/07/2021;;
+24;Centre-Val De Loire;18;Cher;ESSAYAN;Nadia;F;06/06/1957;37;Cadre administratif et commercial d'entreprise;07/07/2021;;
 24;Centre-Val De Loire;18;Cher;FERRON;Julie;F;09/07/1979;46;Profession intermédiaire administrative et commerciale des entreprises;02/07/2021;;
 24;Centre-Val De Loire;18;Cher;FOURNIÉ;Philippe;M;09/11/1967;33;Cadre de la fonction publique;02/07/2021;13ème Vice-président du conseil régional;02/07/2022
 24;Centre-Val De Loire;18;Cher;LOUISIN;Ambre;F;02/06/1999;84;Elève, étudiant;02/07/2021;;
@@ -506,11 +506,10 @@ Code de la région;Libellé de la région;Code de la section départementale;Lib
 28;Normandie;27;Eure;SEGUELA;Martine;F;09/11/1961;34;Professeur, profession scientifique;02/07/2021;;
 28;Normandie;27;Eure;TREMEL;Emmanuelle;F;25/01/1979;45;Profession intermédiaire administrative de la fonction publique;02/07/2021;;
 28;Normandie;27;Eure;VEYRI;Timour;M;07/08/1981;33;Cadre de la fonction publique;02/07/2021;;
-28;Normandie;50;Manche;BARENTON-GUILLAS;Julie;F;14/04/1975;106;Administrateur de sociétés (obsolète);02/07/2021;9ème Vice-président du conseil régional;02/07/2021
+28;Normandie;50;Manche;BARENTON-GUILLAS;Julie;F;14/04/1975;23;Chef d'entreprise de 10 salariés ou plus;02/07/2021;9ème Vice-président du conseil régional;02/07/2021
 28;Normandie;50;Manche;FERREIRA;Angélique;F;29/06/1975;22;Commerçant et assimilé;02/07/2021;;
 28;Normandie;50;Manche;HÉDOUIN;Guillaume;M;18/03/1976;33;Cadre de la fonction publique;02/07/2021;;
 28;Normandie;50;Manche;JEAN;Antoine;M;25/09/1992;46;Profession intermédiaire administrative et commerciale des entreprises;02/07/2021;;
-28;Normandie;50;Manche;KURDZIEL;Marie-Françoise;F;26/01/1958;77;Ancien employé;02/07/2021;;
 28;Normandie;50;Manche;LAGALLARDE;Quentin;M;18/02/1983;31;Profession libérale;15/07/2022;;
 28;Normandie;50;Manche;LAISNEY;Valérie;F;05/02/1966;37;Cadre administratif et commercial d'entreprise;02/07/2021;;
 28;Normandie;50;Manche;LETOUZÉ;Sylvain;M;20/12/1979;37;Cadre administratif et commercial d'entreprise;02/07/2021;;
@@ -596,14 +595,13 @@ Code de la région;Libellé de la région;Code de la section départementale;Lib
 32;Hauts-De-France;59;Nord;BRUNET;Sylvaine;F;30/06/1972;23;Chef d'entreprise de 10 salariés ou plus;02/07/2021;;
 32;Hauts-De-France;59;Nord;CABAYE;Maxime;M;27/04/1977;37;Cadre administratif et commercial d'entreprise;02/07/2021;;
 32;Hauts-De-France;59;Nord;CAMBIER;Guislain;M;18/07/1971;33;Cadre de la fonction publique;02/07/2021;;
-32;Hauts-De-France;59;Nord;CARLIER;Maryse;F;29/05/1957;119;Autre cadre (secteur privé) (obsolète);19/11/2024;;
+32;Hauts-De-France;59;Nord;CARLIER;Maryse;F;29/05/1957;37;Cadre administratif et commercial d'entreprise;19/11/2024;;
 32;Hauts-De-France;59;Nord;CHENU;Sébastien;M;13/04/1973;33;Cadre de la fonction publique;02/07/2021;;
 32;Hauts-De-France;59;Nord;COLSON;Aurore;F;19/04/1975;45;Profession intermédiaire administrative de la fonction publique;02/07/2021;;
 32;Hauts-De-France;59;Nord;DE RIGNE;Arnaud;M;01/02/1996;45;Profession intermédiaire administrative de la fonction publique;03/07/2024;;
 32;Hauts-De-France;59;Nord;DE TEMMERMAN;Jennifer;F;16/02/1977;33;Cadre de la fonction publique;02/07/2021;;
 32;Hauts-De-France;59;Nord;DECAGNY;Arnaud;M;30/09/1972;37;Cadre administratif et commercial d'entreprise;02/07/2021;12ème Vice-président du conseil régional;02/07/2021
 32;Hauts-De-France;59;Nord;DELANNOY;Sandra;F;01/05/1974;21;Artisan;02/07/2021;;
-32;Hauts-De-France;59;Nord;DELBAR;Guillaume;M;17/05/1971;85;Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité);02/07/2021;;
 32;Hauts-De-France;59;Nord;DELEBARRE;Christelle;F;04/08/1974;45;Profession intermédiaire administrative de la fonction publique;02/07/2021;;
 32;Hauts-De-France;59;Nord;DELEFORTRIE;Christine;F;02/06/1966;11;Agriculteur sur petite exploitation;02/07/2021;;
 32;Hauts-De-France;59;Nord;DELLI;Karima;F;04/03/1979;33;Cadre de la fonction publique;02/07/2021;;
@@ -634,6 +632,7 @@ Code de la région;Libellé de la région;Code de la section départementale;Lib
 32;Hauts-De-France;59;Nord;MICHALAK;Jean-Michel;M;04/08/1971;33;Cadre de la fonction publique;02/07/2021;;
 32;Hauts-De-France;59;Nord;MOTTE;Frédéric;M;31/07/1964;23;Chef d'entreprise de 10 salariés ou plus;02/07/2021;;
 32;Hauts-De-France;59;Nord;NAVE;Adrien;M;25/10/1991;31;Profession libérale;02/07/2021;;
+32;Hauts-De-France;59;Nord;NIHOUS;Frédéric;M;15/08/1967;33;Cadre de la fonction publique;05/12/2025;;
 32;Hauts-De-France;59;Nord;PEN;Loïc;M;29/12/1968;33;Cadre de la fonction publique;06/10/2023;;
 32;Hauts-De-France;59;Nord;PLANCKE;Patricia;F;31/10/1958;54;Employé administratif d'entreprise;02/07/2021;;
 32;Hauts-De-France;59;Nord;POIX;Julien;M;20/07/1985;34;Professeur, profession scientifique;02/07/2021;;
@@ -707,7 +706,7 @@ Code de la région;Libellé de la région;Code de la section départementale;Lib
 32;Hauts-De-France;62;Pas-De-Calais;JUILIEN-PEUVION;Paulette;F;06/10/1961;43;Profession intermédiaire de la santé et du travail social;02/07/2021;;
 32;Hauts-De-France;62;Pas-De-Calais;LETURQUE;Frédéric;M;10/09/1968;85;Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité);02/07/2021;;
 32;Hauts-De-France;62;Pas-De-Calais;MAESEELE;Alexandre;M;13/08/1997;52;Employé civil et agent de service de la fonction publique;23/10/2023;;
-32;Hauts-De-France;62;Pas-De-Calais;MALIAR;Faustine;F;07/06/1995;33;Cadre de la fonction publique;02/07/2021;;
+32;Hauts-De-France;62;Pas-De-Calais;MALIAR;Faustine;F;07/06/1995;33;Cadre de la fonction publique;02/07/2021;13ème Vice-président du conseil régional;20/03/2025
 32;Hauts-De-France;62;Pas-De-Calais;MARCELLAK;Serge;M;23/07/1971;42;Professeur des écoles, instituteur et assimilé;02/07/2021;;
 32;Hauts-De-France;62;Pas-De-Calais;MELONI;Caroline;F;21/01/1982;43;Profession intermédiaire de la santé et du travail social;08/07/2024;;
 32;Hauts-De-France;62;Pas-De-Calais;MERLIER-LEQUETTE;Sophie;F;07/10/1972;12;Agriculteur sur moyenne exploitation;02/07/2021;;
@@ -759,7 +758,7 @@ Code de la région;Libellé de la région;Code de la section départementale;Lib
 44;Grand Est;51;Marne;DUCHÊNE;Thibaut;M;24/03/1981;33;Cadre de la fonction publique;02/07/2021;;
 44;Grand Est;51;Marne;ERRE;Pascal;M;06/10/1957;33;Cadre de la fonction publique;02/07/2021;;
 44;Grand Est;51;Marne;FRIGOUT;Anne-Sophie;F;11/04/1971;34;Professeur, profession scientifique;02/07/2021;;
-44;Grand Est;51;Marne;KURIC;Aina;F;15/05/1987;105;Industriel-Chef entreprise (obsolète);02/07/2021;;
+44;Grand Est;51;Marne;KURIC;Aina;F;15/05/1987;23;Chef d'entreprise de 10 salariés ou plus;02/07/2021;;
 44;Grand Est;51;Marne;LEROY;Franck;M;12/01/1963;31;Profession libérale;02/07/2021;Président du conseil régional;13/01/2023
 44;Grand Est;51;Marne;LIZOLA;Martine;F;24/10/1958;33;Cadre de la fonction publique;02/07/2021;;
 44;Grand Est;51;Marne;MARCHET;Véronique;F;15/04/1966;85;Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité);02/07/2021;;
@@ -792,7 +791,7 @@ Code de la région;Libellé de la région;Code de la section départementale;Lib
 44;Grand Est;54;Meurthe-Et-Moselle;MINUTIELLO;Bruno;M;10/11/1975;37;Cadre administratif et commercial d'entreprise;02/07/2021;;
 44;Grand Est;54;Meurthe-Et-Moselle;MORENVILLIER;Philippe;M;06/12/1965;22;Commerçant et assimilé;02/07/2021;;
 44;Grand Est;54;Meurthe-Et-Moselle;RENAUD;Dominique;F;20/04/1953;75;Ancienne profession intermédiaire;02/07/2021;;
-44;Grand Est;54;Meurthe-Et-Moselle;TALLOT;Marie-Catherine;F;07/11/1957;139;Autre profession libérale (obsolète);20/10/2022;;
+44;Grand Est;54;Meurthe-Et-Moselle;TALLOT;Marie-Catherine;F;07/11/1957;31;Profession libérale;20/10/2022;;
 44;Grand Est;54;Meurthe-Et-Moselle;TILLARD;Hervé;M;23/06/1968;37;Cadre administratif et commercial d'entreprise;02/07/2021;;
 44;Grand Est;54;Meurthe-Et-Moselle;WERNER;François;M;03/03/1963;33;Cadre de la fonction publique;02/07/2021;9ème Vice-président du conseil régional;20/06/2024
 44;Grand Est;54;Meurthe-Et-Moselle;YILMAZ;Bora;M;18/06/1979;34;Professeur, profession scientifique;02/07/2021;;
@@ -860,7 +859,7 @@ Code de la région;Libellé de la région;Code de la section départementale;Lib
 44;Grand Est;6AE;Collectivité Européenne d'Alsace;ISINGER;Évelyne;F;23/09/1960;37;Cadre administratif et commercial d'entreprise;02/07/2021;;
 44;Grand Est;6AE;Collectivité Européenne d'Alsace;JUNG;Pauline;F;30/10/1987;37;Cadre administratif et commercial d'entreprise;02/07/2021;;
 44;Grand Est;6AE;Collectivité Européenne d'Alsace;KERN;Claude;M;13/03/1959;34;Professeur, profession scientifique;02/07/2021;;
-44;Grand Est;6AE;Collectivité Européenne d'Alsace;KLEIN;Eliane;F;01/05/1959;139;Autre profession libérale (obsolète);20/10/2022;;
+44;Grand Est;6AE;Collectivité Européenne d'Alsace;KLEIN;Eliane;F;01/05/1959;31;Profession libérale;20/10/2022;;
 44;Grand Est;6AE;Collectivité Européenne d'Alsace;KÖPPE-RITZENTHALER;Jill;F;25/01/1975;35;Profession de l'information, des arts et des spectacles;02/07/2021;;
 44;Grand Est;6AE;Collectivité Européenne d'Alsace;LEHRY;Christelle;F;15/05/1987;37;Cadre administratif et commercial d'entreprise;02/07/2021;;
 44;Grand Est;6AE;Collectivité Européenne d'Alsace;MARX;Armand;M;26/06/1955;31;Profession libérale;02/07/2021;;
@@ -918,16 +917,15 @@ Code de la région;Libellé de la région;Code de la section départementale;Lib
 52;Pays De La Loire;44;Loire-Atlantique;DEJOIE;Laurent;M;15/10/1955;31;Profession libérale;02/07/2021;6ème Vice-président du conseil régional;02/07/2021
 52;Pays De La Loire;44;Loire-Atlantique;DENIAUD;Dominique;M;30/10/1972;12;Agriculteur sur moyenne exploitation;02/07/2021;;
 52;Pays De La Loire;44;Loire-Atlantique;GACHET;Stéphane;M;23/02/1972;33;Cadre de la fonction publique;02/07/2021;;
+52;Pays De La Loire;44;Loire-Atlantique;GUERRA;Anne-Sophie;F;26/10/1965;54;Employé administratif d'entreprise;02/07/2021;;
 52;Pays De La Loire;44;Loire-Atlantique;GUYOT;François;M;15/03/1979;13;Agriculteur sur grande exploitation;02/07/2021;;
-52;Pays De La Loire;44;Loire-Atlantique;HAMEAU;Pascale;F;13/06/1966;45;Profession intermédiaire administrative de la fonction publique;02/07/2021;;
+52;Pays De La Loire;44;Loire-Atlantique;HAMEAU;Pascale;F;13/06/1966;34;Professeur, profession scientifique;02/07/2021;;
 52;Pays De La Loire;44;Loire-Atlantique;HUGUES;Claire;F;15/12/1973;85;Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité);02/07/2021;11ème Vice-président du conseil régional;02/07/2021
 52;Pays De La Loire;44;Loire-Atlantique;IMPERIALE;Sandra;F;01/02/1981;33;Cadre de la fonction publique;02/07/2021;9ème Vice-président du conseil régional;02/07/2021
 52;Pays De La Loire;44;Loire-Atlantique;JUVIN;Hervé;M;29/01/1956;23;Chef d'entreprise de 10 salariés ou plus;02/07/2021;;
 52;Pays De La Loire;44;Loire-Atlantique;LALANDE;Sabine;F;19/07/1968;43;Profession intermédiaire de la santé et du travail social;02/07/2021;;
-52;Pays De La Loire;44;Loire-Atlantique;LAMBERTHON;Anne-Sophie;F;26/10/1965;54;Employé administratif d'entreprise;02/07/2021;;
 52;Pays De La Loire;44;Loire-Atlantique;LOUVRIER;Franck;M;30/05/1968;33;Cadre de la fonction publique;02/07/2021;2ème Vice-président du conseil régional;02/07/2021
-52;Pays De La Loire;44;Loire-Atlantique;MAHÉ;Véronique;F;03/08/1961;37;Cadre administratif et commercial d'entreprise;02/07/2021;;
-52;Pays De La Loire;44;Loire-Atlantique;NICOLON;Franck;M;27/05/1963;43;Profession intermédiaire de la santé et du travail social;02/07/2021;;
+52;Pays De La Loire;44;Loire-Atlantique;NICOLON;Franck;M;27/06/1963;43;Profession intermédiaire de la santé et du travail social;02/07/2021;;
 52;Pays De La Loire;44;Loire-Atlantique;NOURRY;Barbara;F;24/10/1976;52;Employé civil et agent de service de la fonction publique;02/07/2021;15ème Vice-président du conseil régional;02/07/2021
 52;Pays De La Loire;44;Loire-Atlantique;ORDRONNEAU;Séverine;F;26/02/1972;22;Commerçant et assimilé;02/07/2021;;
 52;Pays De La Loire;44;Loire-Atlantique;POIRIER;Nathalie;F;26/12/1966;34;Professeur, profession scientifique;02/07/2021;;
@@ -1181,7 +1179,7 @@ Code de la région;Libellé de la région;Code de la section départementale;Lib
 75;Nouvelle-Aquitaine;33;Gironde;THIERRY;Nicolas;M;08/12/1975;31;Profession libérale;02/07/2021;;
 75;Nouvelle-Aquitaine;33;Gironde;TRIJOULET;Thierry;M;16/02/1959;37;Cadre administratif et commercial d'entreprise;02/07/2021;;
 75;Nouvelle-Aquitaine;33;Gironde;VEYSSIERE;Laurence;F;25/06/1967;22;Commerçant et assimilé;30/09/2024;;
-75;Nouvelle-Aquitaine;33;Gironde;VILLANOVE;Marie-Hélène;F;28/08/1960;139;Autre profession libérale (obsolète);26/01/2025;;
+75;Nouvelle-Aquitaine;33;Gironde;VILLANOVE;Marie-Hélène;F;28/08/1960;31;Profession libérale;26/01/2025;;
 75;Nouvelle-Aquitaine;33;Gironde;WILSIUS;Francis;M;22/06/1955;78;Ancien ouvrier;02/07/2021;;
 75;Nouvelle-Aquitaine;40;Landes;BACHÉ;Alain;M;24/01/1961;54;Employé administratif d'entreprise;02/07/2021;;
 75;Nouvelle-Aquitaine;40;Landes;BAZUS;Julien;M;28/03/1983;23;Chef d'entreprise de 10 salariés ou plus;02/07/2021;;
@@ -1302,7 +1300,7 @@ Code de la région;Libellé de la région;Code de la section départementale;Lib
 76;Occitanie;30;Gard;LAPEYRONIE;Claire;F;11/03/1969;34;Professeur, profession scientifique;02/07/2021;;
 76;Occitanie;30;Gard;NOVARETTI;Monique;F;16/10/1956;86;Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité);02/07/2021;;
 76;Occitanie;30;Gard;RIVENQ;Christophe;M;20/06/1966;85;Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité);02/07/2021;;
-76;Occitanie;30;Gard;TISSEUR;Viviane;F;06/04/1959;119;Autre cadre (secteur privé) (obsolète);15/07/2024;;
+76;Occitanie;30;Gard;TISSEUR;Viviane;F;06/04/1959;37;Cadre administratif et commercial d'entreprise;15/07/2024;;
 76;Occitanie;30;Gard;VERDIER;Fabrice;M;16/12/1968;45;Profession intermédiaire administrative de la fonction publique;02/07/2021;;
 76;Occitanie;31;Haute-Garonne;ADROIT;Sophie;F;23/03/1957;74;Ancien cadre;02/07/2021;;
 76;Occitanie;31;Haute-Garonne;BAKIRI;Nadia;F;19/12/1978;37;Cadre administratif et commercial d'entreprise;02/07/2021;;
@@ -1372,7 +1370,7 @@ Code de la région;Libellé de la région;Code de la section départementale;Lib
 76;Occitanie;34;Hérault;MORENO;René;M;12/02/1948;11;Agriculteur sur petite exploitation;02/07/2021;;
 76;Occitanie;34;Hérault;PELE;Maria Alice;F;02/04/1969;45;Profession intermédiaire administrative de la fonction publique;02/07/2021;9ème Vice-président du conseil régional;02/07/2021
 76;Occitanie;34;Hérault;PLANE;Julia;F;03/04/1984;54;Employé administratif d'entreprise;02/07/2021;;
-76;Occitanie;34;Hérault;ROSSIGNOL;Stéphan Marc Paul;M;20/03/1962;65;Ouvrier qualifié de la manutention, du magasinage et du transport;02/07/2021;;
+76;Occitanie;34;Hérault;ROSSIGNOL;Stéphan;M;20/03/1962;65;Ouvrier qualifié de la manutention, du magasinage et du transport;02/07/2021;;
 76;Occitanie;34;Hérault;THOMAS;Sylvie;F;27/01/1962;45;Profession intermédiaire administrative de la fonction publique;02/07/2021;;
 76;Occitanie;34;Hérault;TROISE;Lauriane;F;24/03/1980;37;Cadre administratif et commercial d'entreprise;02/07/2021;;
 76;Occitanie;34;Hérault;VIVANCOS;Bertrand;M;10/12/1964;37;Cadre administratif et commercial d'entreprise;02/07/2021;;
@@ -1492,7 +1490,7 @@ Code de la région;Libellé de la région;Code de la section départementale;Lib
 84;Auvergne-Rhône-Alpes;38;Isère;DARLET;Jean-Claude;M;04/08/1964;13;Agriculteur sur grande exploitation;02/07/2021;;
 84;Auvergne-Rhône-Alpes;38;Isère;DEZARNAUD;Sylvie;F;23/02/1964;54;Employé administratif d'entreprise;02/07/2021;;
 84;Auvergne-Rhône-Alpes;38;Isère;DUPRÉ;Christel;F;13/09/1970;55;Employé de commerce;02/07/2021;;
-84;Auvergne-Rhône-Alpes;38;Isère;GAY;Vincent;M;10/03/1965;139;Autre profession libérale (obsolète);20/09/2022;;
+84;Auvergne-Rhône-Alpes;38;Isère;GAY;Vincent;M;10/03/1965;31;Profession libérale;20/09/2022;;
 84;Auvergne-Rhône-Alpes;38;Isère;GEMMANI;Stéphane;M;20/02/1971;64;Chauffeur;02/07/2021;;
 84;Auvergne-Rhône-Alpes;38;Isère;GIRARD;Jean-Pierre;M;21/04/1951;72;Ancien artisan, commerçant, chef d'entreprise;02/07/2021;;
 84;Auvergne-Rhône-Alpes;38;Isère;JANOT;Pierre-Henri;M;02/02/1968;31;Profession libérale;02/07/2021;;
@@ -1677,7 +1675,7 @@ Code de la région;Libellé de la région;Code de la section départementale;Lib
 93;Provence-Alpes-Cote D'Azur;13;Bouches-Du-Rhône;CRISTIANI;Georges;M;17/04/1952;77;Ancien employé;02/07/2021;;
 93;Provence-Alpes-Cote D'Azur;13;Bouches-Du-Rhône;D'ANGIO;Sandrine;F;18/12/1981;85;Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité);02/07/2021;;
 93;Provence-Alpes-Cote D'Azur;13;Bouches-Du-Rhône;DI CARO;Sylvaine;F;19/07/1951;74;Ancien cadre;02/07/2021;;
-93;Provence-Alpes-Cote D'Azur;13;Bouches-Du-Rhône;DORIOL-KASMADJIAN;Alexandre;M;26/09/1976;119;Autre cadre (secteur privé) (obsolète);02/07/2021;;
+93;Provence-Alpes-Cote D'Azur;13;Bouches-Du-Rhône;DORIOL-KASMADJIAN;Alexandre;M;26/09/1976;37;Cadre administratif et commercial d'entreprise;02/07/2021;;
 93;Provence-Alpes-Cote D'Azur;13;Bouches-Du-Rhône;FABRE AUBRESPY;Hervé;M;20/07/1956;33;Cadre de la fonction publique;02/07/2021;;
 93;Provence-Alpes-Cote D'Azur;13;Bouches-Du-Rhône;FEDI;Nathalie;F;24/03/1969;54;Employé administratif d'entreprise;02/07/2021;;
 93;Provence-Alpes-Cote D'Azur;13;Bouches-Du-Rhône;FOUQUART;Emmanuel;M;30/07/1966;86;Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité);02/07/2021;;
