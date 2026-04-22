@@ -68,7 +68,11 @@ def main() -> int:
             failed.append(f"<no filename for resource {r.get('id')}>")
             continue
 
-        expected_sha1 = (r.get("checksum") or {}).get("value")
+        # Prefer extras["analysis:checksum"] — it's what the platform computes
+        # from the bytes actually served at the download URL. The top-level
+        # checksum.value is the publisher-declared sha1 and is often stale.
+        extras = r.get("extras") or {}
+        expected_sha1 = extras.get("analysis:checksum") or (r.get("checksum") or {}).get("value")
         if not expected_sha1:
             failed.append(f"{filename} (no sha1 in API)")
             continue
