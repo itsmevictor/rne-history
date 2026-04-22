@@ -1,0 +1,47 @@
+name: Update RNE
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Sync RNE CSVs
+        id: sync
+        run: |
+          set -euo pipefail
+          python scripts/update_rne.py | tee sync-output.txt
+
+      - name: Commit and push if changes
+        run: |
+          set -euo pipefail
+          if [ -z "$(git status --porcelain 'elus-*.csv')" ]; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          changed=$(awk -F'\t' '$1=="CHANGED"{print $2}' sync-output.txt | paste -sd "," -)
+          added=$(awk -F'\t' '$1=="ADDED"{print $2}' sync-output.txt | paste -sd "," -)
+
+          summary=""
+          [ -n "$changed" ] && summary="changed: $changed"
+          [ -n "$added" ] && summary="${summary:+$summary; }added: $added"
+          subject="Update RNE (${summary:-no diff detected})"
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add elus-*.csv
+          git commit -m "$subject"
+          git push
