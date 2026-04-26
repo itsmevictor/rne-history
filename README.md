@@ -40,3 +40,9 @@ It prints one line per affected file on stdout (`CHANGED\t<name>`,
 - Dataset: <https://www.data.gouv.fr/datasets/repertoire-national-des-elus-1>
 - API:     <https://www.data.gouv.fr/api/1/datasets/repertoire-national-des-elus-1/>
 - License: the open license under which data.gouv.fr publishes the RNE.
+- See also [rne-history by Regards Citoyens](https://github.com/regardscitoyens/rne-history/) which is not maintained anymore but which could be used to recover (parts) of the archive of the RNE. 
+
+
+
+
+
