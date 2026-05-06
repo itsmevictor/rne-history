@@ -1,442 +1,442 @@
-"Code de la circonscription AFE";"Libellé la circonscription AFE";"Code de la circonscription consulaire";"Libellé de la circonscription consulaire";"Nom de l'élu";"Prénom de l'élu";"Code sexe";"Date de naissance";"Code de la catégorie socio-professionnelle";"Libellé de la catégorie socio-professionnelle";"Date de début du mandat";"Libellé de la fonction";"Date de début de la fonction"
-1;"Canada";101;"Canada - 1re circonscription";"DELLAPINA";"Cindy";"F";12/02/79;65;"Ouvrier qualifié de la manutention, du magasinage et du transport";31/05/21;"Président du conseil consulaire";24/10/22
-1;"Canada";101;"Canada - 1re circonscription";"DELLAPINA";"Olivier";"M";17/09/75;54;"Employé administratif d'entreprise";31/05/21;;
-1;"Canada";101;"Canada - 1re circonscription";"GALLET";"Aloïs";"M";23/09/85;22;"Commerçant et assimilé";31/05/21;;
-1;"Canada";101;"Canada - 1re circonscription";"POINT";"Franck";"M";23/03/66;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;;
-1;"Canada";102;"Canada - 2e circonscription";"ADENOT-OWUSU";"Delphine";"F";30/06/85;37;"Cadre administratif et commercial d'entreprise";31/05/21;;
-1;"Canada";102;"Canada - 2e circonscription";"BIDERMAN";"Séverine";"F";19/06/72;35;"Profession de l'information, des arts et des spectacles";01/11/22;;
-1;"Canada";102;"Canada - 2e circonscription";"GIFFAUX";"Olivier";"M";05/03/73;54;"Employé administratif d'entreprise";31/05/21;;
-1;"Canada";102;"Canada - 2e circonscription";"WATKINS";"Francine";"F";03/12/49;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;"Président du conseil consulaire";16/06/21
-1;"Canada";103;"Canada - 3e circonscription";"BERT";"Laetitia";"F";02/04/92;84;"Elève, étudiant";31/05/21;"Président du conseil consulaire";08/06/21
-1;"Canada";103;"Canada - 3e circonscription";"LECOMTE";"Guillaume";"M";28/10/96;38;"Ingénieur et cadre technique d'entreprise";31/05/21;;
-1;"Canada";103;"Canada - 3e circonscription";"SILVE";"Arthur";"M";20/04/82;34;"Professeur, profession scientifique";31/05/21;"Président du conseil consulaire";25/01/22
-1;"Canada";103;"Canada - 3e circonscription";"TROUSSIER";"Richard";"M";14/08/72;37;"Cadre administratif et commercial d'entreprise";22/10/21;;
-1;"Canada";104;"Canada - 4e circonscription";"BOURGOIN";"Alaric";"M";23/08/84;34;"Professeur, profession scientifique";23/10/22;;
-1;"Canada";104;"Canada - 4e circonscription";"CHAINEL";"Sophie";"F";20/01/87;38;"Ingénieur et cadre technique d'entreprise";23/10/22;;
-1;"Canada";104;"Canada - 4e circonscription";"FROEHLICH";"Thibault";"M";04/10/97;31;"Profession libérale";23/10/22;;
-1;"Canada";104;"Canada - 4e circonscription";"IMBEAU";"Lucie";"F";04/10/88;33;"Cadre de la fonction publique";23/10/22;"Président du conseil consulaire";02/11/22
-1;"Canada";104;"Canada - 4e circonscription";"OLIVIÉ";"Gwenaelle";"F";04/09/69;34;"Professeur, profession scientifique";23/10/22;;
-1;"Canada";104;"Canada - 4e circonscription";"PIGEYRE";"Florent";"M";18/06/77;38;"Ingénieur et cadre technique d'entreprise";23/10/22;;
-1;"Canada";104;"Canada - 4e circonscription";"SFEIR";"Ramzi";"M";09/02/86;37;"Cadre administratif et commercial d'entreprise";23/10/22;;
-2;"Etats-Unis d'Amérique";201;"Etats-Unis - 1re circonscription";"LEMOINE";"Dominique";"M";15/10/59;31;"Profession libérale";31/05/21;"Président du conseil consulaire";25/06/21
-2;"Etats-Unis d'Amérique";201;"Etats-Unis - 1re circonscription";"NDIAYE";"Ndeye Penda";"F";09/03/75;37;"Cadre administratif et commercial d'entreprise";31/05/21;;
-2;"Etats-Unis d'Amérique";201;"Etats-Unis - 1re circonscription";"OLIVERES-ALAIN";"Michèle";"F";27/12/48;46;"Profession intermédiaire administrative et commerciale des entreprises";31/05/21;;
-2;"Etats-Unis d'Amérique";202;"Etats-Unis - 2e circonscription";"CAVANAGH";"Julien";"M";10/10/79;34;"Professeur, profession scientifique";31/05/21;;
-2;"Etats-Unis d'Amérique";202;"Etats-Unis - 2e circonscription";"HULOT";"Sandrine";"F";31/07/72;34;"Professeur, profession scientifique";31/05/21;"Président du conseil consulaire";25/06/21
-2;"Etats-Unis d'Amérique";202;"Etats-Unis - 2e circonscription";"ROCHE";"Anne-Clotilde";"F";14/05/75;38;"Ingénieur et cadre technique d'entreprise";31/05/21;;
-2;"Etats-Unis d'Amérique";202;"Etats-Unis - 2e circonscription";"RUEDA";"Maria José";"F";08/09/68;34;"Professeur, profession scientifique";31/05/21;;
-2;"Etats-Unis d'Amérique";203;"Etats-Unis - 3e circonscription";"BONNETE";"Jean-François";"M";23/04/74;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;"Président du conseil consulaire";18/06/21
-2;"Etats-Unis d'Amérique";203;"Etats-Unis - 3e circonscription";"GROSDIDIER";"Pierre";"M";30/08/58;33;"Cadre de la fonction publique";31/05/21;;
-2;"Etats-Unis d'Amérique";203;"Etats-Unis - 3e circonscription";"JAKUBOWICZ";"Yves";"M";28/03/66;37;"Cadre administratif et commercial d'entreprise";31/05/21;;
-2;"Etats-Unis d'Amérique";203;"Etats-Unis - 3e circonscription";"PELLETIER";"Bertrand";"M";29/10/44;23;"Chef d'entreprise de 10 salariés ou plus";05/02/24;;
-2;"Etats-Unis d'Amérique";204;"Etats-Unis - 4e circonscription";"BOURBON";"Patrick";"M";11/01/77;31;"Profession libérale";31/05/21;"Président du conseil consulaire";15/06/21
-2;"Etats-Unis d'Amérique";204;"Etats-Unis - 4e circonscription";"DELPIERRE";"Aline";"F";19/06/65;31;"Profession libérale";31/05/21;;
-2;"Etats-Unis d'Amérique";204;"Etats-Unis - 4e circonscription";"LARAICHI";"Oussama";"M";13/01/88;38;"Ingénieur et cadre technique d'entreprise";31/05/21;;
-2;"Etats-Unis d'Amérique";204;"Etats-Unis - 4e circonscription";"LAURENS";"Khadija";"F";09/09/77;37;"Cadre administratif et commercial d'entreprise";02/02/22;;
-2;"Etats-Unis d'Amérique";205;"Etats-Unis - 5e circonscription";"BERNERD";"Frédéric";"M";16/04/76;43;"Profession intermédiaire de la santé et du travail social";02/12/23;;
-2;"Etats-Unis d'Amérique";205;"Etats-Unis - 5e circonscription";"BONDRILLE";"Franck";"M";18/05/67;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;"Président du conseil consulaire";09/06/21
-2;"Etats-Unis d'Amérique";205;"Etats-Unis - 5e circonscription";"GAULT";"Axelle";"F";05/09/79;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;;
-2;"Etats-Unis d'Amérique";205;"Etats-Unis - 5e circonscription";"MARTIN-O'BRIEN";"Aline";"F";14/10/75;31;"Profession libérale";12/07/21;;
-2;"Etats-Unis d'Amérique";206;"Etats-Unis - 6e circonscription";"CHANTEPIE";"Blandine";"F";11/03/83;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;;
-2;"Etats-Unis d'Amérique";206;"Etats-Unis - 6e circonscription";"CURIONI";"Monique";"F";11/02/53;42;"Professeur des écoles, instituteur et assimilé";31/05/21;"Président du conseil consulaire";18/06/21
-2;"Etats-Unis d'Amérique";206;"Etats-Unis - 6e circonscription";"LEYDIER";"Béatrice";"F";17/09/93;34;"Professeur, profession scientifique";31/05/21;;
-2;"Etats-Unis d'Amérique";206;"Etats-Unis - 6e circonscription";"PITON";"Olivier";"M";03/08/66;31;"Profession libérale";31/05/21;;
-2;"Etats-Unis d'Amérique";207;"Etats-Unis - 7e circonscription";"CARACO";"Patrick";"M";16/11/49;31;"Profession libérale";31/05/21;;
-2;"Etats-Unis d'Amérique";207;"Etats-Unis - 7e circonscription";"DEMEESTERE";"Hélène";"F";12/10/55;34;"Professeur, profession scientifique";31/05/21;;
-2;"Etats-Unis d'Amérique";207;"Etats-Unis - 7e circonscription";"HAJJAR";"Cynthia";"F";04/03/74;35;"Profession de l'information, des arts et des spectacles";31/05/21;;
-2;"Etats-Unis d'Amérique";207;"Etats-Unis - 7e circonscription";"MICHON";"Gérard";"M";29/03/56;31;"Profession libérale";31/05/21;;
-2;"Etats-Unis d'Amérique";207;"Etats-Unis - 7e circonscription";"ORAND";"Stanislas";"M";04/09/63;38;"Ingénieur et cadre technique d'entreprise";31/05/21;"Président du conseil consulaire";29/06/21
-2;"Etats-Unis d'Amérique";208;"Etats-Unis - 8e circonscription";"BERNARD";"Jean-Pierre";"M";31/10/53;31;"Profession libérale";31/05/21;;
-2;"Etats-Unis d'Amérique";208;"Etats-Unis - 8e circonscription";"LARTILLEUX SUBERVILLE";"Sophie";"F";12/10/63;31;"Profession libérale";31/05/21;;
-2;"Etats-Unis d'Amérique";208;"Etats-Unis - 8e circonscription";"LE GLAND";"Loïc";"M";30/03/77;38;"Ingénieur et cadre technique d'entreprise";31/05/21;;
-2;"Etats-Unis d'Amérique";208;"Etats-Unis - 8e circonscription";"MOREL";"Serge";"M";18/03/63;35;"Profession de l'information, des arts et des spectacles";31/05/21;"Président du conseil consulaire";13/10/23
-2;"Etats-Unis d'Amérique";208;"Etats-Unis - 8e circonscription";"SOUIHI";"Warda";"F";17/04/87;33;"Cadre de la fonction publique";31/05/21;;
-2;"Etats-Unis d'Amérique";209;"Etats-Unis - 9e circonscription";"EPELBAUM";"Gérard";"M";11/03/58;31;"Profession libérale";31/05/21;"Président du conseil consulaire";17/06/21
-2;"Etats-Unis d'Amérique";209;"Etats-Unis - 9e circonscription";"MICHEL";"Annie";"F";24/05/50;34;"Professeur, profession scientifique";31/05/21;;
-2;"Etats-Unis d'Amérique";209;"Etats-Unis - 9e circonscription";"ORTOLI";"Richard";"M";11/11/49;31;"Profession libérale";31/05/21;;
-2;"Etats-Unis d'Amérique";209;"Etats-Unis - 9e circonscription";"PAGNI";"Patrick";"M";15/07/49;31;"Profession libérale";02/07/21;;
-2;"Etats-Unis d'Amérique";209;"Etats-Unis - 9e circonscription";"RICHARD";"Pascale";"F";08/11/58;35;"Profession de l'information, des arts et des spectacles";31/05/21;;
-3;"Amérique latine et Caraïbes";301;"Argentine";"DUBOIS";"Christophe";"M";22/07/65;31;"Profession libérale";31/05/21;;
-3;"Amérique latine et Caraïbes";301;"Argentine";"GUILLOT";"Jérôme";"M";24/05/61;42;"Professeur des écoles, instituteur et assimilé";31/05/21;;
-3;"Amérique latine et Caraïbes";301;"Argentine";"PRESTAT";"Cédric";"M";21/10/82;38;"Ingénieur et cadre technique d'entreprise";24/01/23;;
-3;"Amérique latine et Caraïbes";301;"Argentine";"WAKSMANN";"Laurent";"M";16/09/85;37;"Cadre administratif et commercial d'entreprise";31/05/21;"Président du conseil consulaire";17/11/22
-3;"Amérique latine et Caraïbes";302;"Bolivie";"MANÇO-QUIROGA";"Maurice";"M";05/09/64;31;"Profession libérale";31/05/21;"Président du conseil consulaire";10/06/21
-3;"Amérique latine et Caraïbes";303;"Brésil - 1re circonscription ( avec Suriname )";"CAVIGNAC";"Julie";"F";22/01/65;34;"Professeur, profession scientifique";31/05/21;"Président du conseil consulaire";07/12/21
-3;"Amérique latine et Caraïbes";303;"Brésil - 1re circonscription ( avec Suriname )";"DELUCHEY";"Jean-François";"M";10/03/72;34;"Professeur, profession scientifique";31/05/21;;
-3;"Amérique latine et Caraïbes";303;"Brésil - 1re circonscription ( avec Suriname )";"NOËL-BOUTON";"Xavier";"M";04/11/47;75;"Ancienne profession intermédiaire";31/05/21;;
-3;"Amérique latine et Caraïbes";304;"Brésil - 2e circonscription";"GODEFROY";"Marie";"F";19/01/52;77;"Ancien employé";31/05/21;;
-3;"Amérique latine et Caraïbes";304;"Brésil - 2e circonscription";"MATENCIO";"Tulio";"M";03/11/62;34;"Professeur, profession scientifique";31/05/21;;
-3;"Amérique latine et Caraïbes";304;"Brésil - 2e circonscription";"MONTINARD";"Mélanie";"F";14/08/81;31;"Profession libérale";31/05/21;"Président du conseil consulaire";28/06/21
-3;"Amérique latine et Caraïbes";305;"Brésil - 3e circonscription";"DUPONT";"Bertrand";"M";28/09/70;31;"Profession libérale";31/05/21;;
-3;"Amérique latine et Caraïbes";305;"Brésil - 3e circonscription";"FERRAZ MARTINS";"Ana Fabia";"F";02/12/69;31;"Profession libérale";31/05/21;"Président du conseil consulaire";04/04/23
-3;"Amérique latine et Caraïbes";305;"Brésil - 3e circonscription";"LAPLACE";"Frédéric";"M";18/05/69;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;;
-3;"Amérique latine et Caraïbes";306;"Chili";"BESNIER";"Jean-Marc";"M";23/11/57;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;;
-3;"Amérique latine et Caraïbes";306;"Chili";"BLANCHE";"Catherine";"F";04/12/81;35;"Profession de l'information, des arts et des spectacles";31/05/21;;
-3;"Amérique latine et Caraïbes";306;"Chili";"COLAS";"Daniel";"M";20/10/53;75;"Ancienne profession intermédiaire";31/05/21;;
-3;"Amérique latine et Caraïbes";306;"Chili";"HARITÇALDE";"Marie Christine";"F";13/10/48;31;"Profession libérale";31/05/21;"Président du conseil consulaire";16/06/21
-3;"Amérique latine et Caraïbes";307;"Colombie";"GAVIGNET";"Colin";"M";18/07/74;34;"Professeur, profession scientifique";31/05/21;;
-3;"Amérique latine et Caraïbes";307;"Colombie";"LAVERGNE";"Cécile";"F";20/08/84;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;"Président du conseil consulaire";29/06/21
-3;"Amérique latine et Caraïbes";307;"Colombie";"MARTIQUET";"Cyril";"M";06/10/71;31;"Profession libérale";31/05/21;;
-3;"Amérique latine et Caraïbes";308;"Costa Rica, Honduras, Nicaragua";"GLOCK";"Denis";"M";27/03/64;42;"Professeur des écoles, instituteur et assimilé";31/05/21;"Président du conseil consulaire";15/06/21
-3;"Amérique latine et Caraïbes";308;"Costa Rica, Honduras, Nicaragua";"RABIA";"Malika";"F";22/09/56;31;"Profession libérale";31/05/21;;
-3;"Amérique latine et Caraïbes";308;"Costa Rica, Honduras, Nicaragua";"STERNER";"Fanny";"F";18/01/64;72;"Ancien artisan, commerçant, chef d'entreprise";31/05/21;;
-3;"Amérique latine et Caraïbes";309;"Equateur";"ANDRES";"François";"M";17/11/49;31;"Profession libérale";31/05/21;;
-3;"Amérique latine et Caraïbes";309;"Equateur";"BRICARD";"Tannya";"F";23/04/65;37;"Cadre administratif et commercial d'entreprise";31/05/21;"Président du conseil consulaire";29/06/21
-3;"Amérique latine et Caraïbes";309;"Equateur";"DU PARC";"Yves";"M";08/04/84;22;"Commerçant et assimilé";31/05/21;;
-3;"Amérique latine et Caraïbes";310;"Guatemala, Salvador";"KAHN";"Alain";"M";24/02/70;22;"Commerçant et assimilé";31/05/21;"Président du conseil consulaire";18/09/21
-3;"Amérique latine et Caraïbes";311;"Haïti";"CHIGNARD ÉPOUSE PAUL";"Christelle";"F";18/04/75;22;"Commerçant et assimilé";31/05/21;"Président du conseil consulaire";25/06/21
-3;"Amérique latine et Caraïbes";312;"Mexique";"CHARRIER-ARGAILLOT";"Rémy";"M";08/03/83;31;"Profession libérale";12/11/21;"Président du conseil consulaire";08/08/23
-3;"Amérique latine et Caraïbes";312;"Mexique";"RAMON-DÉCHELETTE";"Véronique";"F";14/05/70;37;"Cadre administratif et commercial d'entreprise";31/05/21;;
-3;"Amérique latine et Caraïbes";312;"Mexique";"SIGNORET";"Gérard";"M";09/06/60;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;;
-3;"Amérique latine et Caraïbes";312;"Mexique";"SUBERVILLE";"Geneviève";"F";18/10/57;72;"Ancien artisan, commerçant, chef d'entreprise";31/05/21;;
-3;"Amérique latine et Caraïbes";313;"Panama, Cuba, Jamaïque";"GIRALDOU";"Marion";"F";13/10/80;34;"Professeur, profession scientifique";31/05/21;;
-3;"Amérique latine et Caraïbes";313;"Panama, Cuba, Jamaïque";"GOERGLER";"Xavier";"M";29/06/84;34;"Professeur, profession scientifique";31/05/21;"Président du conseil consulaire";23/06/21
-3;"Amérique latine et Caraïbes";313;"Panama, Cuba, Jamaïque";"LOMBARDO";"Florent Marc";"M";07/03/86;37;"Cadre administratif et commercial d'entreprise";31/05/21;"Président du conseil consulaire";23/06/21
-3;"Amérique latine et Caraïbes";314;"Paraguay";"SUCHET";"Edmond";"M";09/07/48;38;"Ingénieur et cadre technique d'entreprise";31/05/21;;
-3;"Amérique latine et Caraïbes";315;"Pérou";"BERTHIER";"Pierre";"M";18/07/59;37;"Cadre administratif et commercial d'entreprise";31/05/21;;
-3;"Amérique latine et Caraïbes";315;"Pérou";"SICET";"Vincent";"M";16/11/90;22;"Commerçant et assimilé";31/05/21;;
-3;"Amérique latine et Caraïbes";315;"Pérou";"WEBER";"Didier";"M";29/01/72;46;"Profession intermédiaire administrative et commerciale des entreprises";31/05/21;"Président du conseil consulaire";17/03/23
-3;"Amérique latine et Caraïbes";316;"République Dominicaine";"ASSEMAT";"Françoise";"F";14/03/68;46;"Profession intermédiaire administrative et commerciale des entreprises";01/08/23;;
-3;"Amérique latine et Caraïbes";316;"République Dominicaine";"BREHM";"Nicolas";"M";24/10/70;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;"Président du conseil consulaire";21/06/21
-3;"Amérique latine et Caraïbes";316;"République Dominicaine";"JACOB";"Emmanuelle";"F";22/09/66;22;"Commerçant et assimilé";31/05/21;;
-3;"Amérique latine et Caraïbes";317;"Uruguay";"BIURRUN";"Martin";"M";28/10/91;31;"Profession libérale";31/05/21;"Président du conseil consulaire";24/06/21
-3;"Amérique latine et Caraïbes";317;"Uruguay";"DELABRE";"Jacques";"M";23/06/55;75;"Ancienne profession intermédiaire";31/05/21;;
-3;"Amérique latine et Caraïbes";317;"Uruguay";"RAMAZZI";"Frédérique";"F";12/02/77;42;"Professeur des écoles, instituteur et assimilé";31/05/21;;
-3;"Amérique latine et Caraïbes";318;"Venezuela, Sainte-Lucie, Trinité-et-Tobago";"CHOSSERIE";"Liliane";"F";02/12/51;22;"Commerçant et assimilé";31/05/21;;
-3;"Amérique latine et Caraïbes";318;"Venezuela, Sainte-Lucie, Trinité-et-Tobago";"FORTER-CHEE-A-TOW";"Ninon";"F";12/04/96;31;"Profession libérale";22/11/21;;
-3;"Amérique latine et Caraïbes";318;"Venezuela, Sainte-Lucie, Trinité-et-Tobago";"FREYCHET";"Stéphane";"M";25/07/57;52;"Employé civil et agent de service de la fonction publique";05/12/22;"Président du conseil consulaire";01/02/23
-4;"Europe du Nord";401;"Danemark";"BADACHE";"Pascal";"M";23/02/68;42;"Professeur des écoles, instituteur et assimilé";31/05/21;"Président du conseil consulaire";22/06/21
-4;"Europe du Nord";401;"Danemark";"CARON";"Marie-José";"F";11/10/52;54;"Employé administratif d'entreprise";31/05/21;;
-4;"Europe du Nord";401;"Danemark";"DE VISME";"Luc";"M";04/07/45;38;"Ingénieur et cadre technique d'entreprise";31/05/21;;
-4;"Europe du Nord";402;"Finlande, Lituanie, Lettonie, Estonie";"BERNARD";"Chloé";"F";24/01/82;31;"Profession libérale";31/05/21;"Président du conseil consulaire";15/06/21
-4;"Europe du Nord";402;"Finlande, Lituanie, Lettonie, Estonie";"PLAGNOL";"Hugo";"M";13/06/87;38;"Ingénieur et cadre technique d'entreprise";31/05/21;;
-4;"Europe du Nord";402;"Finlande, Lituanie, Lettonie, Estonie";"RUA";"Philippe";"M";26/11/59;38;"Ingénieur et cadre technique d'entreprise";31/05/21;"Président du conseil consulaire";15/06/21
-4;"Europe du Nord";403;"Irlande";"HELAILI-CHAPUIS";"Laurence";"F";07/08/85;85;"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)";31/05/21;"Président du conseil consulaire";16/06/21
-4;"Europe du Nord";403;"Irlande";"KHEMIRA ÉPOUSE AIT EL HADJ";"Saïda";"F";01/12/75;85;"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)";31/05/21;;
-4;"Europe du Nord";403;"Irlande";"MARIN-CUDRAZ";"Benoit";"M";17/11/56;22;"Commerçant et assimilé";31/05/21;;
-4;"Europe du Nord";403;"Irlande";"NOUELLE-PARRAT";"Nicolas";"M";04/06/74;64;"Chauffeur";02/03/23;;
-4;"Europe du Nord";404;"Norvège, Islande";"BASSETTO";"Thomas";"M";24/02/88;38;"Ingénieur et cadre technique d'entreprise";31/05/21;"Président du conseil consulaire";15/06/21
-4;"Europe du Nord";404;"Norvège, Islande";"BLISSON";"Natacha";"F";27/02/85;37;"Cadre administratif et commercial d'entreprise";18/01/22;;
-4;"Europe du Nord";404;"Norvège, Islande";"HERRERA";"Marion";"F";07/04/73;42;"Professeur des écoles, instituteur et assimilé";31/05/21;;
-4;"Europe du Nord";405;"Royaume-Uni - 1re circonscription";"ALBUISSON";"Christian";"M";30/07/58;37;"Cadre administratif et commercial d'entreprise";31/05/21;"Président du conseil consulaire";23/06/21
-4;"Europe du Nord";405;"Royaume-Uni - 1re circonscription";"GUÉNIER";"Brigitte";"F";16/12/55;34;"Professeur, profession scientifique";31/05/21;;
-4;"Europe du Nord";405;"Royaume-Uni - 1re circonscription";"MILLER";"Véronique";"F";21/01/67;42;"Professeur des écoles, instituteur et assimilé";31/05/21;;
-4;"Europe du Nord";406;"Royaume-Uni - 2e circonscription";"AHMAR";"Samy";"M";28/02/86;37;"Cadre administratif et commercial d'entreprise";31/05/21;;
-4;"Europe du Nord";406;"Royaume-Uni - 2e circonscription";"BERTIN";"Olivier";"M";05/07/68;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;;
-4;"Europe du Nord";406;"Royaume-Uni - 2e circonscription";"BLANCHOT";"Isabelle";"F";22/02/70;37;"Cadre administratif et commercial d'entreprise";31/05/21;"Président du conseil consulaire";28/06/21
-4;"Europe du Nord";406;"Royaume-Uni - 2e circonscription";"CONNELL";"Patricia";"F";01/02/61;22;"Commerçant et assimilé";31/05/21;;
-4;"Europe du Nord";406;"Royaume-Uni - 2e circonscription";"HATTON";"Nicolas";"M";02/03/70;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;;
-4;"Europe du Nord";406;"Royaume-Uni - 2e circonscription";"MAIGNE";"Enguerran";"M";09/10/82;42;"Professeur des écoles, instituteur et assimilé";31/05/21;;
-4;"Europe du Nord";406;"Royaume-Uni - 2e circonscription";"MALLET";"Amelie";"F";23/08/72;31;"Profession libérale";31/05/21;;
-4;"Europe du Nord";406;"Royaume-Uni - 2e circonscription";"SPARROW";"Marie-Claire";"F";01/08/47;31;"Profession libérale";31/05/21;;
-4;"Europe du Nord";406;"Royaume-Uni - 2e circonscription";"VAZEILLE";"Rémi";"M";28/05/66;37;"Cadre administratif et commercial d'entreprise";31/05/21;;
-4;"Europe du Nord";407;"Suède";"ALTSCHUL";"Noémie";"F";09/02/83;34;"Professeur, profession scientifique";31/05/21;;
-4;"Europe du Nord";407;"Suède";"MOKRANI";"Hicham";"M";19/04/53;85;"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)";31/05/21;;
-4;"Europe du Nord";407;"Suède";"PARMEGIANI";"Nathalie";"F";03/12/61;34;"Professeur, profession scientifique";31/05/21;"Président du conseil consulaire";16/06/21
-4;"Europe du Nord";407;"Suède";"PRIPP";"Nadine";"F";22/01/59;45;"Profession intermédiaire administrative de la fonction publique";31/05/21;;
-5;"Benelux";501;"Belgique";"BISCH";"Anthony";"M";20/01/80;37;"Cadre administratif et commercial d'entreprise";31/05/21;;
-5;"Benelux";501;"Belgique";"CHARLET";"Léa";"F";12/10/89;37;"Cadre administratif et commercial d'entreprise";31/05/21;;
-5;"Benelux";501;"Belgique";"GONDARD";"Cécilia";"F";04/06/80;37;"Cadre administratif et commercial d'entreprise";31/05/21;;
-5;"Benelux";501;"Belgique";"MASSON";"Thierry";"M";11/08/83;33;"Cadre de la fonction publique";31/05/21;;
-5;"Benelux";501;"Belgique";"MICHEL";"Jérémy";"M";30/04/75;56;"Personnel des services directs aux particuliers";31/05/21;"Président du conseil consulaire";24/06/21
-5;"Benelux";501;"Belgique";"WANDELST";"Isabelle";"F";03/03/63;37;"Cadre administratif et commercial d'entreprise";31/05/21;;
-5;"Benelux";501;"Belgique";"WERT";"Bertrand";"M";14/06/75;33;"Cadre de la fonction publique";31/05/21;;
-5;"Benelux";502;"Luxembourg";"CHATEAU-DUCOS";"Alexandre";"M";30/01/69;37;"Cadre administratif et commercial d'entreprise";31/05/21;;
-5;"Benelux";502;"Luxembourg";"DERUDDER";"Vincent";"M";23/02/48;54;"Employé administratif d'entreprise";31/05/21;;
-5;"Benelux";502;"Luxembourg";"SCHAULI";"Frédéric";"M";15/08/78;38;"Ingénieur et cadre technique d'entreprise";31/05/21;;
-5;"Benelux";502;"Luxembourg";"THÉRET";"Bruno";"M";09/10/56;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;"Président du conseil consulaire";24/06/21
-5;"Benelux";502;"Luxembourg";"VALLANCE";"Stéphane";"M";30/12/66;33;"Cadre de la fonction publique";29/12/23;;
-5;"Benelux";503;"Pays-Bas";"DEGRYSE";"Hélène";"F";11/03/77;31;"Profession libérale";31/05/21;;
-5;"Benelux";503;"Pays-Bas";"KOK ESCALLE";"Marie-Christine";"F";24/09/48;34;"Professeur, profession scientifique";31/05/21;;
-5;"Benelux";503;"Pays-Bas";"LAVEANT";"Pierre";"M";06/07/73;33;"Cadre de la fonction publique";31/05/21;;
-5;"Benelux";503;"Pays-Bas";"LIBEAUT";"Catherine";"F";26/09/63;43;"Profession intermédiaire de la santé et du travail social";31/05/21;"Président du conseil consulaire";16/06/21
-5;"Benelux";503;"Pays-Bas";"MAKAYA";"Yohann";"M";01/06/84;43;"Profession intermédiaire de la santé et du travail social";04/01/24;;
-6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";601;"Allemagne - 1re circonscription";"KLIESS";"Marie-Christine";"F";29/08/45;42;"Professeur des écoles, instituteur et assimilé";31/05/21;;
-6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";601;"Allemagne - 1re circonscription";"LOISEAU";"Philippe";"M";24/06/64;31;"Profession libérale";31/05/21;;
-6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";601;"Allemagne - 1re circonscription";"MAIGNÉ";"Stéphan";"M";02/07/69;31;"Profession libérale";31/05/21;"Président du conseil consulaire";22/06/21
-6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";601;"Allemagne - 1re circonscription";"RAFFIN-WEINLEIN";"Camille";"F";07/06/70;35;"Profession de l'information, des arts et des spectacles";31/05/21;;
-6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";601;"Allemagne - 1re circonscription";"ZELLER";"Henri";"M";09/09/70;38;"Ingénieur et cadre technique d'entreprise";31/05/21;;
-6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";602;"Allemagne - 2e circonscription";"BAUMANN";"Alicia";"F";01/07/89;43;"Profession intermédiaire de la santé et du travail social";20/12/22;;
-6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";602;"Allemagne - 2e circonscription";"KLAINE";"Olivia";"F";26/09/87;37;"Cadre administratif et commercial d'entreprise";01/07/22;;
-6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";602;"Allemagne - 2e circonscription";"LANGLET";"Jean-Marie";"M";08/11/44;31;"Profession libérale";31/05/21;"Président du conseil consulaire";29/06/21
-6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";602;"Allemagne - 2e circonscription";"OUAMMAR";"Saliha";"F";03/01/64;31;"Profession libérale";31/05/21;;
-6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";602;"Allemagne - 2e circonscription";"PASCAL";"Olivier";"M";09/11/85;37;"Cadre administratif et commercial d'entreprise";31/05/21;;
-6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";602;"Allemagne - 2e circonscription";"RENOLLAUD";"Jean-Pierre";"M";28/08/54;74;"Ancien cadre";31/05/21;;
-6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";603;"Allemagne - 3e circonscription";"BOUVERET";"Ellen";"F";08/03/58;34;"Professeur, profession scientifique";31/05/21;;
-6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";603;"Allemagne - 3e circonscription";"FOUQUES-WEISS";"Nadine";"F";21/11/49;31;"Profession libérale";31/05/21;;
-6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";603;"Allemagne - 3e circonscription";"GROMIER-HEIM";"Laurence";"F";01/12/57;31;"Profession libérale";31/05/21;"Président du conseil consulaire";28/06/21
-6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";603;"Allemagne - 3e circonscription";"LECLERC";"Audrey";"F";06/01/87;33;"Cadre de la fonction publique";31/05/21;;
-6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";603;"Allemagne - 3e circonscription";"PLUDERMACHER";"Bruno";"M";26/05/61;31;"Profession libérale";31/05/21;;
-6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";603;"Allemagne - 3e circonscription";"ZUCCO";"Frédéric";"M";27/07/58;38;"Ingénieur et cadre technique d'entreprise";31/05/21;;
-6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";604;"Autriche, Slovaquie, Slovénie";"LE VOUEDEC-GUEGANNO";"Frédéric";"M";18/03/75;42;"Professeur des écoles, instituteur et assimilé";11/10/22;"Président du conseil consulaire";17/10/22
-6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";604;"Autriche, Slovaquie, Slovénie";"ROUÉ";"Vincent";"M";21/08/90;38;"Ingénieur et cadre technique d'entreprise";15/10/23;;
-6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";604;"Autriche, Slovaquie, Slovénie";"TRESSARD";"Fabrice";"M";19/09/74;38;"Ingénieur et cadre technique d'entreprise";31/05/21;"Président du conseil consulaire";18/06/21
-6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";604;"Autriche, Slovaquie, Slovénie";"UGO";"Patrick";"M";03/12/65;34;"Professeur, profession scientifique";31/05/21;"Président du conseil consulaire";18/10/23
-6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";605;"Suisse - 1re circonscription";"AVEZOU";"Odile";"F";21/10/67;37;"Cadre administratif et commercial d'entreprise";31/05/21;"Président du conseil consulaire";28/06/21
-6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";605;"Suisse - 1re circonscription";"COL";"Alexandre";"M";16/08/63;85;"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)";31/05/21;;
-6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";605;"Suisse - 1re circonscription";"KEIL";"Jean-Philippe";"M";17/09/67;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;;
-6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";605;"Suisse - 1re circonscription";"LEMER";"François";"M";12/09/76;42;"Professeur des écoles, instituteur et assimilé";22/06/22;;
-6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";605;"Suisse - 1re circonscription";"PORTAL";"Louis";"M";21/02/92;37;"Cadre administratif et commercial d'entreprise";31/05/21;;
-6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";606;"Suisse - 2e circonscription";"CHAHDI";"Lalla-Ilham";"F";07/10/91;54;"Employé administratif d'entreprise";05/01/24;;
-6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";606;"Suisse - 2e circonscription";"CHEVALIER";"Linda";"F";15/04/52;31;"Profession libérale";31/05/21;;
-6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";606;"Suisse - 2e circonscription";"COLLETTE";"Marlène";"F";27/10/74;31;"Profession libérale";31/05/21;"Président du conseil consulaire";24/06/21
-6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";606;"Suisse - 2e circonscription";"CREGUT";"Remy";"M";05/09/60;23;"Chef d'entreprise de 10 salariés ou plus";27/06/22;;
-6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";606;"Suisse - 2e circonscription";"DE ZIEGLER";"Nicolas";"M";21/09/54;31;"Profession libérale";31/05/21;"Président du conseil consulaire";01/06/23
-6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";606;"Suisse - 2e circonscription";"FOTI";"Laura";"F";03/01/87;37;"Cadre administratif et commercial d'entreprise";22/06/22;;
-6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";606;"Suisse - 2e circonscription";"ISLER";"Margaux";"F";09/07/84;31;"Profession libérale";31/05/21;;
-6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";606;"Suisse - 2e circonscription";"KOKOT";"Guilhem";"M";14/07/95;43;"Profession intermédiaire de la santé et du travail social";31/05/21;;
-6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";606;"Suisse - 2e circonscription";"LANG";"Nicolas";"M";21/08/68;46;"Profession intermédiaire administrative et commerciale des entreprises";31/05/21;;
-7;"Europe centrale et orientale ( y compris Russie )";701;"Arménie, Géorgie";"BARDON-HAMBARDZUMYAN";"Lusine";"F";22/11/71;22;"Commerçant et assimilé";31/05/21;"Président du conseil consulaire";01/07/21
-7;"Europe centrale et orientale ( y compris Russie )";702;"Bulgarie, Bosnie-Herzégovine, Macédoine, Albanie, Kosovo, Monténégro";"BOTEVA-MALO";"Tatiana";"F";10/06/50;35;"Profession de l'information, des arts et des spectacles";31/05/21;"Président du conseil consulaire";13/09/21
-7;"Europe centrale et orientale ( y compris Russie )";702;"Bulgarie, Bosnie-Herzégovine, Macédoine, Albanie, Kosovo, Monténégro";"LECLERCQ";"Amélie";"F";13/04/64;22;"Commerçant et assimilé";31/05/21;;
-7;"Europe centrale et orientale ( y compris Russie )";702;"Bulgarie, Bosnie-Herzégovine, Macédoine, Albanie, Kosovo, Monténégro";"PASCAL";"Patrick";"M";04/06/61;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;"Président du conseil consulaire";14/09/21
-7;"Europe centrale et orientale ( y compris Russie )";703;"Croatie";"PESTOTNIK PREBEG";"Tea";"F";14/05/80;37;"Cadre administratif et commercial d'entreprise";31/05/21;"Président du conseil consulaire";29/06/21
-7;"Europe centrale et orientale ( y compris Russie )";704;"Hongrie";"DOSSO";"Namory";"M";30/06/74;38;"Ingénieur et cadre technique d'entreprise";31/05/21;;
-7;"Europe centrale et orientale ( y compris Russie )";704;"Hongrie";"DUBARD-KAJTAR";"Jeanne";"F";22/09/63;37;"Cadre administratif et commercial d'entreprise";31/05/21;"Président du conseil consulaire";28/06/21
-7;"Europe centrale et orientale ( y compris Russie )";704;"Hongrie";"LIEGEY";"Vincent";"M";08/07/79;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;;
-7;"Europe centrale et orientale ( y compris Russie )";705;"Pologne";"CHAUVEAU";"Frédéric";"M";16/03/70;34;"Professeur, profession scientifique";31/05/21;;
-7;"Europe centrale et orientale ( y compris Russie )";705;"Pologne";"ROSSI";"Jean";"M";23/05/65;31;"Profession libérale";31/05/21;;
-7;"Europe centrale et orientale ( y compris Russie )";705;"Pologne";"SALVAT";"Eric";"M";28/12/61;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;"Président du conseil consulaire";22/06/21
-7;"Europe centrale et orientale ( y compris Russie )";706;"République tchèque";"GUICHARD BUSZMAN";"Aude";"F";07/08/89;37;"Cadre administratif et commercial d'entreprise";31/05/21;;
-7;"Europe centrale et orientale ( y compris Russie )";706;"République tchèque";"LE MOIGNE";"Vassili";"M";15/11/66;37;"Cadre administratif et commercial d'entreprise";31/05/21;"Président du conseil consulaire";15/06/21
-7;"Europe centrale et orientale ( y compris Russie )";706;"République tchèque";"PIMENTA";"Charlie";"M";13/03/96;31;"Profession libérale";01/09/23;;
-7;"Europe centrale et orientale ( y compris Russie )";707;"Roumanie, Moldavie";"GRUIA DUFAUT";"Dana";"F";27/03/60;31;"Profession libérale";31/05/21;;
-7;"Europe centrale et orientale ( y compris Russie )";707;"Roumanie, Moldavie";"LEMAÎTRE";"Christian";"M";05/02/59;38;"Ingénieur et cadre technique d'entreprise";31/05/21;"Président du conseil consulaire";04/06/21
-7;"Europe centrale et orientale ( y compris Russie )";707;"Roumanie, Moldavie";"MAYRAND";"Benoît";"M";10/09/66;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;;
-7;"Europe centrale et orientale ( y compris Russie )";708;"Russie, Biélorussie";"BURLOTTE";"Olivier";"M";09/01/64;31;"Profession libérale";31/05/21;"Président du conseil consulaire";07/06/21
-7;"Europe centrale et orientale ( y compris Russie )";708;"Russie, Biélorussie";"FERRARI";"Franck";"M";03/01/72;34;"Professeur, profession scientifique";31/05/21;;
-7;"Europe centrale et orientale ( y compris Russie )";708;"Russie, Biélorussie";"MEGRELIS";"Nicolas";"M";03/02/69;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;;
-7;"Europe centrale et orientale ( y compris Russie )";709;"Serbie";"GRASSER";"Eric";"M";10/02/71;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;"Président du conseil consulaire";15/06/21
-7;"Europe centrale et orientale ( y compris Russie )";710;"Ukraine";"FRANCK";"David";"M";11/03/68;85;"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)";31/05/21;"Président du conseil consulaire";04/06/21
-8;"Europe du Sud";801;"Chypre";"KYPRIANIDOU";"Hélène";"F";08/10/52;77;"Ancien employé";31/05/21;"Président du conseil consulaire";05/07/21
-8;"Europe du Sud";802;"Grèce";"BROCHARD";"Guy";"M";09/06/70;35;"Profession de l'information, des arts et des spectacles";31/05/21;;
-8;"Europe du Sud";802;"Grèce";"DESCHAMPS";"Françoise";"F";07/03/52;54;"Employé administratif d'entreprise";31/05/21;;
-8;"Europe du Sud";802;"Grèce";"MULLER";"Nelly";"F";03/04/47;42;"Professeur des écoles, instituteur et assimilé";31/05/21;"Président du conseil consulaire";22/06/21
-8;"Europe du Sud";802;"Grèce";"PICHARLES";"Chantal";"F";13/01/58;42;"Professeur des écoles, instituteur et assimilé";31/05/21;;
-8;"Europe du Sud";803;"Italie - 1re circonscription ( avec Malte et Etat de la Cité du Vatican )";"BARRE";"Gaëlle";"F";15/08/72;37;"Cadre administratif et commercial d'entreprise";31/05/21;"Président du conseil consulaire";07/06/21
-8;"Europe du Sud";803;"Italie - 1re circonscription ( avec Malte et Etat de la Cité du Vatican )";"CHORAINE";"Pierre";"M";14/02/67;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;;
-8;"Europe du Sud";803;"Italie - 1re circonscription ( avec Malte et Etat de la Cité du Vatican )";"DE BLESSON";"Carole";"F";18/07/67;31;"Profession libérale";31/05/21;;
-8;"Europe du Sud";803;"Italie - 1re circonscription ( avec Malte et Etat de la Cité du Vatican )";"LEBEL";"Olivier";"M";21/09/60;31;"Profession libérale";07/02/24;;
-8;"Europe du Sud";803;"Italie - 1re circonscription ( avec Malte et Etat de la Cité du Vatican )";"SPIESSER";"Olivier";"M";23/09/67;34;"Professeur, profession scientifique";31/05/21;;
-8;"Europe du Sud";804;"Italie - 2e circonscription";"AMICO";"Marie-Ange";"F";30/03/50;33;"Cadre de la fonction publique";31/05/21;;
-8;"Europe du Sud";804;"Italie - 2e circonscription";"BEZARDIN";"Alexandre";"M";30/12/72;37;"Cadre administratif et commercial d'entreprise";31/05/21;;
-8;"Europe du Sud";804;"Italie - 2e circonscription";"LE CARDINAL";"Hugues";"M";28/06/67;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;"Président du conseil consulaire";24/06/21
-8;"Europe du Sud";804;"Italie - 2e circonscription";"MONAT-VANDEBROUCK";"Isabelle";"F";25/03/65;74;"Ancien cadre";10/10/23;;
-8;"Europe du Sud";804;"Italie - 2e circonscription";"REA";"Annie";"F";18/08/61;31;"Profession libérale";31/05/21;;
-8;"Europe du Sud";805;"Monaco";"MAUDUIT-PALLANCA";"Michelle";"F";24/09/43;33;"Cadre de la fonction publique";31/05/21;;
-8;"Europe du Sud";805;"Monaco";"MOTILLON";"Géraldine";"F";22/01/70;37;"Cadre administratif et commercial d'entreprise";31/05/21;;
-8;"Europe du Sud";805;"Monaco";"PISCIOTTA";"Christophe";"M";23/03/66;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;"Président du conseil consulaire";15/06/21
-8;"Europe du Sud";806;"Turquie";"JAUBERTY";"Michel";"M";11/07/45;74;"Ancien cadre";31/05/21;;
-8;"Europe du Sud";806;"Turquie";"KORO";"Marie-Rose";"F";02/03/57;74;"Ancien cadre";31/05/21;;
-8;"Europe du Sud";806;"Turquie";"OGUTGEN";"Florence";"F";07/08/60;22;"Commerçant et assimilé";31/05/21;"Président du conseil consulaire";23/06/21
-8;"Europe du Sud";806;"Turquie";"OZDILMEN";"Belgin";"F";19/09/80;31;"Profession libérale";31/05/21;;
-9;"Péninsule Ibérique";901;"Andorre";"METAYER";"Catherine";"F";19/01/56;35;"Profession de l'information, des arts et des spectacles";31/05/21;"Président du conseil consulaire";16/06/21
-9;"Péninsule Ibérique";902;"Espagne - 1re circonscription";"BOURBON";"Pascal";"M";18/01/65;31;"Profession libérale";31/05/21;;
-9;"Péninsule Ibérique";902;"Espagne - 1re circonscription";"DE MARCELLUS";"Baudouin";"M";18/11/72;31;"Profession libérale";31/05/21;;
-9;"Péninsule Ibérique";902;"Espagne - 1re circonscription";"LE BERRE";"Renaud";"M";27/09/67;34;"Professeur, profession scientifique";31/05/21;;
-9;"Péninsule Ibérique";902;"Espagne - 1re circonscription";"OGONOWSKI";"Philippe";"M";04/08/66;35;"Profession de l'information, des arts et des spectacles";31/05/21;"Président du conseil consulaire";13/01/22
-9;"Péninsule Ibérique";902;"Espagne - 1re circonscription";"SAINT-DIZIER";"Ana";"F";10/07/79;45;"Profession intermédiaire administrative de la fonction publique";31/05/21;;
-9;"Péninsule Ibérique";903;"Espagne - 2e circonscription";"HUSS";"Francis";"M";05/01/33;74;"Ancien cadre";19/10/21;;
-9;"Péninsule Ibérique";903;"Espagne - 2e circonscription";"LE VAILLANT";"Stéphanie";"F";12/02/79;31;"Profession libérale";31/05/21;;
-9;"Péninsule Ibérique";903;"Espagne - 2e circonscription";"LECOMTE";"Gaëlle";"F";04/12/88;37;"Cadre administratif et commercial d'entreprise";31/05/21;;
-9;"Péninsule Ibérique";903;"Espagne - 2e circonscription";"QUINTANA";"Pablo";"M";13/12/65;38;"Ingénieur et cadre technique d'entreprise";31/05/21;"Président du conseil consulaire";20/01/22
-9;"Péninsule Ibérique";903;"Espagne - 2e circonscription";"RALLE";"François";"M";18/01/74;34;"Professeur, profession scientifique";31/05/21;;
-9;"Péninsule Ibérique";903;"Espagne - 2e circonscription";"SERVANTON";"Gilles";"M";17/03/58;74;"Ancien cadre";01/08/22;;
-9;"Péninsule Ibérique";904;"Portugal";"CARDON";"Hervé";"M";21/05/51;74;"Ancien cadre";31/05/21;;
-9;"Péninsule Ibérique";904;"Portugal";"FEUNTEUN CONESTABILE";"Françoise";"F";23/11/48;74;"Ancien cadre";31/05/21;;
-9;"Péninsule Ibérique";904;"Portugal";"GOATER";"Laurent";"M";20/03/69;37;"Cadre administratif et commercial d'entreprise";31/05/21;"Président du conseil consulaire";18/06/21
-9;"Péninsule Ibérique";904;"Portugal";"LEFRANCOIS";"Michel";"M";30/04/56;74;"Ancien cadre";10/01/24;;
-10;"Afrique du Nord";1001;"Algérie - 1re circonscription";"BELATRECHE";"Mehdi";"M";01/08/73;38;"Ingénieur et cadre technique d'entreprise";31/05/21;;
-10;"Afrique du Nord";1001;"Algérie - 1re circonscription";"HENNI";"Ahmed";"M";29/08/62;34;"Professeur, profession scientifique";31/05/21;"Président du conseil consulaire";03/06/21
-10;"Afrique du Nord";1001;"Algérie - 1re circonscription";"MATEO";"Yolande";"F";22/03/46;74;"Ancien cadre";31/05/21;;
-10;"Afrique du Nord";1001;"Algérie - 1re circonscription";"YOUNSI";"Ouassini";"M";29/09/81;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;;
-10;"Afrique du Nord";1002;"Algérie - 2e circonscription";"BOUTALEB";"Abdelghani";"M";24/03/76;31;"Profession libérale";31/05/21;"Président du conseil consulaire";06/06/21
-10;"Afrique du Nord";1002;"Algérie - 2e circonscription";"HASNAOUI";"Fwad";"M";04/11/63;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;;
-10;"Afrique du Nord";1002;"Algérie - 2e circonscription";"MÊLE";"Sabri";"M";01/09/70;52;"Employé civil et agent de service de la fonction publique";31/05/21;;
-10;"Afrique du Nord";1003;"Algérie - 3e circonscription";"DENDÈNE";"Karim";"M";20/05/59;31;"Profession libérale";31/05/21;;
-10;"Afrique du Nord";1003;"Algérie - 3e circonscription";"HAMMOUTENE";"Djamal";"M";22/05/58;74;"Ancien cadre";31/05/21;;
-10;"Afrique du Nord";1003;"Algérie - 3e circonscription";"LAHLOUH NÉE AOUN";"Nadia";"F";05/03/58;86;"Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)";31/05/21;;
-10;"Afrique du Nord";1003;"Algérie - 3e circonscription";"RAHAL";"Radya";"F";27/10/65;34;"Professeur, profession scientifique";31/05/21;"Président du conseil consulaire";17/06/21
-10;"Afrique du Nord";1003;"Algérie - 3e circonscription";"ZIRIAT";"Reda";"M";09/04/64;23;"Chef d'entreprise de 10 salariés ou plus";20/12/21;;
-10;"Afrique du Nord";1004;"Egypte";"MAJIDIER";"Hervé";"M";12/04/55;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;;
-10;"Afrique du Nord";1004;"Egypte";"PASCAL";"Catherine";"F";29/03/61;31;"Profession libérale";31/05/21;;
-10;"Afrique du Nord";1004;"Egypte";"PLEUTIN";"Rafael";"M";24/03/56;42;"Professeur des écoles, instituteur et assimilé";01/01/24;;
-10;"Afrique du Nord";1005;"Maroc - 1re circonscription";"BENNANI";"Myriem";"F";08/01/62;85;"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)";31/05/21;"Président du conseil consulaire";03/06/21
-10;"Afrique du Nord";1005;"Maroc - 1re circonscription";"GARTI";"Ismaël";"M";02/12/76;31;"Profession libérale";31/05/21;;
-10;"Afrique du Nord";1005;"Maroc - 1re circonscription";"RIO";"Anna-Gael";"F";05/09/73;31;"Profession libérale";31/05/21;;
-10;"Afrique du Nord";1006;"Maroc - 2e circonscription";"AUBERT";"Jacky";"M";07/07/45;75;"Ancienne profession intermédiaire";31/05/21;"Président du conseil consulaire";11/06/21
-10;"Afrique du Nord";1006;"Maroc - 2e circonscription";"BEN KERROUM DEVIDET";"Myriam Geneviève";"F";05/10/47;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;;
-10;"Afrique du Nord";1006;"Maroc - 2e circonscription";"GRATTEPANCHE";"Martine";"F";18/01/55;31;"Profession libérale";31/05/21;;
-10;"Afrique du Nord";1007;"Maroc - 3e circonscription";"REBECCHINI";"Martine";"F";04/10/51;74;"Ancien cadre";31/05/21;;
-10;"Afrique du Nord";1007;"Maroc - 3e circonscription";"ROZIER";"Jean-Claude";"M";17/11/43;74;"Ancien cadre";31/05/21;;
-10;"Afrique du Nord";1007;"Maroc - 3e circonscription";"TRIBOUART";"Catherine";"F";20/02/60;74;"Ancien cadre";31/05/21;"Président du conseil consulaire";10/06/21
-10;"Afrique du Nord";1008;"Maroc - 4e circonscription";"GEORGANDELIS";"Max";"M";05/03/44;31;"Profession libérale";31/05/21;;
-10;"Afrique du Nord";1008;"Maroc - 4e circonscription";"GERVEREAU";"Caryl";"M";08/07/72;37;"Cadre administratif et commercial d'entreprise";31/05/21;"Président du conseil consulaire";15/06/21
-10;"Afrique du Nord";1008;"Maroc - 4e circonscription";"HOUSNI";"Fouad";"M";06/02/75;37;"Cadre administratif et commercial d'entreprise";01/01/23;;
-10;"Afrique du Nord";1009;"Maroc - 5e circonscription";"ARNULF";"Nicolas";"M";23/07/69;37;"Cadre administratif et commercial d'entreprise";31/05/21;;
-10;"Afrique du Nord";1009;"Maroc - 5e circonscription";"BELBACHIR-BELCAID";"Khadija";"F";02/01/57;77;"Ancien employé";31/05/21;"Président du conseil consulaire";15/06/21
-10;"Afrique du Nord";1009;"Maroc - 5e circonscription";"FREJ";"Isabelle";"F";27/11/59;45;"Profession intermédiaire administrative de la fonction publique";31/05/21;;
-10;"Afrique du Nord";1009;"Maroc - 5e circonscription";"LESCRAINIER";"Mathieu";"M";26/02/86;34;"Professeur, profession scientifique";31/05/21;;
-10;"Afrique du Nord";1010;"Maroc - 6e circonscription";"DAGESCY";"Gilles";"M";02/03/39;85;"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)";31/05/21;"Président du conseil consulaire";21/06/21
-10;"Afrique du Nord";1010;"Maroc - 6e circonscription";"EL OUAFI";"Ghislaine";"F";10/05/61;35;"Profession de l'information, des arts et des spectacles";31/05/21;;
-10;"Afrique du Nord";1010;"Maroc - 6e circonscription";"OULKHOUIR";"Mohamed";"M";26/08/77;31;"Profession libérale";31/05/21;;
-10;"Afrique du Nord";1010;"Maroc - 6e circonscription";"REDDAD";"Mehdi";"M";02/10/81;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;;
-10;"Afrique du Nord";1010;"Maroc - 6e circonscription";"YOUMNI";"Abdelghani";"M";10/12/65;34;"Professeur, profession scientifique";31/05/21;;
-10;"Afrique du Nord";1011;"Tunisie, Libye";"BERGER-BEN NACEUR";"Madeleine";"F";25/12/55;42;"Professeur des écoles, instituteur et assimilé";31/05/21;;
-10;"Afrique du Nord";1011;"Tunisie, Libye";"CAIZERGUES";"Laurent";"M";31/05/75;37;"Cadre administratif et commercial d'entreprise";31/05/21;;
-10;"Afrique du Nord";1011;"Tunisie, Libye";"JEMMALI";"Aïda";"F";21/04/77;34;"Professeur, profession scientifique";31/05/21;;
-10;"Afrique du Nord";1011;"Tunisie, Libye";"VAUTRIN DJEDIDI";"Martine";"F";16/07/54;74;"Ancien cadre";31/05/21;;
-10;"Afrique du Nord";1011;"Tunisie, Libye";"ZUCCHERO";"Michel";"M";11/06/51;74;"Ancien cadre";31/05/21;"Président du conseil consulaire";16/06/21
-11;"Afrique occidentale";1101;"Bénin";"ADJOVI ÉPOUSE AGBO";"Josiane";"F";13/05/67;37;"Cadre administratif et commercial d'entreprise";31/05/21;"Président du conseil consulaire";29/06/21
-11;"Afrique occidentale";1101;"Bénin";"ATINDEHOU";"Arsène";"M";19/07/88;47;"Technicien";31/05/21;;
-11;"Afrique occidentale";1101;"Bénin";"DORSO";"Luc";"M";28/08/55;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;;
-11;"Afrique occidentale";1102;"Burkina Faso";"LE LOSQ OUEDRAOGO";"Françoise";"F";02/04/55;74;"Ancien cadre";31/05/21;;
-11;"Afrique occidentale";1102;"Burkina Faso";"OUÉDRAOGO";"Ousmane";"M";19/07/76;38;"Ingénieur et cadre technique d'entreprise";31/05/21;"Président du conseil consulaire";17/06/21
-11;"Afrique occidentale";1102;"Burkina Faso";"VORON";"Martine";"F";05/05/63;37;"Cadre administratif et commercial d'entreprise";31/05/21;;
-11;"Afrique occidentale";1103;"Côte d'Ivoire";"BERTHO";"Jackie";"F";04/08/55;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;;
-11;"Afrique occidentale";1103;"Côte d'Ivoire";"CHAPMAN";"Jacqueline";"F";01/05/49;31;"Profession libérale";31/05/21;;
-11;"Afrique occidentale";1103;"Côte d'Ivoire";"HEINTZ";"Baptiste";"M";27/12/85;31;"Profession libérale";31/05/21;;
-11;"Afrique occidentale";1103;"Côte d'Ivoire";"MARTINATO";"Bruno";"M";15/03/89;37;"Cadre administratif et commercial d'entreprise";31/05/21;;
-11;"Afrique occidentale";1103;"Côte d'Ivoire";"RUELLE";"Jean-Luc";"M";01/04/52;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;"Président du conseil consulaire";25/06/21
-11;"Afrique occidentale";1104;"Guinée";"BOUZIGUES";"Frédéric";"M";12/02/67;37;"Cadre administratif et commercial d'entreprise";31/05/21;"Président du conseil consulaire";28/06/21
-11;"Afrique occidentale";1105;"Mali";"BEILVERT";"Valérie";"F";25/12/66;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;"Président du conseil consulaire";01/07/23
-11;"Afrique occidentale";1105;"Mali";"MAÏGA";"Fatoumata";"F";30/11/69;42;"Professeur des écoles, instituteur et assimilé";01/07/23;;
-11;"Afrique occidentale";1105;"Mali";"SUKHO";"Guy";"M";08/11/67;37;"Cadre administratif et commercial d'entreprise";31/05/21;;
-11;"Afrique occidentale";1106;"Mauritanie";"SYLLA";"Boubou";"M";01/01/68;34;"Professeur, profession scientifique";31/05/21;"Président du conseil consulaire";10/06/21
-11;"Afrique occidentale";1107;"Niger";"JULLIEN";"Stéphane Romain";"M";20/07/59;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;"Président du conseil consulaire";21/06/21
-11;"Afrique occidentale";1108;"Sénégal, Guinée-Bissau, Cap Vert";"BAHSOUN";"Hassan";"M";20/12/44;31;"Profession libérale";31/05/21;;
-11;"Afrique occidentale";1108;"Sénégal, Guinée-Bissau, Cap Vert";"KAOUK";"Balkis";"F";02/10/49;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;"Président du conseil consulaire";10/06/21
-11;"Afrique occidentale";1108;"Sénégal, Guinée-Bissau, Cap Vert";"LICCIONI";"Marie-Thérèse Dite Anne-Marie";"F";13/07/62;22;"Commerçant et assimilé";01/01/22;;
-11;"Afrique occidentale";1108;"Sénégal, Guinée-Bissau, Cap Vert";"SENAC";"Gérard";"M";30/06/51;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;;
-11;"Afrique occidentale";1108;"Sénégal, Guinée-Bissau, Cap Vert";"SOYERE";"Nicolas";"M";29/03/79;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;;
-11;"Afrique occidentale";1109;"Togo, Ghana";"BÉGUÉ";"Jean-Christophe";"M";25/09/66;37;"Cadre administratif et commercial d'entreprise";31/05/21;"Président du conseil consulaire";09/06/21
-11;"Afrique occidentale";1109;"Togo, Ghana";"MAIZOUE";"Jean-Philippe";"M";03/10/71;42;"Professeur des écoles, instituteur et assimilé";31/05/21;"Président du conseil consulaire";15/06/21
-11;"Afrique occidentale";1109;"Togo, Ghana";"MENSAH ATTOH";"Sylvain";"M";17/02/61;31;"Profession libérale";17/12/22;;
-12;"Afrique centrale, australe et orientale";1201;"Afrique du Sud, Mozambique, Namibie, Bostwana";"BARRIERE-IZARD";"Alexandre";"M";15/03/90;22;"Commerçant et assimilé";31/05/21;"Président du conseil consulaire";15/06/21
-12;"Afrique centrale, australe et orientale";1201;"Afrique du Sud, Mozambique, Namibie, Bostwana";"CLAQUIN";"Gaël";"M";17/04/70;31;"Profession libérale";31/05/21;"Président du conseil consulaire";15/06/21
-12;"Afrique centrale, australe et orientale";1201;"Afrique du Sud, Mozambique, Namibie, Bostwana";"SENNEPIN";"Cédric";"M";19/01/80;37;"Cadre administratif et commercial d'entreprise";11/01/24;;
-12;"Afrique centrale, australe et orientale";1202;"Angola";"BENHAIM";"Avraham";"M";19/11/58;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;"Président du conseil consulaire";28/06/21
-12;"Afrique centrale, australe et orientale";1203;"Cameroun, Guinée équatoriale";"DUPLEIX";"Thierry";"M";20/06/68;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;;
-12;"Afrique centrale, australe et orientale";1203;"Cameroun, Guinée équatoriale";"LELOUSTRE";"Olivier";"M";21/07/74;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;;
-12;"Afrique centrale, australe et orientale";1203;"Cameroun, Guinée équatoriale";"PIALOT MVOT";"Esther";"F";15/05/61;43;"Profession intermédiaire de la santé et du travail social";31/05/21;"Président du conseil consulaire";28/06/21
-12;"Afrique centrale, australe et orientale";1204;"Comores";"MZÉ";"Djaouad";"M";01/10/79;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;"Président du conseil consulaire";03/06/21
-12;"Afrique centrale, australe et orientale";1205;"Congo";"BOULO";"Anne";"F";16/04/76;42;"Professeur des écoles, instituteur et assimilé";31/05/21;"Président du conseil consulaire";17/06/21
-12;"Afrique centrale, australe et orientale";1205;"Congo";"CHANGARNIER";"Cyril";"M";27/04/83;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;;
-12;"Afrique centrale, australe et orientale";1205;"Congo";"MARINI";"René";"M";24/10/63;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;"Président du conseil consulaire";17/06/21
-12;"Afrique centrale, australe et orientale";1206;"Djibouti";"MEUNIER";"Jean";"M";07/12/45;74;"Ancien cadre";31/05/21;;
-12;"Afrique centrale, australe et orientale";1206;"Djibouti";"PARDINA";"Eva";"F";27/01/81;42;"Professeur des écoles, instituteur et assimilé";31/05/21;;
-12;"Afrique centrale, australe et orientale";1206;"Djibouti";"SADEQUE";"Vincent";"M";21/02/61;33;"Cadre de la fonction publique";31/05/21;"Président du conseil consulaire";30/08/21
-12;"Afrique centrale, australe et orientale";1207;"Ethiopie, Soudan, Soudan du Sud";"GLEYZE";"Michel";"M";11/01/71;42;"Professeur des écoles, instituteur et assimilé";31/05/21;"Président du conseil consulaire";16/06/21
-12;"Afrique centrale, australe et orientale";1208;"Gabon";"LESPINAS";"Didier";"M";15/12/54;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;;
-12;"Afrique centrale, australe et orientale";1208;"Gabon";"REYNAUD";"Eliane";"F";25/10/48;46;"Profession intermédiaire administrative et commerciale des entreprises";31/05/21;;
-12;"Afrique centrale, australe et orientale";1208;"Gabon";"RIBERT";"Corine";"F";21/09/61;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;"Président du conseil consulaire";24/06/21
-12;"Afrique centrale, australe et orientale";1209;"Kenya, Ouganda, Rwanda, Burundi, Tanzanie, Zambie, Zimbabwe";"DEMOUSTIER";"Aude";"F";28/09/54;35;"Profession de l'information, des arts et des spectacles";31/05/21;"Président du conseil consulaire";17/06/21
-12;"Afrique centrale, australe et orientale";1209;"Kenya, Ouganda, Rwanda, Burundi, Tanzanie, Zambie, Zimbabwe";"DOMELEVO ENTFELLNER";"Jean-Baka";"M";30/08/82;34;"Professeur, profession scientifique";31/05/21;"Président du conseil consulaire";21/06/21
-12;"Afrique centrale, australe et orientale";1209;"Kenya, Ouganda, Rwanda, Burundi, Tanzanie, Zambie, Zimbabwe";"WAIDE";"Daniel";"M";09/09/75;42;"Professeur des écoles, instituteur et assimilé";01/07/22;"Président du conseil consulaire";04/08/22
-12;"Afrique centrale, australe et orientale";1210;"Madagascar";"CHAOUI";"Jean-Daniel";"M";06/06/47;77;"Ancien employé";07/11/21;;
-12;"Afrique centrale, australe et orientale";1210;"Madagascar";"FIDALY";"Houssen";"M";08/10/81;22;"Commerçant et assimilé";07/11/21;;
-12;"Afrique centrale, australe et orientale";1210;"Madagascar";"FRASLIN";"Jean-Hervé";"M";01/07/61;23;"Chef d'entreprise de 10 salariés ou plus";07/11/21;"Président du conseil consulaire";09/11/21
-12;"Afrique centrale, australe et orientale";1210;"Madagascar";"TADJER-FARAJALLAH";"Geneviève";"F";18/10/61;22;"Commerçant et assimilé";07/11/21;;
-12;"Afrique centrale, australe et orientale";1211;"Maurice, Seychelles";"DE LOPPINOT";"Charles";"M";08/07/65;37;"Cadre administratif et commercial d'entreprise";31/05/21;;
-12;"Afrique centrale, australe et orientale";1211;"Maurice, Seychelles";"DUBOURG DE LA TOUR";"Xavier";"M";09/07/60;31;"Profession libérale";31/05/21;;
-12;"Afrique centrale, australe et orientale";1211;"Maurice, Seychelles";"GIRAUD-MALIVEL";"Michèle";"F";13/04/42;31;"Profession libérale";31/05/21;"Président du conseil consulaire";15/06/21
-12;"Afrique centrale, australe et orientale";1211;"Maurice, Seychelles";"MACTOOM";"Parveen";"F";17/07/68;37;"Cadre administratif et commercial d'entreprise";31/05/21;;
-12;"Afrique centrale, australe et orientale";1212;"Nigéria";"GILBERT";"Yann";"M";24/12/74;37;"Cadre administratif et commercial d'entreprise";31/05/21;"Président du conseil consulaire";24/06/21
-12;"Afrique centrale, australe et orientale";1213;"République centrafricaine";"GILBERT";"Jean-Charles";"M";23/09/72;22;"Commerçant et assimilé";31/05/21;"Président du conseil consulaire";01/06/21
-12;"Afrique centrale, australe et orientale";1214;"République démocratique du Congo";"KATENDE";"Madeleine";"F";28/11/61;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;"Président du conseil consulaire";09/06/21
-12;"Afrique centrale, australe et orientale";1214;"République démocratique du Congo";"MÉRIAU";"Franck";"M";14/05/63;34;"Professeur, profession scientifique";31/05/21;;
-12;"Afrique centrale, australe et orientale";1214;"République démocratique du Congo";"WAZNE";"Henry Yoan";"M";21/10/70;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;;
-12;"Afrique centrale, australe et orientale";1215;"Tchad";"MIALLIER";"Thierry";"M";20/04/51;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;"Président du conseil consulaire";29/06/21
-13;"Asie centrale et Moyen-Orient";1301;"Arabie saoudite - 1re circonscription ( avec Yémen )";"BOUTHENET";"Elise";"F";01/01/85;34;"Professeur, profession scientifique";31/05/21;;
-13;"Asie centrale et Moyen-Orient";1301;"Arabie saoudite - 1re circonscription ( avec Yémen )";"CHAAYA";"Nadia";"F";02/07/64;31;"Profession libérale";31/05/21;"Président du conseil consulaire";16/06/21
-13;"Asie centrale et Moyen-Orient";1301;"Arabie saoudite - 1re circonscription ( avec Yémen )";"EL AMERI";"Abdeljabbar";"M";20/05/68;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;;
-13;"Asie centrale et Moyen-Orient";1302;"Arabie saoudite - 2e circonscription ( avec Koweït )";"ABI RAMIA";"Mira";"F";02/07/75;85;"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)";31/05/21;;
-13;"Asie centrale et Moyen-Orient";1302;"Arabie saoudite - 2e circonscription ( avec Koweït )";"LETANCHE";"Hugues";"M";19/09/80;37;"Cadre administratif et commercial d'entreprise";31/05/21;"Président du conseil consulaire";23/06/21
-13;"Asie centrale et Moyen-Orient";1302;"Arabie saoudite - 2e circonscription ( avec Koweït )";"SLAIMAN";"Zaïda";"F";07/03/63;22;"Commerçant et assimilé";31/05/21;"Président du conseil consulaire";07/06/21
-13;"Asie centrale et Moyen-Orient";1303;"Emirats arabes unis, Oman";"GRIMA";"Gilles";"M";20/06/64;74;"Ancien cadre";31/05/21;;
-13;"Asie centrale et Moyen-Orient";1303;"Emirats arabes unis, Oman";"MORIOU";"Isabelle";"F";07/09/70;42;"Professeur des écoles, instituteur et assimilé";31/05/21;;
-13;"Asie centrale et Moyen-Orient";1303;"Emirats arabes unis, Oman";"NASSIF";"Guillaume";"M";14/10/83;37;"Cadre administratif et commercial d'entreprise";31/05/21;;
-13;"Asie centrale et Moyen-Orient";1303;"Emirats arabes unis, Oman";"RIGAUD";"Laurent";"M";20/08/64;31;"Profession libérale";31/05/21;"Président du conseil consulaire";23/06/21
-13;"Asie centrale et Moyen-Orient";1303;"Emirats arabes unis, Oman";"SEROL";"Hervé";"M";19/05/70;31;"Profession libérale";31/05/21;;
-13;"Asie centrale et Moyen-Orient";1304;"Iran, Pakistan, Afghanistan, Azerbaïdjan, Turkmenistan, Kazakhstan, Tadjikistan, Ouzbékistan, Kirghizstan";"FRANCAIS";"Anne-Sophie";"F";16/09/74;31;"Profession libérale";31/05/21;;
-13;"Asie centrale et Moyen-Orient";1304;"Iran, Pakistan, Afghanistan, Azerbaïdjan, Turkmenistan, Kazakhstan, Tadjikistan, Ouzbékistan, Kirghizstan";"MANECHE";"Baki";"M";05/09/69;31;"Profession libérale";31/05/21;;
-13;"Asie centrale et Moyen-Orient";1304;"Iran, Pakistan, Afghanistan, Azerbaïdjan, Turkmenistan, Kazakhstan, Tadjikistan, Ouzbékistan, Kirghizstan";"MEIMAND";"Armand";"M";28/04/69;31;"Profession libérale";31/05/21;"Président du conseil consulaire";23/06/21
-13;"Asie centrale et Moyen-Orient";1305;"Jordanie, Irak";"LEDGER-MOUSSALLAM";"Laurence";"F";01/10/56;77;"Ancien employé";31/05/21;"Président du conseil consulaire";08/07/21
-13;"Asie centrale et Moyen-Orient";1306;"Liban, Syrie";"ASSI";"Rola Marianne";"F";12/06/83;31;"Profession libérale";11/01/23;;
-13;"Asie centrale et Moyen-Orient";1306;"Liban, Syrie";"AYOUB";"Ghassan";"M";22/02/54;31;"Profession libérale";31/05/21;"Président du conseil consulaire";16/06/21
-13;"Asie centrale et Moyen-Orient";1306;"Liban, Syrie";"LAMAH";"Lucas";"M";15/03/75;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;;
-13;"Asie centrale et Moyen-Orient";1306;"Liban, Syrie";"NASSOUR";"Ziad";"M";27/09/59;31;"Profession libérale";23/10/21;;
-13;"Asie centrale et Moyen-Orient";1306;"Liban, Syrie";"REVERS-HADDAD";"Denise";"F";26/03/40;86;"Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)";31/05/21;;
-13;"Asie centrale et Moyen-Orient";1307;"Qatar, Bahreïn";"HOUNGBO-MONTEVERDE";"Rosiane";"F";08/10/81;31;"Profession libérale";31/05/21;;
-13;"Asie centrale et Moyen-Orient";1307;"Qatar, Bahreïn";"SALHA";"Guillaume";"M";19/11/68;38;"Ingénieur et cadre technique d'entreprise";31/05/21;"Président du conseil consulaire";08/07/21
-13;"Asie centrale et Moyen-Orient";1307;"Qatar, Bahreïn";"TORRIJOS";"Elena";"F";06/06/80;37;"Cadre administratif et commercial d'entreprise";31/05/21;;
-14;"Israël et Territoires palestiniens";1401;"Israël et Territoires palestiniens - 1re circonscription";"ASSOUS";"Winston";"M";24/05/45;86;"Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)";31/05/21;;
-14;"Israël et Territoires palestiniens";1401;"Israël et Territoires palestiniens - 1re circonscription";"ASSULI";"Samantha";"F";01/03/75;55;"Employé de commerce";31/05/21;;
-14;"Israël et Territoires palestiniens";1401;"Israël et Territoires palestiniens - 1re circonscription";"BELLAÏCHE";"Eric";"M";10/12/58;31;"Profession libérale";31/05/21;"Président du conseil consulaire";10/06/21
-14;"Israël et Territoires palestiniens";1401;"Israël et Territoires palestiniens - 1re circonscription";"KAMOUN";"Paul";"M";21/08/53;34;"Professeur, profession scientifique";31/05/21;;
-14;"Israël et Territoires palestiniens";1401;"Israël et Territoires palestiniens - 1re circonscription";"SEMHOUN";"Hélène";"F";19/07/54;45;"Profession intermédiaire administrative de la fonction publique";31/05/21;;
-14;"Israël et Territoires palestiniens";1402;"Israël et Territoires palestiniens - 2e circonscription";"ALLOUCHE";"Robert";"M";09/07/52;86;"Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)";31/05/21;"Président du conseil consulaire";06/10/23
-14;"Israël et Territoires palestiniens";1402;"Israël et Territoires palestiniens - 2e circonscription";"HABIB";"Johann";"M";07/09/74;31;"Profession libérale";31/05/21;;
-14;"Israël et Territoires palestiniens";1402;"Israël et Territoires palestiniens - 2e circonscription";"LEVY";"Claude";"M";26/05/56;31;"Profession libérale";31/05/21;;
-14;"Israël et Territoires palestiniens";1402;"Israël et Territoires palestiniens - 2e circonscription";"LEVY";"Elie";"M";20/02/47;72;"Ancien artisan, commerçant, chef d'entreprise";31/05/21;;
-14;"Israël et Territoires palestiniens";1402;"Israël et Territoires palestiniens - 2e circonscription";"MIMOUNI";"Pascale";"F";30/09/73;33;"Cadre de la fonction publique";31/05/21;;
-14;"Israël et Territoires palestiniens";1402;"Israël et Territoires palestiniens - 2e circonscription";"POZNANSKI";"Daphna";"F";03/06/50;31;"Profession libérale";31/05/21;;
-15;"Asie-Océanie";1501;"Australie, Fidji, Papouasie-Nouvelle-Guinée";"BRUNEL";"Caroline";"F";31/05/78;31;"Profession libérale";31/05/21;;
-15;"Asie-Océanie";1501;"Australie, Fidji, Papouasie-Nouvelle-Guinée";"GRANGE";"Jean-Philippe";"M";13/07/68;31;"Profession libérale";31/05/21;"Président du conseil consulaire";29/06/21
-15;"Asie-Océanie";1501;"Australie, Fidji, Papouasie-Nouvelle-Guinée";"LEGER";"Elise";"F";13/02/89;34;"Professeur, profession scientifique";31/05/21;;
-15;"Asie-Océanie";1501;"Australie, Fidji, Papouasie-Nouvelle-Guinée";"THOMANN";"Serge";"M";24/03/60;35;"Profession de l'information, des arts et des spectacles";31/05/21;;
-15;"Asie-Océanie";1501;"Australie, Fidji, Papouasie-Nouvelle-Guinée";"VILLIÈRE";"Valérie";"F";12/10/63;52;"Employé civil et agent de service de la fonction publique";31/05/21;;
-15;"Asie-Océanie";1502;"Cambodge";"BOHEME";"Florian";"M";20/11/84;31;"Profession libérale";31/05/21;;
-15;"Asie-Océanie";1502;"Cambodge";"LESTIENNE";"Jean";"M";04/07/51;77;"Ancien employé";31/05/21;;
-15;"Asie-Océanie";1502;"Cambodge";"REMIGI";"Victor";"M";16/04/50;31;"Profession libérale";31/05/21;"Président du conseil consulaire";18/06/21
-15;"Asie-Océanie";1503;"Chine - 1re circonscription";"BAROUDJIAN";"Sevag";"M";21/07/85;85;"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)";01/07/23;;
-15;"Asie-Océanie";1503;"Chine - 1re circonscription";"BASSIR";"David";"M";10/08/71;34;"Professeur, profession scientifique";31/05/21;"Président du conseil consulaire";20/07/23
-15;"Asie-Océanie";1503;"Chine - 1re circonscription";"CRESSARD";"Blandine";"F";23/12/62;37;"Cadre administratif et commercial d'entreprise";30/12/21;;
-15;"Asie-Océanie";1504;"Chine - 2e circonscription ( avec Mongolie et Corée du Nord )";"BODIN";"Ludovic";"M";05/01/79;23;"Chef d'entreprise de 10 salariés ou plus";25/10/22;;
-15;"Asie-Océanie";1504;"Chine - 2e circonscription ( avec Mongolie et Corée du Nord )";"ONILLON";"Françoise";"F";02/02/48;31;"Profession libérale";31/05/21;;
-15;"Asie-Océanie";1504;"Chine - 2e circonscription ( avec Mongolie et Corée du Nord )";"PAJOT";"Franck";"M";30/09/65;34;"Professeur, profession scientifique";31/05/21;"Président du conseil consulaire";30/06/21
-15;"Asie-Océanie";1505;"Chine - 3e circonscription";"DUPUIS";"Pierre-Yves";"M";27/10/82;37;"Cadre administratif et commercial d'entreprise";31/05/21;;
-15;"Asie-Océanie";1505;"Chine - 3e circonscription";"GUYON";"Marc";"M";21/03/84;22;"Commerçant et assimilé";31/05/21;;
-15;"Asie-Océanie";1505;"Chine - 3e circonscription";"MARTIN";"Catya";"F";28/05/69;37;"Cadre administratif et commercial d'entreprise";31/05/21;"Président du conseil consulaire";25/06/21
-15;"Asie-Océanie";1505;"Chine - 3e circonscription";"TRAN-SAUTEDÉ";"Emilie";"F";03/03/75;34;"Professeur, profession scientifique";31/05/21;;
-15;"Asie-Océanie";1506;"Chine - 4e circonscription";"MALLET";"Guillaume";"M";17/08/85;38;"Ingénieur et cadre technique d'entreprise";31/05/21;"Président du conseil consulaire";11/06/21
-15;"Asie-Océanie";1506;"Chine - 4e circonscription";"POZZOBON";"Céline";"F";13/11/88;37;"Cadre administratif et commercial d'entreprise";08/06/23;;
-15;"Asie-Océanie";1506;"Chine - 4e circonscription";"VUATTOUX";"Romain";"M";15/02/83;34;"Professeur, profession scientifique";13/05/22;;
-15;"Asie-Océanie";1507;"Corée du Sud, Taïwan";"JOINAU";"Benjamin";"M";19/10/69;34;"Professeur, profession scientifique";31/05/21;"Président du conseil consulaire";07/06/21
-15;"Asie-Océanie";1507;"Corée du Sud, Taïwan";"ORY";"Pierre";"M";24/04/67;42;"Professeur des écoles, instituteur et assimilé";05/07/22;;
-15;"Asie-Océanie";1507;"Corée du Sud, Taïwan";"PROVENZANO";"Julien";"M";14/09/81;35;"Profession de l'information, des arts et des spectacles";16/07/22;;
-15;"Asie-Océanie";1508;"Inde - 1re circonscription ( avec Bangladesh, Népal, Sri Lanka )";"BARTHELEMY";"Franck";"M";09/01/69;31;"Profession libérale";07/11/21;"Président du conseil consulaire";10/11/21
-15;"Asie-Océanie";1508;"Inde - 1re circonscription ( avec Bangladesh, Népal, Sri Lanka )";"D'ASCOLI";"Cécile";"F";14/11/69;23;"Chef d'entreprise de 10 salariés ou plus";07/11/21;;
-15;"Asie-Océanie";1508;"Inde - 1re circonscription ( avec Bangladesh, Népal, Sri Lanka )";"FAUCHILLE";"Jean-Baptiste";"M";08/12/79;34;"Professeur, profession scientifique";07/11/21;;
-15;"Asie-Océanie";1509;"Inde - 2e circonscription";"BICHAT";"Balaramin";"M";03/11/41;74;"Ancien cadre";07/11/21;;
-15;"Asie-Océanie";1509;"Inde - 2e circonscription";"LASSALLE SIVA";"Christine";"F";11/10/74;23;"Chef d'entreprise de 10 salariés ou plus";01/07/23;;
-15;"Asie-Océanie";1509;"Inde - 2e circonscription";"SAMUEL-DAVID";"Chantal";"F";25/05/64;85;"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)";07/11/21;"Président du conseil consulaire";12/11/21
-15;"Asie-Océanie";1510;"Indonésie";"LE TOUZEY";"Hélène";"F";15/12/50;54;"Employé administratif d'entreprise";31/05/21;;
-15;"Asie-Océanie";1510;"Indonésie";"LUÇON";"Jacques";"M";03/10/54;37;"Cadre administratif et commercial d'entreprise";31/05/21;;
-15;"Asie-Océanie";1510;"Indonésie";"MIGNON";"Alain Pierre";"M";18/03/47;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;"Président du conseil consulaire";16/06/21
-15;"Asie-Océanie";1511;"Japon";"CONSIGNY";"Thierry";"M";12/03/60;31;"Profession libérale";31/05/21;"Président du conseil consulaire";15/06/21
-15;"Asie-Océanie";1511;"Japon";"JOLY";"Alexandre";"M";27/10/72;31;"Profession libérale";01/10/23;;
-15;"Asie-Océanie";1511;"Japon";"MARIE";"Marie-José";"F";03/05/56;42;"Professeur des écoles, instituteur et assimilé";31/05/21;;
-15;"Asie-Océanie";1511;"Japon";"ROUSSEL";"François";"M";28/01/62;34;"Professeur, profession scientifique";31/05/21;;
-15;"Asie-Océanie";1512;"Laos";"BOULOM";"Daniel";"M";21/10/73;55;"Employé de commerce";31/05/21;"Président du conseil consulaire";18/06/21
-15;"Asie-Océanie";1513;"Malaisie, Brunei";"CLOAREC";"Quentin";"M";25/12/87;31;"Profession libérale";31/05/21;;
-15;"Asie-Océanie";1513;"Malaisie, Brunei";"GICQUEL";"Jean-Yves";"M";13/08/55;31;"Profession libérale";31/05/21;;
-15;"Asie-Océanie";1513;"Malaisie, Brunei";"RIVES-GEORGES";"Olivier";"M";15/01/58;77;"Ancien employé";31/05/21;"Président du conseil consulaire";25/06/21
-15;"Asie-Océanie";1514;"Nouvelle-Zélande";"GUILLEMOT-PEACOCK";"Géraldine";"F";14/11/78;56;"Personnel des services directs aux particuliers";31/05/21;;
-15;"Asie-Océanie";1514;"Nouvelle-Zélande";"LEDUCQ";"Pierre";"M";22/06/61;31;"Profession libérale";31/05/21;;
-15;"Asie-Océanie";1514;"Nouvelle-Zélande";"PLET";"Nadine";"F";28/02/57;45;"Profession intermédiaire administrative de la fonction publique";31/05/21;"Président du conseil consulaire";18/06/21
-15;"Asie-Océanie";1515;"Philippines";"D'ABOVILLE";"Hubert";"M";05/07/54;72;"Ancien artisan, commerçant, chef d'entreprise";31/05/21;;
-15;"Asie-Océanie";1515;"Philippines";"LABBÉ";"Kévin";"M";25/02/80;55;"Employé de commerce";20/10/21;;
-15;"Asie-Océanie";1515;"Philippines";"LEJEUNE";"Christophe";"M";29/05/65;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;"Président du conseil consulaire";11/06/21
-15;"Asie-Océanie";1516;"Singapour";"COGNON";"Aurélien";"M";19/12/79;37;"Cadre administratif et commercial d'entreprise";31/05/21;;
-15;"Asie-Océanie";1516;"Singapour";"HURET";"Laurence";"F";05/03/67;37;"Cadre administratif et commercial d'entreprise";31/05/21;;
-15;"Asie-Océanie";1516;"Singapour";"PROVENDIER";"Remi";"M";24/12/71;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;;
-15;"Asie-Océanie";1516;"Singapour";"YEBKA";"Belma";"F";02/02/76;23;"Chef d'entreprise de 10 salariés ou plus";31/05/21;"Président du conseil consulaire";22/06/21
-15;"Asie-Océanie";1517;"Thaïlande, Birmanie";"BAUCHET";"Claude";"M";28/10/51;37;"Cadre administratif et commercial d'entreprise";31/05/21;;
-15;"Asie-Océanie";1517;"Thaïlande, Birmanie";"CHEVRIER";"Christian Henri";"M";17/11/50;77;"Ancien employé";31/05/21;"Président du conseil consulaire";18/06/21
-15;"Asie-Océanie";1517;"Thaïlande, Birmanie";"LAVAL";"Marc";"M";10/04/54;72;"Ancien artisan, commerçant, chef d'entreprise";01/01/24;;
-15;"Asie-Océanie";1517;"Thaïlande, Birmanie";"MINÉ";"Éric";"M";15/12/60;31;"Profession libérale";31/05/21;;
-15;"Asie-Océanie";1518;"Vanuatu";"CUMBO";"Georges";"M";09/05/66;35;"Profession de l'information, des arts et des spectacles";31/05/21;"Président du conseil consulaire";21/06/21
-15;"Asie-Océanie";1519;"Vietnam";"FISCHER";"Laurent";"M";27/12/65;22;"Commerçant et assimilé";31/05/21;"Président du conseil consulaire";22/06/21
-15;"Asie-Océanie";1519;"Vietnam";"POLLET";"Sébastien";"M";08/01/77;31;"Profession libérale";31/05/21;;
-15;"Asie-Océanie";1519;"Vietnam";"VILLARD";"Marc";"M";26/03/51;37;"Cadre administratif et commercial d'entreprise";31/05/21;"Président du conseil consulaire";10/06/21
+"Code de la circonscription AFE";"Libellé la circonscription AFE";"Code de la circonscription consulaire";"Libellé de la circonscription consulaire";"Nom de l'élu";"Prénom de l'élu";"Code sexe";"Date de naissance";"Lieu de naissance";"Code de la catégorie socio-professionnelle";"Libellé de la catégorie socio-professionnelle";"Date de début du mandat";"Libellé de la fonction";"Date de début de la fonction"
+1;"Canada";101;"Canada - 1re circonscription";"DELLAPINA";"Cindy";"F";1979-02-12;"Rouen";65;"Ouvrier qualifié de la manutention, du magasinage et du transport";2021-05-31;"Président du conseil consulaire";2022-10-24
+1;"Canada";101;"Canada - 1re circonscription";"DELLAPINA";"Olivier";"M";1975-09-17;"PARIS10";54;"Employé administratif d'entreprise";2021-05-31;;
+1;"Canada";101;"Canada - 1re circonscription";"GALLET";"Aloïs";"M";1985-09-23;"Charleville-Mézières";22;"Commerçant et assimilé";2021-05-31;;
+1;"Canada";101;"Canada - 1re circonscription";"POINT";"Franck";"M";1966-03-23;"LYON 6E ARRONDISSEMENT";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;;
+1;"Canada";102;"Canada - 2e circonscription";"ADENOT-OWUSU";"Delphine";"F";1985-06-30;"Nevers";37;"Cadre administratif et commercial d'entreprise";2021-05-31;;
+1;"Canada";102;"Canada - 2e circonscription";"BIDERMAN";"Séverine";"F";1972-06-19;"PARIS 9ème";35;"Profession de l'information, des arts et des spectacles";2022-11-01;;
+1;"Canada";102;"Canada - 2e circonscription";"GIFFAUX";"Olivier";"M";1973-03-05;"Gouvieux";54;"Employé administratif d'entreprise";2021-05-31;;
+1;"Canada";102;"Canada - 2e circonscription";"WATKINS";"Francine";"F";1949-12-03;"Metz";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;"Président du conseil consulaire";2021-06-16
+1;"Canada";103;"Canada - 3e circonscription";"BERT";"Laetitia";"F";1992-04-02;"Echirolles";84;"Elève, étudiant";2021-05-31;"Président du conseil consulaire";2021-06-08
+1;"Canada";103;"Canada - 3e circonscription";"LECOMTE";"Guillaume";"M";1996-10-28;"Strasbourg";38;"Ingénieur et cadre technique d'entreprise";2021-05-31;;
+1;"Canada";103;"Canada - 3e circonscription";"SILVE";"Arthur";"M";1982-04-20;"Aix-En-Provence";34;"Professeur, profession scientifique";2021-05-31;"Président du conseil consulaire";2022-01-25
+1;"Canada";103;"Canada - 3e circonscription";"TROUSSIER";"Richard";"M";1972-08-14;"CANADA";37;"Cadre administratif et commercial d'entreprise";2021-10-22;;
+1;"Canada";104;"Canada - 4e circonscription";"BOURGOIN";"Alaric";"M";1984-08-23;"Vannes";34;"Professeur, profession scientifique";2022-10-23;;
+1;"Canada";104;"Canada - 4e circonscription";"CHAINEL";"Sophie";"F";1987-01-20;"Maisons-Alfort";38;"Ingénieur et cadre technique d'entreprise";2022-10-23;;
+1;"Canada";104;"Canada - 4e circonscription";"FROEHLICH";"Thibault";"M";1997-10-04;"Wissembourg";31;"Profession libérale";2022-10-23;;
+1;"Canada";104;"Canada - 4e circonscription";"IMBEAU";"Lucie";"F";1988-10-04;"Bavincourt";33;"Cadre de la fonction publique";2022-10-23;"Président du conseil consulaire";2022-11-02
+1;"Canada";104;"Canada - 4e circonscription";"OLIVIÉ";"Gwenaelle";"F";1969-09-04;"Boulogne-Billancourt";34;"Professeur, profession scientifique";2022-10-23;;
+1;"Canada";104;"Canada - 4e circonscription";"PIGEYRE";"Florent";"M";1977-06-18;"La Celle-Saint-Cloud";38;"Ingénieur et cadre technique d'entreprise";2022-10-23;;
+1;"Canada";104;"Canada - 4e circonscription";"SFEIR";"Ramzi";"M";1986-02-09;"JERUSALEM";37;"Cadre administratif et commercial d'entreprise";2022-10-23;;
+2;"Etats-Unis d'Amérique";201;"Etats-Unis - 1re circonscription";"LEMOINE";"Dominique";"M";1959-10-15;"Le Raincy";31;"Profession libérale";2021-05-31;"Président du conseil consulaire";2021-06-25
+2;"Etats-Unis d'Amérique";201;"Etats-Unis - 1re circonscription";"NDIAYE";"Ndeye Penda";"F";1975-03-09;"SÉNÉGAL";37;"Cadre administratif et commercial d'entreprise";2021-05-31;;
+2;"Etats-Unis d'Amérique";201;"Etats-Unis - 1re circonscription";"OLIVERES-ALAIN";"Michèle";"F";1948-12-27;"Toulouse";46;"Profession intermédiaire administrative et commerciale des entreprises";2021-05-31;;
+2;"Etats-Unis d'Amérique";202;"Etats-Unis - 2e circonscription";"CAVANAGH";"Julien";"M";1979-10-10;"PARIS 14E ARRONDISSEMENT";34;"Professeur, profession scientifique";2021-05-31;;
+2;"Etats-Unis d'Amérique";202;"Etats-Unis - 2e circonscription";"HULOT";"Sandrine";"F";1972-07-31;"Draveil";34;"Professeur, profession scientifique";2021-05-31;"Président du conseil consulaire";2021-06-25
+2;"Etats-Unis d'Amérique";202;"Etats-Unis - 2e circonscription";"ROCHE";"Anne-Clotilde";"F";1975-05-14;"Argentine";38;"Ingénieur et cadre technique d'entreprise";2021-05-31;;
+2;"Etats-Unis d'Amérique";202;"Etats-Unis - 2e circonscription";"RUEDA";"Maria José";"F";1968-09-08;"COLOMBIE";34;"Professeur, profession scientifique";2021-05-31;;
+2;"Etats-Unis d'Amérique";203;"Etats-Unis - 3e circonscription";"BONNETE";"Jean-François";"M";1974-04-23;"Dinan";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;"Président du conseil consulaire";2021-06-18
+2;"Etats-Unis d'Amérique";203;"Etats-Unis - 3e circonscription";"GROSDIDIER";"Pierre";"M";1958-08-30;"CAMEROUN";33;"Cadre de la fonction publique";2021-05-31;;
+2;"Etats-Unis d'Amérique";203;"Etats-Unis - 3e circonscription";"JAKUBOWICZ";"Yves";"M";1966-03-28;"PARIS 16E ARRONDISSEMENT";37;"Cadre administratif et commercial d'entreprise";2021-05-31;;
+2;"Etats-Unis d'Amérique";203;"Etats-Unis - 3e circonscription";"PELLETIER";"Bertrand";"M";1944-10-29;"Bagnac-Sur-Célé";23;"Chef d'entreprise de 10 salariés ou plus";2024-02-05;;
+2;"Etats-Unis d'Amérique";204;"Etats-Unis - 4e circonscription";"BOURBON";"Patrick";"M";1977-01-11;"Toulouse";31;"Profession libérale";2021-05-31;"Président du conseil consulaire";2021-06-15
+2;"Etats-Unis d'Amérique";204;"Etats-Unis - 4e circonscription";"DELPIERRE";"Aline";"F";1965-06-19;"Aix-En-Provence";31;"Profession libérale";2021-05-31;;
+2;"Etats-Unis d'Amérique";204;"Etats-Unis - 4e circonscription";"LARAICHI";"Oussama";"M";1988-01-13;"MAROC";38;"Ingénieur et cadre technique d'entreprise";2021-05-31;;
+2;"Etats-Unis d'Amérique";204;"Etats-Unis - 4e circonscription";"LAURENS";"Khadija";"F";1977-09-09;"ALGERIE";37;"Cadre administratif et commercial d'entreprise";2022-02-02;;
+2;"Etats-Unis d'Amérique";205;"Etats-Unis - 5e circonscription";"BERNERD";"Frédéric";"M";1976-04-16;"Vannes";43;"Profession intermédiaire de la santé et du travail social";2023-12-02;;
+2;"Etats-Unis d'Amérique";205;"Etats-Unis - 5e circonscription";"BONDRILLE";"Franck";"M";1967-05-18;"Ajaccio";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;"Président du conseil consulaire";2021-06-09
+2;"Etats-Unis d'Amérique";205;"Etats-Unis - 5e circonscription";"GAULT";"Axelle";"F";1979-09-05;"Bourges";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;;
+2;"Etats-Unis d'Amérique";205;"Etats-Unis - 5e circonscription";"MARTIN-O'BRIEN";"Aline";"F";1975-10-14;"Chambray-Lès-Tours";31;"Profession libérale";2021-07-12;;
+2;"Etats-Unis d'Amérique";206;"Etats-Unis - 6e circonscription";"CHANTEPIE";"Blandine";"F";1983-03-11;"Amiens";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;;
+2;"Etats-Unis d'Amérique";206;"Etats-Unis - 6e circonscription";"CURIONI";"Monique";"F";1953-02-11;"PARIS 17E ARRONDISSEMENT";42;"Professeur des écoles, instituteur et assimilé";2021-05-31;"Président du conseil consulaire";2021-06-18
+2;"Etats-Unis d'Amérique";206;"Etats-Unis - 6e circonscription";"LEYDIER";"Béatrice";"F";1993-09-17;"Toulouse";34;"Professeur, profession scientifique";2021-05-31;;
+2;"Etats-Unis d'Amérique";206;"Etats-Unis - 6e circonscription";"PITON";"Olivier";"M";1966-08-03;"PARIS17";31;"Profession libérale";2021-05-31;;
+2;"Etats-Unis d'Amérique";207;"Etats-Unis - 7e circonscription";"CARACO";"Patrick";"M";1949-11-16;"LYON 6E ARRONDISSEMENT";31;"Profession libérale";2021-05-31;;
+2;"Etats-Unis d'Amérique";207;"Etats-Unis - 7e circonscription";"DEMEESTERE";"Hélène";"F";1955-10-12;"Lille";34;"Professeur, profession scientifique";2021-05-31;;
+2;"Etats-Unis d'Amérique";207;"Etats-Unis - 7e circonscription";"HAJJAR";"Cynthia";"F";1974-03-04;"LIBAN";35;"Profession de l'information, des arts et des spectacles";2021-05-31;;
+2;"Etats-Unis d'Amérique";207;"Etats-Unis - 7e circonscription";"MICHON";"Gérard";"M";1956-03-29;"Talence";31;"Profession libérale";2021-05-31;;
+2;"Etats-Unis d'Amérique";207;"Etats-Unis - 7e circonscription";"ORAND";"Stanislas";"M";1963-09-04;"Puteaux";38;"Ingénieur et cadre technique d'entreprise";2021-05-31;"Président du conseil consulaire";2021-06-29
+2;"Etats-Unis d'Amérique";208;"Etats-Unis - 8e circonscription";"BERNARD";"Jean-Pierre";"M";1953-10-31;"Saint-Germain-En-Laye";31;"Profession libérale";2021-05-31;;
+2;"Etats-Unis d'Amérique";208;"Etats-Unis - 8e circonscription";"LARTILLEUX SUBERVILLE";"Sophie";"F";1963-10-12;"MEXIQUE";31;"Profession libérale";2021-05-31;;
+2;"Etats-Unis d'Amérique";208;"Etats-Unis - 8e circonscription";"LE GLAND";"Loïc";"M";1977-03-30;"Vannes";38;"Ingénieur et cadre technique d'entreprise";2021-05-31;;
+2;"Etats-Unis d'Amérique";208;"Etats-Unis - 8e circonscription";"MOREL";"Serge";"M";1963-03-18;"Mâcon";35;"Profession de l'information, des arts et des spectacles";2021-05-31;"Président du conseil consulaire";2023-10-13
+2;"Etats-Unis d'Amérique";208;"Etats-Unis - 8e circonscription";"SOUIHI";"Warda";"F";1987-04-17;"Mont-Saint-Aignan";33;"Cadre de la fonction publique";2021-05-31;;
+2;"Etats-Unis d'Amérique";209;"Etats-Unis - 9e circonscription";"EPELBAUM";"Gérard";"M";1958-03-11;"PARIS11";31;"Profession libérale";2021-05-31;"Président du conseil consulaire";2021-06-17
+2;"Etats-Unis d'Amérique";209;"Etats-Unis - 9e circonscription";"MICHEL";"Annie";"F";1950-05-24;"Nevers";34;"Professeur, profession scientifique";2021-05-31;;
+2;"Etats-Unis d'Amérique";209;"Etats-Unis - 9e circonscription";"ORTOLI";"Richard";"M";1949-11-11;"SYDNEY";31;"Profession libérale";2021-05-31;;
+2;"Etats-Unis d'Amérique";209;"Etats-Unis - 9e circonscription";"PAGNI";"Patrick";"M";1949-07-15;"Nîmes";31;"Profession libérale";2021-07-02;;
+2;"Etats-Unis d'Amérique";209;"Etats-Unis - 9e circonscription";"RICHARD";"Pascale";"F";1958-11-08;"Boulogne-Billancourt";35;"Profession de l'information, des arts et des spectacles";2021-05-31;;
+3;"Amérique latine et Caraïbes";301;"Argentine";"DUBOIS";"Christophe";"M";1965-07-22;"Le Nouvion-En-Thiérache";31;"Profession libérale";2021-05-31;;
+3;"Amérique latine et Caraïbes";301;"Argentine";"GUILLOT";"Jérôme";"M";1961-05-24;"PARIS 16E ARRONDISSEMENT";42;"Professeur des écoles, instituteur et assimilé";2021-05-31;;
+3;"Amérique latine et Caraïbes";301;"Argentine";"PRESTAT";"Cédric";"M";1982-10-21;;38;"Ingénieur et cadre technique d'entreprise";2023-01-24;;
+3;"Amérique latine et Caraïbes";301;"Argentine";"WAKSMANN";"Laurent";"M";1985-09-16;"PARIS 16E ARRONDISSEMENT";37;"Cadre administratif et commercial d'entreprise";2021-05-31;"Président du conseil consulaire";2022-11-17
+3;"Amérique latine et Caraïbes";302;"Bolivie";"MANÇO-QUIROGA";"Maurice";"M";1964-09-05;"BELGIQUE";31;"Profession libérale";2021-05-31;"Président du conseil consulaire";2021-06-10
+3;"Amérique latine et Caraïbes";303;"Brésil - 1re circonscription ( avec Suriname )";"CAVIGNAC";"Julie";"F";1965-01-22;"Bordeaux";34;"Professeur, profession scientifique";2021-05-31;"Président du conseil consulaire";2021-12-07
+3;"Amérique latine et Caraïbes";303;"Brésil - 1re circonscription ( avec Suriname )";"DELUCHEY";"Jean-François";"M";1972-03-10;"Chartres";34;"Professeur, profession scientifique";2021-05-31;;
+3;"Amérique latine et Caraïbes";303;"Brésil - 1re circonscription ( avec Suriname )";"NOËL-BOUTON";"Xavier";"M";1947-11-04;"Neuilly-Sur-Seine";75;"Ancienne profession intermédiaire";2021-05-31;;
+3;"Amérique latine et Caraïbes";304;"Brésil - 2e circonscription";"GODEFROY";"Marie";"F";1952-01-19;"SÉNÉGAL";77;"Ancien employé";2021-05-31;;
+3;"Amérique latine et Caraïbes";304;"Brésil - 2e circonscription";"MATENCIO";"Tulio";"M";1962-11-03;"La Tronche";34;"Professeur, profession scientifique";2021-05-31;;
+3;"Amérique latine et Caraïbes";304;"Brésil - 2e circonscription";"MONTINARD";"Mélanie";"F";1981-08-14;"Blois";31;"Profession libérale";2021-05-31;"Président du conseil consulaire";2021-06-28
+3;"Amérique latine et Caraïbes";305;"Brésil - 3e circonscription";"DUPONT";"Bertrand";"M";1970-09-28;"Rennes";31;"Profession libérale";2021-05-31;;
+3;"Amérique latine et Caraïbes";305;"Brésil - 3e circonscription";"FERRAZ MARTINS";"Ana Fabia";"F";1969-12-02;"BRÉSIL";31;"Profession libérale";2021-05-31;"Président du conseil consulaire";2023-04-04
+3;"Amérique latine et Caraïbes";305;"Brésil - 3e circonscription";"LAPLACE";"Frédéric";"M";1969-05-18;"Tarbes";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;;
+3;"Amérique latine et Caraïbes";306;"Chili";"BESNIER";"Jean-Marc";"M";1957-11-23;"Neuilly-Sur-Seine";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;;
+3;"Amérique latine et Caraïbes";306;"Chili";"BLANCHE";"Catherine";"F";1981-12-04;"PARIS 18E ARRONDISSEMENT";35;"Profession de l'information, des arts et des spectacles";2021-05-31;;
+3;"Amérique latine et Caraïbes";306;"Chili";"COLAS";"Daniel";"M";1953-10-20;"Pantin";75;"Ancienne profession intermédiaire";2021-05-31;;
+3;"Amérique latine et Caraïbes";306;"Chili";"HARITÇALDE";"Marie Christine";"F";1948-10-13;"CHILI";31;"Profession libérale";2021-05-31;"Président du conseil consulaire";2021-06-16
+3;"Amérique latine et Caraïbes";307;"Colombie";"GAVIGNET";"Colin";"M";1974-07-18;"Suresnes";34;"Professeur, profession scientifique";2021-05-31;;
+3;"Amérique latine et Caraïbes";307;"Colombie";"LAVERGNE";"Cécile";"F";1984-08-20;"Toulouse";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;"Président du conseil consulaire";2021-06-29
+3;"Amérique latine et Caraïbes";307;"Colombie";"MARTIQUET";"Cyril";"M";1971-10-06;"Bayonne";31;"Profession libérale";2021-05-31;;
+3;"Amérique latine et Caraïbes";308;"Costa Rica, Honduras, Nicaragua";"GLOCK";"Denis";"M";1964-03-27;"Saint-Avold";42;"Professeur des écoles, instituteur et assimilé";2021-05-31;"Président du conseil consulaire";2021-06-15
+3;"Amérique latine et Caraïbes";308;"Costa Rica, Honduras, Nicaragua";"RABIA";"Malika";"F";1956-09-22;"Nanterre";31;"Profession libérale";2021-05-31;;
+3;"Amérique latine et Caraïbes";308;"Costa Rica, Honduras, Nicaragua";"STERNER";"Fanny";"F";1964-01-18;"Nîmes";72;"Ancien artisan, commerçant, chef d'entreprise";2021-05-31;;
+3;"Amérique latine et Caraïbes";309;"Equateur";"ANDRES";"François";"M";1949-11-17;"ESPAGNE";31;"Profession libérale";2021-05-31;;
+3;"Amérique latine et Caraïbes";309;"Equateur";"BRICARD";"Tannya";"F";1965-04-23;"EQUATEUR";37;"Cadre administratif et commercial d'entreprise";2021-05-31;"Président du conseil consulaire";2021-06-29
+3;"Amérique latine et Caraïbes";309;"Equateur";"DU PARC";"Yves";"M";1984-04-08;"PARIS 14E ARRONDISSEMENT";22;"Commerçant et assimilé";2021-05-31;;
+3;"Amérique latine et Caraïbes";310;"Guatemala, Salvador";"KAHN";"Alain";"M";1970-02-24;"SALVADOR";22;"Commerçant et assimilé";2021-05-31;"Président du conseil consulaire";2021-09-18
+3;"Amérique latine et Caraïbes";311;"Haïti";"CHIGNARD ÉPOUSE PAUL";"Christelle";"F";1975-04-18;"HAÏTI";22;"Commerçant et assimilé";2021-05-31;"Président du conseil consulaire";2021-06-25
+3;"Amérique latine et Caraïbes";312;"Mexique";"CHARRIER-ARGAILLOT";"Rémy";"M";1983-03-08;"FRANCE";31;"Profession libérale";2021-11-12;"Président du conseil consulaire";2023-08-08
+3;"Amérique latine et Caraïbes";312;"Mexique";"RAMON-DÉCHELETTE";"Véronique";"F";1970-05-14;"PARAGUAY";37;"Cadre administratif et commercial d'entreprise";2021-05-31;;
+3;"Amérique latine et Caraïbes";312;"Mexique";"SIGNORET";"Gérard";"M";1960-06-09;"MEXICO";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;;
+3;"Amérique latine et Caraïbes";312;"Mexique";"SUBERVILLE";"Geneviève";"F";1957-10-18;"MEXICO";72;"Ancien artisan, commerçant, chef d'entreprise";2021-05-31;;
+3;"Amérique latine et Caraïbes";313;"Panama, Cuba, Jamaïque";"GIRALDOU";"Marion";"F";1980-10-13;"Toulouse";34;"Professeur, profession scientifique";2021-05-31;;
+3;"Amérique latine et Caraïbes";313;"Panama, Cuba, Jamaïque";"GOERGLER";"Xavier";"M";1984-06-29;"Strasbourg";34;"Professeur, profession scientifique";2021-05-31;"Président du conseil consulaire";2021-06-23
+3;"Amérique latine et Caraïbes";313;"Panama, Cuba, Jamaïque";"LOMBARDO";"Florent Marc";"M";1986-03-07;"LYON 8E ARRONDISSEMENT";37;"Cadre administratif et commercial d'entreprise";2021-05-31;"Président du conseil consulaire";2021-06-23
+3;"Amérique latine et Caraïbes";314;"Paraguay";"SUCHET";"Edmond";"M";1948-07-09;"PARIS 12E ARRONDISSEMENT";38;"Ingénieur et cadre technique d'entreprise";2021-05-31;;
+3;"Amérique latine et Caraïbes";315;"Pérou";"BERTHIER";"Pierre";"M";1959-07-18;"GABON";37;"Cadre administratif et commercial d'entreprise";2021-05-31;;
+3;"Amérique latine et Caraïbes";315;"Pérou";"SICET";"Vincent";"M";1990-11-16;"Bordeaux";22;"Commerçant et assimilé";2021-05-31;;
+3;"Amérique latine et Caraïbes";315;"Pérou";"WEBER";"Didier";"M";1972-01-29;"Montbéliard";46;"Profession intermédiaire administrative et commerciale des entreprises";2021-05-31;"Président du conseil consulaire";2023-03-17
+3;"Amérique latine et Caraïbes";316;"République Dominicaine";"ASSEMAT";"Françoise";"F";1968-03-14;"Mazamet";46;"Profession intermédiaire administrative et commerciale des entreprises";2023-08-01;;
+3;"Amérique latine et Caraïbes";316;"République Dominicaine";"BREHM";"Nicolas";"M";1970-10-24;"PARIS 12E ARRONDISSEMENT";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;"Président du conseil consulaire";2021-06-21
+3;"Amérique latine et Caraïbes";316;"République Dominicaine";"JACOB";"Emmanuelle";"F";1966-09-22;"Bergerac";22;"Commerçant et assimilé";2021-05-31;;
+3;"Amérique latine et Caraïbes";317;"Uruguay";"BIURRUN";"Martin";"M";1991-10-28;"URUGUAY";31;"Profession libérale";2021-05-31;"Président du conseil consulaire";2021-06-24
+3;"Amérique latine et Caraïbes";317;"Uruguay";"DELABRE";"Jacques";"M";1955-06-23;"CROISILLES";75;"Ancienne profession intermédiaire";2021-05-31;;
+3;"Amérique latine et Caraïbes";317;"Uruguay";"RAMAZZI";"Frédérique";"F";1977-02-12;"URUGUAY";42;"Professeur des écoles, instituteur et assimilé";2021-05-31;;
+3;"Amérique latine et Caraïbes";318;"Venezuela, Sainte-Lucie, Trinité-et-Tobago";"CHOSSERIE";"Liliane";"F";1951-12-02;"ALGÉRIE";22;"Commerçant et assimilé";2021-05-31;;
+3;"Amérique latine et Caraïbes";318;"Venezuela, Sainte-Lucie, Trinité-et-Tobago";"FORTER-CHEE-A-TOW";"Ninon";"F";1996-04-12;"BARBADE";31;"Profession libérale";2021-11-22;;
+3;"Amérique latine et Caraïbes";318;"Venezuela, Sainte-Lucie, Trinité-et-Tobago";"FREYCHET";"Stéphane";"M";1957-07-25;"FRANCE";52;"Employé civil et agent de service de la fonction publique";2022-12-05;"Président du conseil consulaire";2023-02-01
+4;"Europe du Nord";401;"Danemark";"BADACHE";"Pascal";"M";1968-02-23;"PARIS 14E ARRONDISSEMENT";42;"Professeur des écoles, instituteur et assimilé";2021-05-31;"Président du conseil consulaire";2021-06-22
+4;"Europe du Nord";401;"Danemark";"CARON";"Marie-José";"F";1952-10-11;"CASTRES";54;"Employé administratif d'entreprise";2021-05-31;;
+4;"Europe du Nord";401;"Danemark";"DE VISME";"Luc";"M";1945-07-04;"Rouillé";38;"Ingénieur et cadre technique d'entreprise";2021-05-31;;
+4;"Europe du Nord";402;"Finlande, Lituanie, Lettonie, Estonie";"BERNARD";"Chloé";"F";1982-01-24;"Troyes";31;"Profession libérale";2021-05-31;"Président du conseil consulaire";2021-06-15
+4;"Europe du Nord";402;"Finlande, Lituanie, Lettonie, Estonie";"PLAGNOL";"Hugo";"M";1987-06-13;"Clamart";38;"Ingénieur et cadre technique d'entreprise";2021-05-31;;
+4;"Europe du Nord";402;"Finlande, Lituanie, Lettonie, Estonie";"RUA";"Philippe";"M";1959-11-26;"MONTREUIL";38;"Ingénieur et cadre technique d'entreprise";2021-05-31;"Président du conseil consulaire";2021-06-15
+4;"Europe du Nord";403;"Irlande";"HELAILI-CHAPUIS";"Laurence";"F";1985-08-07;"Marseille";85;"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)";2021-05-31;"Président du conseil consulaire";2021-06-16
+4;"Europe du Nord";403;"Irlande";"KHEMIRA ÉPOUSE AIT EL HADJ";"Saïda";"F";1975-12-01;"Sarcelles";85;"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)";2021-05-31;;
+4;"Europe du Nord";403;"Irlande";"MARIN-CUDRAZ";"Benoit";"M";1956-11-17;"PARIS8";22;"Commerçant et assimilé";2021-05-31;;
+4;"Europe du Nord";403;"Irlande";"NOUELLE-PARRAT";"Nicolas";"M";1974-06-04;"FRANCE";64;"Chauffeur";2023-03-02;;
+4;"Europe du Nord";404;"Norvège, Islande";"BASSETTO";"Thomas";"M";1988-02-24;"Montauban";38;"Ingénieur et cadre technique d'entreprise";2021-05-31;"Président du conseil consulaire";2021-06-15
+4;"Europe du Nord";404;"Norvège, Islande";"BLISSON";"Natacha";"F";1985-02-27;"Marseille";37;"Cadre administratif et commercial d'entreprise";2022-01-18;;
+4;"Europe du Nord";404;"Norvège, Islande";"HERRERA";"Marion";"F";1973-04-07;"Nice";42;"Professeur des écoles, instituteur et assimilé";2021-05-31;;
+4;"Europe du Nord";405;"Royaume-Uni - 1re circonscription";"ALBUISSON";"Christian";"M";1958-07-30;"Aubenas";37;"Cadre administratif et commercial d'entreprise";2021-05-31;"Président du conseil consulaire";2021-06-23
+4;"Europe du Nord";405;"Royaume-Uni - 1re circonscription";"GUÉNIER";"Brigitte";"F";1955-12-16;"Caen";34;"Professeur, profession scientifique";2021-05-31;;
+4;"Europe du Nord";405;"Royaume-Uni - 1re circonscription";"MILLER";"Véronique";"F";1967-01-21;"RUMILLY";42;"Professeur des écoles, instituteur et assimilé";2021-05-31;;
+4;"Europe du Nord";406;"Royaume-Uni - 2e circonscription";"AHMAR";"Samy";"M";1986-02-28;"LYON3";37;"Cadre administratif et commercial d'entreprise";2021-05-31;;
+4;"Europe du Nord";406;"Royaume-Uni - 2e circonscription";"BERTIN";"Olivier";"M";1968-07-05;"Besançon";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;;
+4;"Europe du Nord";406;"Royaume-Uni - 2e circonscription";"BLANCHOT";"Isabelle";"F";1970-02-22;"Châtenay-Malabry";37;"Cadre administratif et commercial d'entreprise";2021-05-31;"Président du conseil consulaire";2021-06-28
+4;"Europe du Nord";406;"Royaume-Uni - 2e circonscription";"CONNELL";"Patricia";"F";1961-02-01;"SAINT-DENIS";22;"Commerçant et assimilé";2021-05-31;;
+4;"Europe du Nord";406;"Royaume-Uni - 2e circonscription";"HATTON";"Nicolas";"M";1970-03-02;"Angers";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;;
+4;"Europe du Nord";406;"Royaume-Uni - 2e circonscription";"MAIGNE";"Enguerran";"M";1982-10-09;"Fougères";42;"Professeur des écoles, instituteur et assimilé";2021-05-31;;
+4;"Europe du Nord";406;"Royaume-Uni - 2e circonscription";"MALLET";"Amelie";"F";1972-08-23;"STOCKHOLM";31;"Profession libérale";2021-05-31;;
+4;"Europe du Nord";406;"Royaume-Uni - 2e circonscription";"SPARROW";"Marie-Claire";"F";1947-08-01;"PARIS 14E ARRONDISSEMENT";31;"Profession libérale";2021-05-31;;
+4;"Europe du Nord";406;"Royaume-Uni - 2e circonscription";"VAZEILLE";"Rémi";"M";1966-05-28;"Saint-Etienne";37;"Cadre administratif et commercial d'entreprise";2021-05-31;;
+4;"Europe du Nord";407;"Suède";"ALTSCHUL";"Noémie";"F";1983-02-09;"PARIS 13E ARRONDISSEMENT";34;"Professeur, profession scientifique";2021-05-31;;
+4;"Europe du Nord";407;"Suède";"MOKRANI";"Hicham";"M";1953-04-19;"TUNISIE";85;"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)";2021-05-31;;
+4;"Europe du Nord";407;"Suède";"PARMEGIANI";"Nathalie";"F";1961-12-03;"PARIS14";34;"Professeur, profession scientifique";2021-05-31;"Président du conseil consulaire";2021-06-16
+4;"Europe du Nord";407;"Suède";"PRIPP";"Nadine";"F";1959-01-22;"PARIS 19E ARRONDISSEMENT";45;"Profession intermédiaire administrative de la fonction publique";2021-05-31;;
+5;"Benelux";501;"Belgique";"BISCH";"Anthony";"M";1980-01-20;"Strasbourg";37;"Cadre administratif et commercial d'entreprise";2021-05-31;;
+5;"Benelux";501;"Belgique";"CHARLET";"Léa";"F";1989-10-12;"Clamart";37;"Cadre administratif et commercial d'entreprise";2021-05-31;;
+5;"Benelux";501;"Belgique";"GONDARD";"Cécilia";"F";1980-06-04;"Courbevoie";37;"Cadre administratif et commercial d'entreprise";2021-05-31;;
+5;"Benelux";501;"Belgique";"MASSON";"Thierry";"M";1983-08-11;"Bergerac";33;"Cadre de la fonction publique";2021-05-31;;
+5;"Benelux";501;"Belgique";"MICHEL";"Jérémy";"M";1975-04-30;"Poissy";56;"Personnel des services directs aux particuliers";2021-05-31;"Président du conseil consulaire";2021-06-24
+5;"Benelux";501;"Belgique";"WANDELST";"Isabelle";"F";1963-03-03;"Charleville-Mézières";37;"Cadre administratif et commercial d'entreprise";2021-05-31;;
+5;"Benelux";501;"Belgique";"WERT";"Bertrand";"M";1975-06-14;"SAINT-PRIEST";33;"Cadre de la fonction publique";2021-05-31;;
+5;"Benelux";502;"Luxembourg";"CHATEAU-DUCOS";"Alexandre";"M";1969-01-30;"Sainte-Foy-La-Grande";37;"Cadre administratif et commercial d'entreprise";2021-05-31;;
+5;"Benelux";502;"Luxembourg";"DERUDDER";"Vincent";"M";1948-02-23;"Clichy";54;"Employé administratif d'entreprise";2021-05-31;;
+5;"Benelux";502;"Luxembourg";"SCHAULI";"Frédéric";"M";1978-08-15;"Schiltigheim";38;"Ingénieur et cadre technique d'entreprise";2021-05-31;;
+5;"Benelux";502;"Luxembourg";"THÉRET";"Bruno";"M";1956-10-09;"MALO-LES-BAINS";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;"Président du conseil consulaire";2021-06-24
+5;"Benelux";502;"Luxembourg";"VALLANCE";"Stéphane";"M";1966-12-30;"Nancy";33;"Cadre de la fonction publique";2023-12-29;;
+5;"Benelux";503;"Pays-Bas";"DEGRYSE";"Hélène";"F";1977-03-11;"Calais";31;"Profession libérale";2021-05-31;;
+5;"Benelux";503;"Pays-Bas";"KOK ESCALLE";"Marie-Christine";"F";1948-09-24;"PARIS 8E ARRONDISSEMENT";34;"Professeur, profession scientifique";2021-05-31;;
+5;"Benelux";503;"Pays-Bas";"LAVEANT";"Pierre";"M";1973-07-06;"PARIS11";33;"Cadre de la fonction publique";2021-05-31;;
+5;"Benelux";503;"Pays-Bas";"LIBEAUT";"Catherine";"F";1963-09-26;"Angers";43;"Profession intermédiaire de la santé et du travail social";2021-05-31;"Président du conseil consulaire";2021-06-16
+5;"Benelux";503;"Pays-Bas";"MAKAYA";"Yohann";"M";1984-06-01;"Montpellier";43;"Profession intermédiaire de la santé et du travail social";2024-01-04;;
+6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";601;"Allemagne - 1re circonscription";"KLIESS";"Marie-Christine";"F";1945-08-29;"PARIS 15E ARRONDISSEMENT";42;"Professeur des écoles, instituteur et assimilé";2021-05-31;;
+6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";601;"Allemagne - 1re circonscription";"LOISEAU";"Philippe";"M";1964-06-24;"Le Creusot";31;"Profession libérale";2021-05-31;;
+6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";601;"Allemagne - 1re circonscription";"MAIGNÉ";"Stéphan";"M";1969-07-02;"Suresnes";31;"Profession libérale";2021-05-31;"Président du conseil consulaire";2021-06-22
+6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";601;"Allemagne - 1re circonscription";"RAFFIN-WEINLEIN";"Camille";"F";1970-06-07;"PARIS 15E ARRONDISSEMENT";35;"Profession de l'information, des arts et des spectacles";2021-05-31;;
+6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";601;"Allemagne - 1re circonscription";"ZELLER";"Henri";"M";1970-09-09;"BELGIQUE";38;"Ingénieur et cadre technique d'entreprise";2021-05-31;;
+6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";602;"Allemagne - 2e circonscription";"BAUMANN";"Alicia";"F";1989-07-01;"Carcasonne";43;"Profession intermédiaire de la santé et du travail social";2022-12-20;;
+6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";602;"Allemagne - 2e circonscription";"KLAINE";"Olivia";"F";1987-09-26;"FRANCE";37;"Cadre administratif et commercial d'entreprise";2022-07-01;;
+6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";602;"Allemagne - 2e circonscription";"LANGLET";"Jean-Marie";"M";1944-11-08;"PARIS 20E ARRONDISSEMENT";31;"Profession libérale";2021-05-31;"Président du conseil consulaire";2021-06-29
+6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";602;"Allemagne - 2e circonscription";"OUAMMAR";"Saliha";"F";1964-01-03;"ALGÉRIE";31;"Profession libérale";2021-05-31;;
+6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";602;"Allemagne - 2e circonscription";"PASCAL";"Olivier";"M";1985-11-09;"Cayenne";37;"Cadre administratif et commercial d'entreprise";2021-05-31;;
+6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";602;"Allemagne - 2e circonscription";"RENOLLAUD";"Jean-Pierre";"M";1954-08-28;"La Garenne-Colombes";74;"Ancien cadre";2021-05-31;;
+6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";603;"Allemagne - 3e circonscription";"BOUVERET";"Ellen";"F";1958-03-08;"Pontarlier";34;"Professeur, profession scientifique";2021-05-31;;
+6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";603;"Allemagne - 3e circonscription";"FOUQUES-WEISS";"Nadine";"F";1949-11-21;"PARIS16";31;"Profession libérale";2021-05-31;;
+6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";603;"Allemagne - 3e circonscription";"GROMIER-HEIM";"Laurence";"F";1957-12-01;"Bourg-En-Bresse";31;"Profession libérale";2021-05-31;"Président du conseil consulaire";2021-06-28
+6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";603;"Allemagne - 3e circonscription";"LECLERC";"Audrey";"F";1987-01-06;"Rueil-Malmaison";33;"Cadre de la fonction publique";2021-05-31;;
+6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";603;"Allemagne - 3e circonscription";"PLUDERMACHER";"Bruno";"M";1961-05-26;"PARIS14";31;"Profession libérale";2021-05-31;;
+6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";603;"Allemagne - 3e circonscription";"ZUCCO";"Frédéric";"M";1958-07-27;"PARIS 13E ARRONDISSEMENT";38;"Ingénieur et cadre technique d'entreprise";2021-05-31;;
+6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";604;"Autriche, Slovaquie, Slovénie";"LE VOUEDEC-GUEGANNO";"Frédéric";"M";1975-03-18;"Hennebont";42;"Professeur des écoles, instituteur et assimilé";2022-10-11;"Président du conseil consulaire";2022-10-17
+6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";604;"Autriche, Slovaquie, Slovénie";"ROUÉ";"Vincent";"M";1990-08-21;"Brest";38;"Ingénieur et cadre technique d'entreprise";2023-10-15;;
+6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";604;"Autriche, Slovaquie, Slovénie";"TRESSARD";"Fabrice";"M";1974-09-19;"Quimper";38;"Ingénieur et cadre technique d'entreprise";2021-05-31;"Président du conseil consulaire";2021-06-18
+6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";604;"Autriche, Slovaquie, Slovénie";"UGO";"Patrick";"M";1965-12-03;"Marseille";34;"Professeur, profession scientifique";2021-05-31;"Président du conseil consulaire";2023-10-18
+6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";605;"Suisse - 1re circonscription";"AVEZOU";"Odile";"F";1967-10-21;"Dijon";37;"Cadre administratif et commercial d'entreprise";2021-05-31;"Président du conseil consulaire";2021-06-28
+6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";605;"Suisse - 1re circonscription";"COL";"Alexandre";"M";1963-08-16;"LAUSANNE";85;"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)";2021-05-31;;
+6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";605;"Suisse - 1re circonscription";"KEIL";"Jean-Philippe";"M";1967-09-17;"Strasbourg";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;;
+6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";605;"Suisse - 1re circonscription";"LEMER";"François";"M";1976-09-12;"FRANCE";42;"Professeur des écoles, instituteur et assimilé";2022-06-22;;
+6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";605;"Suisse - 1re circonscription";"PORTAL";"Louis";"M";1992-02-21;"Pessac";37;"Cadre administratif et commercial d'entreprise";2021-05-31;;
+6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";606;"Suisse - 2e circonscription";"CHAHDI";"Lalla-Ilham";"F";1991-10-07;"Cluses";54;"Employé administratif d'entreprise";2024-01-05;;
+6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";606;"Suisse - 2e circonscription";"CHEVALIER";"Linda";"F";1952-04-15;"MAROC";31;"Profession libérale";2021-05-31;;
+6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";606;"Suisse - 2e circonscription";"COLLETTE";"Marlène";"F";1974-10-27;"Livry-Gargan";31;"Profession libérale";2021-05-31;"Président du conseil consulaire";2021-06-24
+6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";606;"Suisse - 2e circonscription";"CREGUT";"Remy";"M";1960-09-05;"FRANCE";23;"Chef d'entreprise de 10 salariés ou plus";2022-06-27;;
+6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";606;"Suisse - 2e circonscription";"DE ZIEGLER";"Nicolas";"M";1954-09-21;"Neuilly-Sur-Seine";31;"Profession libérale";2021-05-31;"Président du conseil consulaire";2023-06-01
+6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";606;"Suisse - 2e circonscription";"FOTI";"Laura";"F";1987-01-03;"FRANCE";37;"Cadre administratif et commercial d'entreprise";2022-06-22;;
+6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";606;"Suisse - 2e circonscription";"ISLER";"Margaux";"F";1984-07-09;"Suisse";31;"Profession libérale";2021-05-31;;
+6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";606;"Suisse - 2e circonscription";"KOKOT";"Guilhem";"M";1995-07-14;"Lourdes";43;"Profession intermédiaire de la santé et du travail social";2021-05-31;;
+6;"Allemagne, Autriche, Slovaquie, Slovénie, Suisse";606;"Suisse - 2e circonscription";"LANG";"Nicolas";"M";1968-08-21;"Boulogne-Billancourt";46;"Profession intermédiaire administrative et commerciale des entreprises";2021-05-31;;
+7;"Europe centrale et orientale ( y compris Russie )";701;"Arménie, Géorgie";"BARDON-HAMBARDZUMYAN";"Lusine";"F";1971-11-22;"ARMÉNIE";22;"Commerçant et assimilé";2021-05-31;"Président du conseil consulaire";2021-07-01
+7;"Europe centrale et orientale ( y compris Russie )";702;"Bulgarie, Bosnie-Herzégovine, Macédoine, Albanie, Kosovo, Monténégro";"BOTEVA-MALO";"Tatiana";"F";1950-06-10;"BULGARIE";35;"Profession de l'information, des arts et des spectacles";2021-05-31;"Président du conseil consulaire";2021-09-13
+7;"Europe centrale et orientale ( y compris Russie )";702;"Bulgarie, Bosnie-Herzégovine, Macédoine, Albanie, Kosovo, Monténégro";"LECLERCQ";"Amélie";"F";1964-04-13;"Talence";22;"Commerçant et assimilé";2021-05-31;;
+7;"Europe centrale et orientale ( y compris Russie )";702;"Bulgarie, Bosnie-Herzégovine, Macédoine, Albanie, Kosovo, Monténégro";"PASCAL";"Patrick";"M";1961-06-04;"Salon-De-Provence";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;"Président du conseil consulaire";2021-09-14
+7;"Europe centrale et orientale ( y compris Russie )";703;"Croatie";"PESTOTNIK PREBEG";"Tea";"F";1980-05-14;"CROATIE";37;"Cadre administratif et commercial d'entreprise";2021-05-31;"Président du conseil consulaire";2021-06-29
+7;"Europe centrale et orientale ( y compris Russie )";704;"Hongrie";"DOSSO";"Namory";"M";1974-06-30;"PARIS 13E ARRONDISSEMENT";38;"Ingénieur et cadre technique d'entreprise";2021-05-31;;
+7;"Europe centrale et orientale ( y compris Russie )";704;"Hongrie";"DUBARD-KAJTAR";"Jeanne";"F";1963-09-22;"Dijon";37;"Cadre administratif et commercial d'entreprise";2021-05-31;"Président du conseil consulaire";2021-06-28
+7;"Europe centrale et orientale ( y compris Russie )";704;"Hongrie";"LIEGEY";"Vincent";"M";1979-07-08;"Besançon";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;;
+7;"Europe centrale et orientale ( y compris Russie )";705;"Pologne";"CHAUVEAU";"Frédéric";"M";1970-03-16;"Vendôme";34;"Professeur, profession scientifique";2021-05-31;;
+7;"Europe centrale et orientale ( y compris Russie )";705;"Pologne";"ROSSI";"Jean";"M";1965-05-23;"PARIS 14E ARRONDISSEMENT";31;"Profession libérale";2021-05-31;;
+7;"Europe centrale et orientale ( y compris Russie )";705;"Pologne";"SALVAT";"Eric";"M";1961-12-28;"LYON 2E ARRONDISSEMENT";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;"Président du conseil consulaire";2021-06-22
+7;"Europe centrale et orientale ( y compris Russie )";706;"République tchèque";"GUICHARD BUSZMAN";"Aude";"F";1989-08-07;"Boulogne-Billancourt";37;"Cadre administratif et commercial d'entreprise";2021-05-31;;
+7;"Europe centrale et orientale ( y compris Russie )";706;"République tchèque";"LE MOIGNE";"Vassili";"M";1966-11-15;"Versailles";37;"Cadre administratif et commercial d'entreprise";2021-05-31;"Président du conseil consulaire";2021-06-15
+7;"Europe centrale et orientale ( y compris Russie )";706;"République tchèque";"PIMENTA";"Charlie";"M";1996-03-13;"Montluçon";31;"Profession libérale";2023-09-01;;
+7;"Europe centrale et orientale ( y compris Russie )";707;"Roumanie, Moldavie";"GRUIA DUFAUT";"Dana";"F";1960-03-27;"ROUMANIE";31;"Profession libérale";2021-05-31;;
+7;"Europe centrale et orientale ( y compris Russie )";707;"Roumanie, Moldavie";"LEMAÎTRE";"Christian";"M";1959-02-05;"Tours";38;"Ingénieur et cadre technique d'entreprise";2021-05-31;"Président du conseil consulaire";2021-06-04
+7;"Europe centrale et orientale ( y compris Russie )";707;"Roumanie, Moldavie";"MAYRAND";"Benoît";"M";1966-09-10;"Boulogne-Billancourt";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;;
+7;"Europe centrale et orientale ( y compris Russie )";708;"Russie, Biélorussie";"BURLOTTE";"Olivier";"M";1964-01-09;"Boulogne-Billancourt";31;"Profession libérale";2021-05-31;"Président du conseil consulaire";2021-06-07
+7;"Europe centrale et orientale ( y compris Russie )";708;"Russie, Biélorussie";"FERRARI";"Franck";"M";1972-01-03;"Nouméa";34;"Professeur, profession scientifique";2021-05-31;;
+7;"Europe centrale et orientale ( y compris Russie )";708;"Russie, Biélorussie";"MEGRELIS";"Nicolas";"M";1969-02-03;"Enghien-Les-Bains";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;;
+7;"Europe centrale et orientale ( y compris Russie )";709;"Serbie";"GRASSER";"Eric";"M";1971-02-10;"La Walck";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;"Président du conseil consulaire";2021-06-15
+7;"Europe centrale et orientale ( y compris Russie )";710;"Ukraine";"FRANCK";"David";"M";1968-03-11;"Boulogne-Billancourt";85;"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)";2021-05-31;"Président du conseil consulaire";2021-06-04
+8;"Europe du Sud";801;"Chypre";"KYPRIANIDOU";"Hélène";"F";1952-10-08;"CHYPRE";77;"Ancien employé";2021-05-31;"Président du conseil consulaire";2021-07-05
+8;"Europe du Sud";802;"Grèce";"BROCHARD";"Guy";"M";1970-06-09;"CROIX";35;"Profession de l'information, des arts et des spectacles";2021-05-31;;
+8;"Europe du Sud";802;"Grèce";"DESCHAMPS";"Françoise";"F";1952-03-07;"Talence";54;"Employé administratif d'entreprise";2021-05-31;;
+8;"Europe du Sud";802;"Grèce";"MULLER";"Nelly";"F";1947-04-03;"ALGÉRIE";42;"Professeur des écoles, instituteur et assimilé";2021-05-31;"Président du conseil consulaire";2021-06-22
+8;"Europe du Sud";802;"Grèce";"PICHARLES";"Chantal";"F";1958-01-13;"Commentry";42;"Professeur des écoles, instituteur et assimilé";2021-05-31;;
+8;"Europe du Sud";803;"Italie - 1re circonscription ( avec Malte et Etat de la Cité du Vatican )";"BARRE";"Gaëlle";"F";1972-08-15;"Longjumeau";37;"Cadre administratif et commercial d'entreprise";2021-05-31;"Président du conseil consulaire";2021-06-07
+8;"Europe du Sud";803;"Italie - 1re circonscription ( avec Malte et Etat de la Cité du Vatican )";"CHORAINE";"Pierre";"M";1967-02-14;"LYON 8E ARRONDISSEMENT";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;;
+8;"Europe du Sud";803;"Italie - 1re circonscription ( avec Malte et Etat de la Cité du Vatican )";"DE BLESSON";"Carole";"F";1967-07-18;"PARIS 16E ARRONDISSEMENT";31;"Profession libérale";2021-05-31;;
+8;"Europe du Sud";803;"Italie - 1re circonscription ( avec Malte et Etat de la Cité du Vatican )";"LEBEL";"Olivier";"M";1960-09-21;"SUISSE";31;"Profession libérale";2024-02-07;;
+8;"Europe du Sud";803;"Italie - 1re circonscription ( avec Malte et Etat de la Cité du Vatican )";"SPIESSER";"Olivier";"M";1967-09-23;"Angers";34;"Professeur, profession scientifique";2021-05-31;;
+8;"Europe du Sud";804;"Italie - 2e circonscription";"AMICO";"Marie-Ange";"F";1950-03-30;"ITALIE";33;"Cadre de la fonction publique";2021-05-31;;
+8;"Europe du Sud";804;"Italie - 2e circonscription";"BEZARDIN";"Alexandre";"M";1972-12-30;"Boulogne-Billancourt";37;"Cadre administratif et commercial d'entreprise";2021-05-31;;
+8;"Europe du Sud";804;"Italie - 2e circonscription";"LE CARDINAL";"Hugues";"M";1967-06-28;"Saint-Jean-De-Maurienne";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;"Président du conseil consulaire";2021-06-24
+8;"Europe du Sud";804;"Italie - 2e circonscription";"MONAT-VANDEBROUCK";"Isabelle";"F";1965-03-25;"Suresnes";74;"Ancien cadre";2023-10-10;;
+8;"Europe du Sud";804;"Italie - 2e circonscription";"REA";"Annie";"F";1961-08-18;"LYON7";31;"Profession libérale";2021-05-31;;
+8;"Europe du Sud";805;"Monaco";"MAUDUIT-PALLANCA";"Michelle";"F";1943-09-24;"MÉZIDON-CANON";33;"Cadre de la fonction publique";2021-05-31;;
+8;"Europe du Sud";805;"Monaco";"MOTILLON";"Géraldine";"F";1970-01-22;"MONACO";37;"Cadre administratif et commercial d'entreprise";2021-05-31;;
+8;"Europe du Sud";805;"Monaco";"PISCIOTTA";"Christophe";"M";1966-03-23;"MONACO";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;"Président du conseil consulaire";2021-06-15
+8;"Europe du Sud";806;"Turquie";"JAUBERTY";"Michel";"M";1945-07-11;"Guéret";74;"Ancien cadre";2021-05-31;;
+8;"Europe du Sud";806;"Turquie";"KORO";"Marie-Rose";"F";1957-03-02;"Colmar";74;"Ancien cadre";2021-05-31;;
+8;"Europe du Sud";806;"Turquie";"OGUTGEN";"Florence";"F";1960-08-07;"Le Havre";22;"Commerçant et assimilé";2021-05-31;"Président du conseil consulaire";2021-06-23
+8;"Europe du Sud";806;"Turquie";"OZDILMEN";"Belgin";"F";1980-09-19;"Avesnes-Sur-Helpe";31;"Profession libérale";2021-05-31;;
+9;"Péninsule Ibérique";901;"Andorre";"METAYER";"Catherine";"F";1956-01-19;"Châteaubriant";35;"Profession de l'information, des arts et des spectacles";2021-05-31;"Président du conseil consulaire";2021-06-16
+9;"Péninsule Ibérique";902;"Espagne - 1re circonscription";"BOURBON";"Pascal";"M";1965-01-18;"Limoges";31;"Profession libérale";2021-05-31;;
+9;"Péninsule Ibérique";902;"Espagne - 1re circonscription";"DE MARCELLUS";"Baudouin";"M";1972-11-18;"DAKAR";31;"Profession libérale";2021-05-31;;
+9;"Péninsule Ibérique";902;"Espagne - 1re circonscription";"LE BERRE";"Renaud";"M";1967-09-27;"Morlaix";34;"Professeur, profession scientifique";2021-05-31;;
+9;"Péninsule Ibérique";902;"Espagne - 1re circonscription";"OGONOWSKI";"Philippe";"M";1966-08-04;"Saint-Chamond";35;"Profession de l'information, des arts et des spectacles";2021-05-31;"Président du conseil consulaire";2022-01-13
+9;"Péninsule Ibérique";902;"Espagne - 1re circonscription";"SAINT-DIZIER";"Ana";"F";1979-07-10;"Toulouse";45;"Profession intermédiaire administrative de la fonction publique";2021-05-31;;
+9;"Péninsule Ibérique";903;"Espagne - 2e circonscription";"HUSS";"Francis";"M";1933-01-05;"Strasbourg";74;"Ancien cadre";2021-10-19;;
+9;"Péninsule Ibérique";903;"Espagne - 2e circonscription";"LE VAILLANT";"Stéphanie";"F";1979-02-12;"Pabu";31;"Profession libérale";2021-05-31;;
+9;"Péninsule Ibérique";903;"Espagne - 2e circonscription";"LECOMTE";"Gaëlle";"F";1988-12-04;"Evry";37;"Cadre administratif et commercial d'entreprise";2021-05-31;;
+9;"Péninsule Ibérique";903;"Espagne - 2e circonscription";"QUINTANA";"Pablo";"M";1965-12-13;"CHILI";38;"Ingénieur et cadre technique d'entreprise";2021-05-31;"Président du conseil consulaire";2022-01-20
+9;"Péninsule Ibérique";903;"Espagne - 2e circonscription";"RALLE";"François";"M";1974-01-18;"Besançon";34;"Professeur, profession scientifique";2021-05-31;;
+9;"Péninsule Ibérique";903;"Espagne - 2e circonscription";"SERVANTON";"Gilles";"M";1958-03-17;"ALGERIE";74;"Ancien cadre";2022-08-01;;
+9;"Péninsule Ibérique";904;"Portugal";"CARDON";"Hervé";"M";1951-05-21;"PARIS 15E ARRONDISSEMENT";74;"Ancien cadre";2021-05-31;;
+9;"Péninsule Ibérique";904;"Portugal";"FEUNTEUN CONESTABILE";"Françoise";"F";1948-11-23;"Briec";74;"Ancien cadre";2021-05-31;;
+9;"Péninsule Ibérique";904;"Portugal";"GOATER";"Laurent";"M";1969-03-20;"Saint-Brieuc";37;"Cadre administratif et commercial d'entreprise";2021-05-31;"Président du conseil consulaire";2021-06-18
+9;"Péninsule Ibérique";904;"Portugal";"LEFRANCOIS";"Michel";"M";1956-04-30;"Caen";74;"Ancien cadre";2024-01-10;;
+10;"Afrique du Nord";1001;"Algérie - 1re circonscription";"BELATRECHE";"Mehdi";"M";1973-08-01;"Strasbourg";38;"Ingénieur et cadre technique d'entreprise";2021-05-31;;
+10;"Afrique du Nord";1001;"Algérie - 1re circonscription";"HENNI";"Ahmed";"M";1962-08-29;"Narbonne";34;"Professeur, profession scientifique";2021-05-31;"Président du conseil consulaire";2021-06-03
+10;"Afrique du Nord";1001;"Algérie - 1re circonscription";"MATEO";"Yolande";"F";1946-03-22;"Gérardmer";74;"Ancien cadre";2021-05-31;;
+10;"Afrique du Nord";1001;"Algérie - 1re circonscription";"YOUNSI";"Ouassini";"M";1981-09-29;"Dechy";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;;
+10;"Afrique du Nord";1002;"Algérie - 2e circonscription";"BOUTALEB";"Abdelghani";"M";1976-03-24;"ALGÉRIE";31;"Profession libérale";2021-05-31;"Président du conseil consulaire";2021-06-06
+10;"Afrique du Nord";1002;"Algérie - 2e circonscription";"HASNAOUI";"Fwad";"M";1963-11-04;"ALGÉRIE";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;;
+10;"Afrique du Nord";1002;"Algérie - 2e circonscription";"MÊLE";"Sabri";"M";1970-09-01;"ALGÉRIE";52;"Employé civil et agent de service de la fonction publique";2021-05-31;;
+10;"Afrique du Nord";1003;"Algérie - 3e circonscription";"DENDÈNE";"Karim";"M";1959-05-20;"Versailles";31;"Profession libérale";2021-05-31;;
+10;"Afrique du Nord";1003;"Algérie - 3e circonscription";"HAMMOUTENE";"Djamal";"M";1958-05-22;"ALGÉRIE";74;"Ancien cadre";2021-05-31;;
+10;"Afrique du Nord";1003;"Algérie - 3e circonscription";"LAHLOUH NÉE AOUN";"Nadia";"F";1958-03-05;"Saint-Maur-Des-Fossés";86;"Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)";2021-05-31;;
+10;"Afrique du Nord";1003;"Algérie - 3e circonscription";"RAHAL";"Radya";"F";1965-10-27;"Boulogne-Billancourt";34;"Professeur, profession scientifique";2021-05-31;"Président du conseil consulaire";2021-06-17
+10;"Afrique du Nord";1003;"Algérie - 3e circonscription";"ZIRIAT";"Reda";"M";1964-04-09;"ALGERIE";23;"Chef d'entreprise de 10 salariés ou plus";2021-12-20;;
+10;"Afrique du Nord";1004;"Egypte";"MAJIDIER";"Hervé";"M";1955-04-12;"IRAN";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;;
+10;"Afrique du Nord";1004;"Egypte";"PASCAL";"Catherine";"F";1961-03-29;"Saint-Brieuc";31;"Profession libérale";2021-05-31;;
+10;"Afrique du Nord";1004;"Egypte";"PLEUTIN";"Rafael";"M";1956-03-24;"Lyon 3ème";42;"Professeur des écoles, instituteur et assimilé";2024-01-01;;
+10;"Afrique du Nord";1005;"Maroc - 1re circonscription";"BENNANI";"Myriem";"F";1962-01-08;"MAROC";85;"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)";2021-05-31;"Président du conseil consulaire";2021-06-03
+10;"Afrique du Nord";1005;"Maroc - 1re circonscription";"GARTI";"Ismaël";"M";1976-12-02;"MAROC";31;"Profession libérale";2021-05-31;;
+10;"Afrique du Nord";1005;"Maroc - 1re circonscription";"RIO";"Anna-Gael";"F";1973-09-05;"Nantes";31;"Profession libérale";2021-05-31;;
+10;"Afrique du Nord";1006;"Maroc - 2e circonscription";"AUBERT";"Jacky";"M";1945-07-07;"ALGÉRIE";75;"Ancienne profession intermédiaire";2021-05-31;"Président du conseil consulaire";2021-06-11
+10;"Afrique du Nord";1006;"Maroc - 2e circonscription";"BEN KERROUM DEVIDET";"Myriam Geneviève";"F";1947-10-05;"Nancy";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;;
+10;"Afrique du Nord";1006;"Maroc - 2e circonscription";"GRATTEPANCHE";"Martine";"F";1955-01-18;"Sains-En-Gohelle";31;"Profession libérale";2021-05-31;;
+10;"Afrique du Nord";1007;"Maroc - 3e circonscription";"REBECCHINI";"Martine";"F";1951-10-04;"MAROC";74;"Ancien cadre";2021-05-31;;
+10;"Afrique du Nord";1007;"Maroc - 3e circonscription";"ROZIER";"Jean-Claude";"M";1943-11-17;"TUNISIE";74;"Ancien cadre";2021-05-31;;
+10;"Afrique du Nord";1007;"Maroc - 3e circonscription";"TRIBOUART";"Catherine";"F";1960-02-20;"Troyes";74;"Ancien cadre";2021-05-31;"Président du conseil consulaire";2021-06-10
+10;"Afrique du Nord";1008;"Maroc - 4e circonscription";"GEORGANDELIS";"Max";"M";1944-03-05;"MAROC";31;"Profession libérale";2021-05-31;;
+10;"Afrique du Nord";1008;"Maroc - 4e circonscription";"GERVEREAU";"Caryl";"M";1972-07-08;"Metz";37;"Cadre administratif et commercial d'entreprise";2021-05-31;"Président du conseil consulaire";2021-06-15
+10;"Afrique du Nord";1008;"Maroc - 4e circonscription";"HOUSNI";"Fouad";"M";1975-02-06;"MAROC";37;"Cadre administratif et commercial d'entreprise";2023-01-01;;
+10;"Afrique du Nord";1009;"Maroc - 5e circonscription";"ARNULF";"Nicolas";"M";1969-07-23;"SAINT MAUR DES FOSSES";37;"Cadre administratif et commercial d'entreprise";2021-05-31;;
+10;"Afrique du Nord";1009;"Maroc - 5e circonscription";"BELBACHIR-BELCAID";"Khadija";"F";1957-01-02;"KENITRA";77;"Ancien employé";2021-05-31;"Président du conseil consulaire";2021-06-15
+10;"Afrique du Nord";1009;"Maroc - 5e circonscription";"FREJ";"Isabelle";"F";1959-11-27;"La Tronche";45;"Profession intermédiaire administrative de la fonction publique";2021-05-31;;
+10;"Afrique du Nord";1009;"Maroc - 5e circonscription";"LESCRAINIER";"Mathieu";"M";1986-02-26;"CANADA";34;"Professeur, profession scientifique";2021-05-31;;
+10;"Afrique du Nord";1010;"Maroc - 6e circonscription";"DAGESCY";"Gilles";"M";1939-03-02;"MAROC";85;"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)";2021-05-31;"Président du conseil consulaire";2021-06-21
+10;"Afrique du Nord";1010;"Maroc - 6e circonscription";"EL OUAFI";"Ghislaine";"F";1961-05-10;"MAROC";35;"Profession de l'information, des arts et des spectacles";2021-05-31;;
+10;"Afrique du Nord";1010;"Maroc - 6e circonscription";"OULKHOUIR";"Mohamed";"M";1977-08-26;"MAROC";31;"Profession libérale";2021-05-31;;
+10;"Afrique du Nord";1010;"Maroc - 6e circonscription";"REDDAD";"Mehdi";"M";1981-10-02;"MAROC";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;;
+10;"Afrique du Nord";1010;"Maroc - 6e circonscription";"YOUMNI";"Abdelghani";"M";1965-12-10;"CASABLANCA";34;"Professeur, profession scientifique";2021-05-31;;
+10;"Afrique du Nord";1011;"Tunisie, Libye";"BERGER-BEN NACEUR";"Madeleine";"F";1955-12-25;"TUNISIE";42;"Professeur des écoles, instituteur et assimilé";2021-05-31;;
+10;"Afrique du Nord";1011;"Tunisie, Libye";"CAIZERGUES";"Laurent";"M";1975-05-31;"Béziers";37;"Cadre administratif et commercial d'entreprise";2021-05-31;;
+10;"Afrique du Nord";1011;"Tunisie, Libye";"JEMMALI";"Aïda";"F";1977-04-21;"TUNISIE";34;"Professeur, profession scientifique";2021-05-31;;
+10;"Afrique du Nord";1011;"Tunisie, Libye";"VAUTRIN DJEDIDI";"Martine";"F";1954-07-16;"Pantin";74;"Ancien cadre";2021-05-31;;
+10;"Afrique du Nord";1011;"Tunisie, Libye";"ZUCCHERO";"Michel";"M";1951-06-11;"TUNISIE";74;"Ancien cadre";2021-05-31;"Président du conseil consulaire";2021-06-16
+11;"Afrique occidentale";1101;"Bénin";"ADJOVI ÉPOUSE AGBO";"Josiane";"F";1967-05-13;"BENIN";37;"Cadre administratif et commercial d'entreprise";2021-05-31;"Président du conseil consulaire";2021-06-29
+11;"Afrique occidentale";1101;"Bénin";"ATINDEHOU";"Arsène";"M";1988-07-19;"BENIN";47;"Technicien";2021-05-31;;
+11;"Afrique occidentale";1101;"Bénin";"DORSO";"Luc";"M";1955-08-28;"DAHOMEY";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;;
+11;"Afrique occidentale";1102;"Burkina Faso";"LE LOSQ OUEDRAOGO";"Françoise";"F";1955-04-02;"Granville";74;"Ancien cadre";2021-05-31;;
+11;"Afrique occidentale";1102;"Burkina Faso";"OUÉDRAOGO";"Ousmane";"M";1976-07-19;"HAUTE-VOLTA";38;"Ingénieur et cadre technique d'entreprise";2021-05-31;"Président du conseil consulaire";2021-06-17
+11;"Afrique occidentale";1102;"Burkina Faso";"VORON";"Martine";"F";1963-05-05;"Vichy";37;"Cadre administratif et commercial d'entreprise";2021-05-31;;
+11;"Afrique occidentale";1103;"Côte d'Ivoire";"BERTHO";"Jackie";"F";1955-08-04;"Guérande";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;;
+11;"Afrique occidentale";1103;"Côte d'Ivoire";"CHAPMAN";"Jacqueline";"F";1949-05-01;"CÔTE D'IVOIRE";31;"Profession libérale";2021-05-31;;
+11;"Afrique occidentale";1103;"Côte d'Ivoire";"HEINTZ";"Baptiste";"M";1985-12-27;"Strasbourg";31;"Profession libérale";2021-05-31;;
+11;"Afrique occidentale";1103;"Côte d'Ivoire";"MARTINATO";"Bruno";"M";1989-03-15;"Toulon";37;"Cadre administratif et commercial d'entreprise";2021-05-31;;
+11;"Afrique occidentale";1103;"Côte d'Ivoire";"RUELLE";"Jean-Luc";"M";1952-04-01;"Bernay";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;"Président du conseil consulaire";2021-06-25
+11;"Afrique occidentale";1104;"Guinée";"BOUZIGUES";"Frédéric";"M";1967-02-12;"Tarbes";37;"Cadre administratif et commercial d'entreprise";2021-05-31;"Président du conseil consulaire";2021-06-28
+11;"Afrique occidentale";1105;"Mali";"BEILVERT";"Valérie";"F";1966-12-25;"Nantes";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;"Président du conseil consulaire";2023-07-01
+11;"Afrique occidentale";1105;"Mali";"MAÏGA";"Fatoumata";"F";1969-11-30;"SENEGAL";42;"Professeur des écoles, instituteur et assimilé";2023-07-01;;
+11;"Afrique occidentale";1105;"Mali";"SUKHO";"Guy";"M";1967-11-08;"MALI";37;"Cadre administratif et commercial d'entreprise";2021-05-31;;
+11;"Afrique occidentale";1106;"Mauritanie";"SYLLA";"Boubou";"M";1968-01-01;"MAURITANIE";34;"Professeur, profession scientifique";2021-05-31;"Président du conseil consulaire";2021-06-10
+11;"Afrique occidentale";1107;"Niger";"JULLIEN";"Stéphane Romain";"M";1959-07-20;"Antony";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;"Président du conseil consulaire";2021-06-21
+11;"Afrique occidentale";1108;"Sénégal, Guinée-Bissau, Cap Vert";"BAHSOUN";"Hassan";"M";1944-12-20;"SÉNÉGAL";31;"Profession libérale";2021-05-31;;
+11;"Afrique occidentale";1108;"Sénégal, Guinée-Bissau, Cap Vert";"KAOUK";"Balkis";"F";1949-10-02;"MAROC";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;"Président du conseil consulaire";2021-06-10
+11;"Afrique occidentale";1108;"Sénégal, Guinée-Bissau, Cap Vert";"LICCIONI";"Marie-Thérèse Dite Anne-Marie";"F";1962-07-13;"Bayonne";22;"Commerçant et assimilé";2022-01-01;;
+11;"Afrique occidentale";1108;"Sénégal, Guinée-Bissau, Cap Vert";"SENAC";"Gérard";"M";1951-06-30;"Sérignac-Sur-Garonne";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;;
+11;"Afrique occidentale";1108;"Sénégal, Guinée-Bissau, Cap Vert";"SOYERE";"Nicolas";"M";1979-03-29;"Rillieux-La-Pape";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;;
+11;"Afrique occidentale";1109;"Togo, Ghana";"BÉGUÉ";"Jean-Christophe";"M";1966-09-25;"Suresnes";37;"Cadre administratif et commercial d'entreprise";2021-05-31;"Président du conseil consulaire";2021-06-09
+11;"Afrique occidentale";1109;"Togo, Ghana";"MAIZOUE";"Jean-Philippe";"M";1971-10-03;"Aix-En-Provence";42;"Professeur des écoles, instituteur et assimilé";2021-05-31;"Président du conseil consulaire";2021-06-15
+11;"Afrique occidentale";1109;"Togo, Ghana";"MENSAH ATTOH";"Sylvain";"M";1961-02-17;"TOGO";31;"Profession libérale";2022-12-17;;
+12;"Afrique centrale, australe et orientale";1201;"Afrique du Sud, Mozambique, Namibie, Bostwana";"BARRIERE-IZARD";"Alexandre";"M";1990-03-15;"Lavelanet";22;"Commerçant et assimilé";2021-05-31;"Président du conseil consulaire";2021-06-15
+12;"Afrique centrale, australe et orientale";1201;"Afrique du Sud, Mozambique, Namibie, Bostwana";"CLAQUIN";"Gaël";"M";1970-04-17;"Epinay-Sur-Seine";31;"Profession libérale";2021-05-31;"Président du conseil consulaire";2021-06-15
+12;"Afrique centrale, australe et orientale";1201;"Afrique du Sud, Mozambique, Namibie, Bostwana";"SENNEPIN";"Cédric";"M";1980-01-19;"Le Creusot";37;"Cadre administratif et commercial d'entreprise";2024-01-11;;
+12;"Afrique centrale, australe et orientale";1202;"Angola";"BENHAIM";"Avraham";"M";1958-11-19;"RABAT";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;"Président du conseil consulaire";2021-06-28
+12;"Afrique centrale, australe et orientale";1203;"Cameroun, Guinée équatoriale";"DUPLEIX";"Thierry";"M";1968-06-20;"CAMEROUN";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;;
+12;"Afrique centrale, australe et orientale";1203;"Cameroun, Guinée équatoriale";"LELOUSTRE";"Olivier";"M";1974-07-21;"PARIS 16E ARRONDISSEMENT";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;;
+12;"Afrique centrale, australe et orientale";1203;"Cameroun, Guinée équatoriale";"PIALOT MVOT";"Esther";"F";1961-05-15;"CAMEROUN";43;"Profession intermédiaire de la santé et du travail social";2021-05-31;"Président du conseil consulaire";2021-06-28
+12;"Afrique centrale, australe et orientale";1204;"Comores";"MZÉ";"Djaouad";"M";1979-10-01;"COMORES";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;"Président du conseil consulaire";2021-06-03
+12;"Afrique centrale, australe et orientale";1205;"Congo";"BOULO";"Anne";"F";1976-04-16;"LA ROCHELLE";42;"Professeur des écoles, instituteur et assimilé";2021-05-31;"Président du conseil consulaire";2021-06-17
+12;"Afrique centrale, australe et orientale";1205;"Congo";"CHANGARNIER";"Cyril";"M";1983-04-27;"Villeurbanne";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;;
+12;"Afrique centrale, australe et orientale";1205;"Congo";"MARINI";"René";"M";1963-10-24;"CONGO";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;"Président du conseil consulaire";2021-06-17
+12;"Afrique centrale, australe et orientale";1206;"Djibouti";"MEUNIER";"Jean";"M";1945-12-07;"Les Pins";74;"Ancien cadre";2021-05-31;;
+12;"Afrique centrale, australe et orientale";1206;"Djibouti";"PARDINA";"Eva";"F";1981-01-27;"Schoelcher";42;"Professeur des écoles, instituteur et assimilé";2021-05-31;;
+12;"Afrique centrale, australe et orientale";1206;"Djibouti";"SADEQUE";"Vincent";"M";1961-02-21;"DJIBOUTI";33;"Cadre de la fonction publique";2021-05-31;"Président du conseil consulaire";2021-08-30
+12;"Afrique centrale, australe et orientale";1207;"Ethiopie, Soudan, Soudan du Sud";"GLEYZE";"Michel";"M";1971-01-11;"DJIBOUTI";42;"Professeur des écoles, instituteur et assimilé";2021-05-31;"Président du conseil consulaire";2021-06-16
+12;"Afrique centrale, australe et orientale";1208;"Gabon";"LESPINAS";"Didier";"M";1954-12-15;"Coulounieix-Chamiers";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;;
+12;"Afrique centrale, australe et orientale";1208;"Gabon";"REYNAUD";"Eliane";"F";1948-10-25;"Glun";46;"Profession intermédiaire administrative et commerciale des entreprises";2021-05-31;;
+12;"Afrique centrale, australe et orientale";1208;"Gabon";"RIBERT";"Corine";"F";1961-09-21;"CONGO";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;"Président du conseil consulaire";2021-06-24
+12;"Afrique centrale, australe et orientale";1209;"Kenya, Ouganda, Rwanda, Burundi, Tanzanie, Zambie, Zimbabwe";"DEMOUSTIER";"Aude";"F";1954-09-28;"Vitry-Le-François";35;"Profession de l'information, des arts et des spectacles";2021-05-31;"Président du conseil consulaire";2021-06-17
+12;"Afrique centrale, australe et orientale";1209;"Kenya, Ouganda, Rwanda, Burundi, Tanzanie, Zambie, Zimbabwe";"DOMELEVO ENTFELLNER";"Jean-Baka";"M";1982-08-30;"PARIS12";34;"Professeur, profession scientifique";2021-05-31;"Président du conseil consulaire";2021-06-21
+12;"Afrique centrale, australe et orientale";1209;"Kenya, Ouganda, Rwanda, Burundi, Tanzanie, Zambie, Zimbabwe";"WAIDE";"Daniel";"M";1975-09-09;"FRANCE";42;"Professeur des écoles, instituteur et assimilé";2022-07-01;"Président du conseil consulaire";2022-08-04
+12;"Afrique centrale, australe et orientale";1210;"Madagascar";"CHAOUI";"Jean-Daniel";"M";1947-06-06;"ROCHEFORT";77;"Ancien employé";2021-11-07;;
+12;"Afrique centrale, australe et orientale";1210;"Madagascar";"FIDALY";"Houssen";"M";1981-10-08;"MADAGASCAR";22;"Commerçant et assimilé";2021-11-07;;
+12;"Afrique centrale, australe et orientale";1210;"Madagascar";"FRASLIN";"Jean-Hervé";"M";1961-07-01;"PARIS18";23;"Chef d'entreprise de 10 salariés ou plus";2021-11-07;"Président du conseil consulaire";2021-11-09
+12;"Afrique centrale, australe et orientale";1210;"Madagascar";"TADJER-FARAJALLAH";"Geneviève";"F";1961-10-18;"MADAGASCAR";22;"Commerçant et assimilé";2021-11-07;;
+12;"Afrique centrale, australe et orientale";1211;"Maurice, Seychelles";"DE LOPPINOT";"Charles";"M";1965-07-08;"Montluçon";37;"Cadre administratif et commercial d'entreprise";2021-05-31;;
+12;"Afrique centrale, australe et orientale";1211;"Maurice, Seychelles";"DUBOURG DE LA TOUR";"Xavier";"M";1960-07-09;"CAUDÉRAN";31;"Profession libérale";2021-05-31;;
+12;"Afrique centrale, australe et orientale";1211;"Maurice, Seychelles";"GIRAUD-MALIVEL";"Michèle";"F";1942-04-13;"ROSE HILL";31;"Profession libérale";2021-05-31;"Président du conseil consulaire";2021-06-15
+12;"Afrique centrale, australe et orientale";1211;"Maurice, Seychelles";"MACTOOM";"Parveen";"F";1968-07-17;"MAURICE";37;"Cadre administratif et commercial d'entreprise";2021-05-31;;
+12;"Afrique centrale, australe et orientale";1212;"Nigéria";"GILBERT";"Yann";"M";1974-12-24;"Le Blanc-Mesnil";37;"Cadre administratif et commercial d'entreprise";2021-05-31;"Président du conseil consulaire";2021-06-24
+12;"Afrique centrale, australe et orientale";1213;"République centrafricaine";"GILBERT";"Jean-Charles";"M";1972-09-23;"Dinan";22;"Commerçant et assimilé";2021-05-31;"Président du conseil consulaire";2021-06-01
+12;"Afrique centrale, australe et orientale";1214;"République démocratique du Congo";"KATENDE";"Madeleine";"F";1961-11-28;"GUINÉE";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;"Président du conseil consulaire";2021-06-09
+12;"Afrique centrale, australe et orientale";1214;"République démocratique du Congo";"MÉRIAU";"Franck";"M";1963-05-14;"Lyon";34;"Professeur, profession scientifique";2021-05-31;;
+12;"Afrique centrale, australe et orientale";1214;"République démocratique du Congo";"WAZNE";"Henry Yoan";"M";1970-10-21;"LIBÉRIA";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;;
+12;"Afrique centrale, australe et orientale";1215;"Tchad";"MIALLIER";"Thierry";"M";1951-04-20;"Clermont-Ferrand";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;"Président du conseil consulaire";2021-06-29
+13;"Asie centrale et Moyen-Orient";1301;"Arabie saoudite - 1re circonscription ( avec Yémen )";"BOUTHENET";"Elise";"F";1985-01-01;"Le Creusot";34;"Professeur, profession scientifique";2021-05-31;;
+13;"Asie centrale et Moyen-Orient";1301;"Arabie saoudite - 1re circonscription ( avec Yémen )";"CHAAYA";"Nadia";"F";1964-07-02;"CHIAH";31;"Profession libérale";2021-05-31;"Président du conseil consulaire";2021-06-16
+13;"Asie centrale et Moyen-Orient";1301;"Arabie saoudite - 1re circonscription ( avec Yémen )";"EL AMERI";"Abdeljabbar";"M";1968-05-20;"MAROC";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;;
+13;"Asie centrale et Moyen-Orient";1302;"Arabie saoudite - 2e circonscription ( avec Koweït )";"ABI RAMIA";"Mira";"F";1975-07-02;"TUNISIE";85;"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)";2021-05-31;;
+13;"Asie centrale et Moyen-Orient";1302;"Arabie saoudite - 2e circonscription ( avec Koweït )";"LETANCHE";"Hugues";"M";1980-09-19;"LYON 4E ARRONDISSEMENT";37;"Cadre administratif et commercial d'entreprise";2021-05-31;"Président du conseil consulaire";2021-06-23
+13;"Asie centrale et Moyen-Orient";1302;"Arabie saoudite - 2e circonscription ( avec Koweït )";"SLAIMAN";"Zaïda";"F";1963-03-07;"GOURDON";22;"Commerçant et assimilé";2021-05-31;"Président du conseil consulaire";2021-06-07
+13;"Asie centrale et Moyen-Orient";1303;"Emirats arabes unis, Oman";"GRIMA";"Gilles";"M";1964-06-20;"LYON 3E ARRONDISSEMENT";74;"Ancien cadre";2021-05-31;;
+13;"Asie centrale et Moyen-Orient";1303;"Emirats arabes unis, Oman";"MORIOU";"Isabelle";"F";1970-09-07;"Belfort";42;"Professeur des écoles, instituteur et assimilé";2021-05-31;;
+13;"Asie centrale et Moyen-Orient";1303;"Emirats arabes unis, Oman";"NASSIF";"Guillaume";"M";1983-10-14;"PARIS 5E ARRONDISSEMENT";37;"Cadre administratif et commercial d'entreprise";2021-05-31;;
+13;"Asie centrale et Moyen-Orient";1303;"Emirats arabes unis, Oman";"RIGAUD";"Laurent";"M";1964-08-20;"Évian-Les-Bains";31;"Profession libérale";2021-05-31;"Président du conseil consulaire";2021-06-23
+13;"Asie centrale et Moyen-Orient";1303;"Emirats arabes unis, Oman";"SEROL";"Hervé";"M";1970-05-19;"Roanne";31;"Profession libérale";2021-05-31;;
+13;"Asie centrale et Moyen-Orient";1304;"Iran, Pakistan, Afghanistan, Azerbaïdjan, Turkmenistan, Kazakhstan, Tadjikistan, Ouzbékistan, Kirghizstan";"FRANCAIS";"Anne-Sophie";"F";1974-09-16;"MAROC";31;"Profession libérale";2021-05-31;;
+13;"Asie centrale et Moyen-Orient";1304;"Iran, Pakistan, Afghanistan, Azerbaïdjan, Turkmenistan, Kazakhstan, Tadjikistan, Ouzbékistan, Kirghizstan";"MANECHE";"Baki";"M";1969-09-05;"IRAN";31;"Profession libérale";2021-05-31;;
+13;"Asie centrale et Moyen-Orient";1304;"Iran, Pakistan, Afghanistan, Azerbaïdjan, Turkmenistan, Kazakhstan, Tadjikistan, Ouzbékistan, Kirghizstan";"MEIMAND";"Armand";"M";1969-04-28;"IRAN";31;"Profession libérale";2021-05-31;"Président du conseil consulaire";2021-06-23
+13;"Asie centrale et Moyen-Orient";1305;"Jordanie, Irak";"LEDGER-MOUSSALLAM";"Laurence";"F";1956-10-01;"JORDANIE";77;"Ancien employé";2021-05-31;"Président du conseil consulaire";2021-07-08
+13;"Asie centrale et Moyen-Orient";1306;"Liban, Syrie";"ASSI";"Rola Marianne";"F";1983-06-12;"LIBAN";31;"Profession libérale";2023-01-11;;
+13;"Asie centrale et Moyen-Orient";1306;"Liban, Syrie";"AYOUB";"Ghassan";"M";1954-02-22;"BEYROUTH";31;"Profession libérale";2021-05-31;"Président du conseil consulaire";2021-06-16
+13;"Asie centrale et Moyen-Orient";1306;"Liban, Syrie";"LAMAH";"Lucas";"M";1975-03-15;"LIBAN";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;;
+13;"Asie centrale et Moyen-Orient";1306;"Liban, Syrie";"NASSOUR";"Ziad";"M";1959-09-27;"LIBAN";31;"Profession libérale";2021-10-23;;
+13;"Asie centrale et Moyen-Orient";1306;"Liban, Syrie";"REVERS-HADDAD";"Denise";"F";1940-03-26;"Varennes-Jarcy";86;"Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)";2021-05-31;;
+13;"Asie centrale et Moyen-Orient";1307;"Qatar, Bahreïn";"HOUNGBO-MONTEVERDE";"Rosiane";"F";1981-10-08;"PARIS15";31;"Profession libérale";2021-05-31;;
+13;"Asie centrale et Moyen-Orient";1307;"Qatar, Bahreïn";"SALHA";"Guillaume";"M";1968-11-19;"LIBAN";38;"Ingénieur et cadre technique d'entreprise";2021-05-31;"Président du conseil consulaire";2021-07-08
+13;"Asie centrale et Moyen-Orient";1307;"Qatar, Bahreïn";"TORRIJOS";"Elena";"F";1980-06-06;"PARIS 14E ARRONDISSEMENT";37;"Cadre administratif et commercial d'entreprise";2021-05-31;;
+14;"Israël et Territoires palestiniens";1401;"Israël et Territoires palestiniens - 1re circonscription";"ASSOUS";"Winston";"M";1945-05-24;"TUNISIE";86;"Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)";2021-05-31;;
+14;"Israël et Territoires palestiniens";1401;"Israël et Territoires palestiniens - 1re circonscription";"ASSULI";"Samantha";"F";1975-03-01;"PARIS 12E ARRONDISSEMENT";55;"Employé de commerce";2021-05-31;;
+14;"Israël et Territoires palestiniens";1401;"Israël et Territoires palestiniens - 1re circonscription";"BELLAÏCHE";"Eric";"M";1958-12-10;"PARIS 10E ARRONDISSEMENT";31;"Profession libérale";2021-05-31;"Président du conseil consulaire";2021-06-10
+14;"Israël et Territoires palestiniens";1401;"Israël et Territoires palestiniens - 1re circonscription";"KAMOUN";"Paul";"M";1953-08-21;"Neuilly-Sur-Seine";34;"Professeur, profession scientifique";2021-05-31;;
+14;"Israël et Territoires palestiniens";1401;"Israël et Territoires palestiniens - 1re circonscription";"SEMHOUN";"Hélène";"F";1954-07-19;"ALGÉRIE";45;"Profession intermédiaire administrative de la fonction publique";2021-05-31;;
+14;"Israël et Territoires palestiniens";1402;"Israël et Territoires palestiniens - 2e circonscription";"ALLOUCHE";"Robert";"M";1952-07-09;"ALGÉRIE";86;"Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité)";2021-05-31;"Président du conseil consulaire";2023-10-06
+14;"Israël et Territoires palestiniens";1402;"Israël et Territoires palestiniens - 2e circonscription";"HABIB";"Johann";"M";1974-09-07;"PARIS12";31;"Profession libérale";2021-05-31;;
+14;"Israël et Territoires palestiniens";1402;"Israël et Territoires palestiniens - 2e circonscription";"LEVY";"Claude";"M";1956-05-26;"PARIS10";31;"Profession libérale";2021-05-31;;
+14;"Israël et Territoires palestiniens";1402;"Israël et Territoires palestiniens - 2e circonscription";"LEVY";"Elie";"M";1947-02-20;"ALEXANDRIE";72;"Ancien artisan, commerçant, chef d'entreprise";2021-05-31;;
+14;"Israël et Territoires palestiniens";1402;"Israël et Territoires palestiniens - 2e circonscription";"MIMOUNI";"Pascale";"F";1973-09-30;"PARIS 11E ARRONDISSEMENT";33;"Cadre de la fonction publique";2021-05-31;;
+14;"Israël et Territoires palestiniens";1402;"Israël et Territoires palestiniens - 2e circonscription";"POZNANSKI";"Daphna";"F";1950-06-03;"ORAN";31;"Profession libérale";2021-05-31;;
+15;"Asie-Océanie";1501;"Australie, Fidji, Papouasie-Nouvelle-Guinée";"BRUNEL";"Caroline";"F";1978-05-31;"Villeneuve-Saint-Georges";31;"Profession libérale";2021-05-31;;
+15;"Asie-Océanie";1501;"Australie, Fidji, Papouasie-Nouvelle-Guinée";"GRANGE";"Jean-Philippe";"M";1968-07-13;"Saint-Martin-D'Hères";31;"Profession libérale";2021-05-31;"Président du conseil consulaire";2021-06-29
+15;"Asie-Océanie";1501;"Australie, Fidji, Papouasie-Nouvelle-Guinée";"LEGER";"Elise";"F";1989-02-13;"GOURDON";34;"Professeur, profession scientifique";2021-05-31;;
+15;"Asie-Océanie";1501;"Australie, Fidji, Papouasie-Nouvelle-Guinée";"THOMANN";"Serge";"M";1960-03-24;"Colmar";35;"Profession de l'information, des arts et des spectacles";2021-05-31;;
+15;"Asie-Océanie";1501;"Australie, Fidji, Papouasie-Nouvelle-Guinée";"VILLIÈRE";"Valérie";"F";1963-10-12;"Reims";52;"Employé civil et agent de service de la fonction publique";2021-05-31;;
+15;"Asie-Océanie";1502;"Cambodge";"BOHEME";"Florian";"M";1984-11-20;"La Flèche";31;"Profession libérale";2021-05-31;;
+15;"Asie-Océanie";1502;"Cambodge";"LESTIENNE";"Jean";"M";1951-07-04;"Menton";77;"Ancien employé";2021-05-31;;
+15;"Asie-Océanie";1502;"Cambodge";"REMIGI";"Victor";"M";1950-04-16;"Marmande";31;"Profession libérale";2021-05-31;"Président du conseil consulaire";2021-06-18
+15;"Asie-Océanie";1503;"Chine - 1re circonscription";"BAROUDJIAN";"Sevag";"M";1985-07-21;"paris 20";85;"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)";2023-07-01;;
+15;"Asie-Océanie";1503;"Chine - 1re circonscription";"BASSIR";"David";"M";1971-08-10;"MAROC";34;"Professeur, profession scientifique";2021-05-31;"Président du conseil consulaire";2023-07-20
+15;"Asie-Océanie";1503;"Chine - 1re circonscription";"CRESSARD";"Blandine";"F";1962-12-23;"La Garenne Colombes";37;"Cadre administratif et commercial d'entreprise";2021-12-30;;
+15;"Asie-Océanie";1504;"Chine - 2e circonscription ( avec Mongolie et Corée du Nord )";"BODIN";"Ludovic";"M";1979-01-05;"Avranches";23;"Chef d'entreprise de 10 salariés ou plus";2022-10-25;;
+15;"Asie-Océanie";1504;"Chine - 2e circonscription ( avec Mongolie et Corée du Nord )";"ONILLON";"Françoise";"F";1948-02-02;"Angers";31;"Profession libérale";2021-05-31;;
+15;"Asie-Océanie";1504;"Chine - 2e circonscription ( avec Mongolie et Corée du Nord )";"PAJOT";"Franck";"M";1965-09-30;"Challans";34;"Professeur, profession scientifique";2021-05-31;"Président du conseil consulaire";2021-06-30
+15;"Asie-Océanie";1505;"Chine - 3e circonscription";"DUPUIS";"Pierre-Yves";"M";1982-10-27;"Blois";37;"Cadre administratif et commercial d'entreprise";2021-05-31;;
+15;"Asie-Océanie";1505;"Chine - 3e circonscription";"GUYON";"Marc";"M";1984-03-21;"Marseille";22;"Commerçant et assimilé";2021-05-31;;
+15;"Asie-Océanie";1505;"Chine - 3e circonscription";"MARTIN";"Catya";"F";1969-05-28;"Villeneuve-Saint-Georges";37;"Cadre administratif et commercial d'entreprise";2021-05-31;"Président du conseil consulaire";2021-06-25
+15;"Asie-Océanie";1505;"Chine - 3e circonscription";"TRAN-SAUTEDÉ";"Emilie";"F";1975-03-03;"CAMBODGE";34;"Professeur, profession scientifique";2021-05-31;;
+15;"Asie-Océanie";1506;"Chine - 4e circonscription";"MALLET";"Guillaume";"M";1985-08-17;"Clermont-Ferrand";38;"Ingénieur et cadre technique d'entreprise";2021-05-31;"Président du conseil consulaire";2021-06-11
+15;"Asie-Océanie";1506;"Chine - 4e circonscription";"POZZOBON";"Céline";"F";1988-11-13;"Toulouse";37;"Cadre administratif et commercial d'entreprise";2023-06-08;;
+15;"Asie-Océanie";1506;"Chine - 4e circonscription";"VUATTOUX";"Romain";"M";1983-02-15;"FRANCE";34;"Professeur, profession scientifique";2022-05-13;;
+15;"Asie-Océanie";1507;"Corée du Sud, Taïwan";"JOINAU";"Benjamin";"M";1969-10-19;"FLOIRAC";34;"Professeur, profession scientifique";2021-05-31;"Président du conseil consulaire";2021-06-07
+15;"Asie-Océanie";1507;"Corée du Sud, Taïwan";"ORY";"Pierre";"M";1967-04-24;"Metz";42;"Professeur des écoles, instituteur et assimilé";2022-07-05;;
+15;"Asie-Océanie";1507;"Corée du Sud, Taïwan";"PROVENZANO";"Julien";"M";1981-09-14;"Thionville";35;"Profession de l'information, des arts et des spectacles";2022-07-16;;
+15;"Asie-Océanie";1508;"Inde - 1re circonscription ( avec Bangladesh, Népal, Sri Lanka )";"BARTHELEMY";"Franck";"M";1969-01-09;"Bondy";31;"Profession libérale";2021-11-07;"Président du conseil consulaire";2021-11-10
+15;"Asie-Océanie";1508;"Inde - 1re circonscription ( avec Bangladesh, Népal, Sri Lanka )";"D'ASCOLI";"Cécile";"F";1969-11-14;"FRANCE";23;"Chef d'entreprise de 10 salariés ou plus";2021-11-07;;
+15;"Asie-Océanie";1508;"Inde - 1re circonscription ( avec Bangladesh, Népal, Sri Lanka )";"FAUCHILLE";"Jean-Baptiste";"M";1979-12-08;"FRANCE";34;"Professeur, profession scientifique";2021-11-07;;
+15;"Asie-Océanie";1509;"Inde - 2e circonscription";"BICHAT";"Balaramin";"M";1941-11-03;"INDE";74;"Ancien cadre";2021-11-07;;
+15;"Asie-Océanie";1509;"Inde - 2e circonscription";"LASSALLE SIVA";"Christine";"F";1974-10-11;"La Seyne-Sur-Mer";23;"Chef d'entreprise de 10 salariés ou plus";2023-07-01;;
+15;"Asie-Océanie";1509;"Inde - 2e circonscription";"SAMUEL-DAVID";"Chantal";"F";1964-05-25;"INDE";85;"Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité)";2021-11-07;"Président du conseil consulaire";2021-11-12
+15;"Asie-Océanie";1510;"Indonésie";"LE TOUZEY";"Hélène";"F";1950-12-15;"VIETNAM";54;"Employé administratif d'entreprise";2021-05-31;;
+15;"Asie-Océanie";1510;"Indonésie";"LUÇON";"Jacques";"M";1954-10-03;"Poitiers";37;"Cadre administratif et commercial d'entreprise";2021-05-31;;
+15;"Asie-Océanie";1510;"Indonésie";"MIGNON";"Alain Pierre";"M";1947-03-18;"Metz";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;"Président du conseil consulaire";2021-06-16
+15;"Asie-Océanie";1511;"Japon";"CONSIGNY";"Thierry";"M";1960-03-12;"Remiremont";31;"Profession libérale";2021-05-31;"Président du conseil consulaire";2021-06-15
+15;"Asie-Océanie";1511;"Japon";"JOLY";"Alexandre";"M";1972-10-27;"Boulogne-Billancourt";31;"Profession libérale";2023-10-01;;
+15;"Asie-Océanie";1511;"Japon";"MARIE";"Marie-José";"F";1956-05-03;"Niort";42;"Professeur des écoles, instituteur et assimilé";2021-05-31;;
+15;"Asie-Océanie";1511;"Japon";"ROUSSEL";"François";"M";1962-01-28;"MARSEILLE 6E ARRONDISSEMENT";34;"Professeur, profession scientifique";2021-05-31;;
+15;"Asie-Océanie";1512;"Laos";"BOULOM";"Daniel";"M";1973-10-21;"LAOS";55;"Employé de commerce";2021-05-31;"Président du conseil consulaire";2021-06-18
+15;"Asie-Océanie";1513;"Malaisie, Brunei";"CLOAREC";"Quentin";"M";1987-12-25;"PARIS 12E ARRONDISSEMENT";31;"Profession libérale";2021-05-31;;
+15;"Asie-Océanie";1513;"Malaisie, Brunei";"GICQUEL";"Jean-Yves";"M";1955-08-13;"Rennes";31;"Profession libérale";2021-05-31;;
+15;"Asie-Océanie";1513;"Malaisie, Brunei";"RIVES-GEORGES";"Olivier";"M";1958-01-15;"PARIS 16E ARRONDISSEMENT";77;"Ancien employé";2021-05-31;"Président du conseil consulaire";2021-06-25
+15;"Asie-Océanie";1514;"Nouvelle-Zélande";"GUILLEMOT-PEACOCK";"Géraldine";"F";1978-11-14;"Angers";56;"Personnel des services directs aux particuliers";2021-05-31;;
+15;"Asie-Océanie";1514;"Nouvelle-Zélande";"LEDUCQ";"Pierre";"M";1961-06-22;"Boulogne-Sur-Mer";31;"Profession libérale";2021-05-31;;
+15;"Asie-Océanie";1514;"Nouvelle-Zélande";"PLET";"Nadine";"F";1957-02-28;"Wattrelos";45;"Profession intermédiaire administrative de la fonction publique";2021-05-31;"Président du conseil consulaire";2021-06-18
+15;"Asie-Océanie";1515;"Philippines";"D'ABOVILLE";"Hubert";"M";1954-07-05;"PARIS 16E ARRONDISSEMENT";72;"Ancien artisan, commerçant, chef d'entreprise";2021-05-31;;
+15;"Asie-Océanie";1515;"Philippines";"LABBÉ";"Kévin";"M";1980-02-25;"FRANCE";55;"Employé de commerce";2021-10-20;;
+15;"Asie-Océanie";1515;"Philippines";"LEJEUNE";"Christophe";"M";1965-05-29;"Suisse";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;"Président du conseil consulaire";2021-06-11
+15;"Asie-Océanie";1516;"Singapour";"COGNON";"Aurélien";"M";1979-12-19;"PARIS 8E ARRONDISSEMENT";37;"Cadre administratif et commercial d'entreprise";2021-05-31;;
+15;"Asie-Océanie";1516;"Singapour";"HURET";"Laurence";"F";1967-03-05;"Valenciennes";37;"Cadre administratif et commercial d'entreprise";2021-05-31;;
+15;"Asie-Océanie";1516;"Singapour";"PROVENDIER";"Remi";"M";1971-12-24;"PARIS 12E ARRONDISSEMENT";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;;
+15;"Asie-Océanie";1516;"Singapour";"YEBKA";"Belma";"F";1976-02-02;"YOUGOSLAVIE";23;"Chef d'entreprise de 10 salariés ou plus";2021-05-31;"Président du conseil consulaire";2021-06-22
+15;"Asie-Océanie";1517;"Thaïlande, Birmanie";"BAUCHET";"Claude";"M";1951-10-28;"Charenton-Le-Pont";37;"Cadre administratif et commercial d'entreprise";2021-05-31;;
+15;"Asie-Océanie";1517;"Thaïlande, Birmanie";"CHEVRIER";"Christian Henri";"M";1950-11-17;"Vienne";77;"Ancien employé";2021-05-31;"Président du conseil consulaire";2021-06-18
+15;"Asie-Océanie";1517;"Thaïlande, Birmanie";"LAVAL";"Marc";"M";1954-04-10;"Montreuil";72;"Ancien artisan, commerçant, chef d'entreprise";2024-01-01;;
+15;"Asie-Océanie";1517;"Thaïlande, Birmanie";"MINÉ";"Éric";"M";1960-12-15;"PARIS 12E ARRONDISSEMENT";31;"Profession libérale";2021-05-31;;
+15;"Asie-Océanie";1518;"Vanuatu";"CUMBO";"Georges";"M";1966-05-09;"MAROC";35;"Profession de l'information, des arts et des spectacles";2021-05-31;"Président du conseil consulaire";2021-06-21
+15;"Asie-Océanie";1519;"Vietnam";"FISCHER";"Laurent";"M";1965-12-27;"Sarreguemines";22;"Commerçant et assimilé";2021-05-31;"Président du conseil consulaire";2021-06-22
+15;"Asie-Océanie";1519;"Vietnam";"POLLET";"Sébastien";"M";1977-01-08;"Marcq-En-Baroeul";31;"Profession libérale";2021-05-31;;
+15;"Asie-Océanie";1519;"Vietnam";"VILLARD";"Marc";"M";1951-03-26;"Perpignan";37;"Cadre administratif et commercial d'entreprise";2021-05-31;"Président du conseil consulaire";2021-06-10
