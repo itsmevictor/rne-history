@@ -34,7 +34,6 @@ Code du département;Libellé du département;Code de la collectivité à statut
 09;Ariège;;;0901;1Ère Circonscription;FROGER;Martine;F;1961-06-11;23;Chef d'entreprise de 10 salariés ou plus;2024-07-01
 09;Ariège;;;0902;2Ème Circonscription;ABADIE;Audrey;F;1974-11-16;34;Professeur, profession scientifique;2025-11-13
 10;Aube;;;1001;1Ère Circonscription;GUITTON;Jordan;M;1995-01-30;33;Cadre de la fonction publique;2024-07-01
-10;Aube;;;1002;2Ème Circonscription;BAZIN-MALGRAS;Valérie;F;1969-10-31;33;Cadre de la fonction publique;2024-07-08
 10;Aube;;;1003;3Ème Circonscription;RANC;Angélique;F;1988-03-16;33;Cadre de la fonction publique;2024-07-08
 11;Aude;;;1101;1Ère Circonscription;JORDAN;Edouard;M;1987-11-06;33;Cadre de la fonction publique;2026-04-21
 11;Aude;;;1102;2Ème Circonscription;FALCON;Frédéric;M;1985-11-23;22;Commerçant et assimilé;2024-07-08
@@ -73,10 +72,9 @@ Code du département;Libellé du département;Code de la collectivité à statut
 17;Charente-Maritime;;;1702;2Ème Circonscription;BITEAU;Benoît;M;1967-04-07;12;Agriculteur sur moyenne exploitation;2024-07-08
 17;Charente-Maritime;;;1703;3Ème Circonscription;BARUSSEAU;Fabrice;M;1970-06-01;34;Professeur, profession scientifique;2024-07-08
 17;Charente-Maritime;;;1704;4Ème Circonscription;MARKOWSKY;Pascal;M;1954-07-22;72;Ancien artisan, commerçant, chef d'entreprise;2024-07-08
-17;Charente-Maritime;;;1705;5Ème Circonscription;PLASSARD;Christophe;M;1967-11-19;74;Ancien cadre;2024-07-08
 18;Cher;;;1801;1Ère Circonscription;CORMIER-BOULIGEON;François;M;1972-11-19;33;Cadre de la fonction publique;2024-07-08
 18;Cher;;;1802;2Ème Circonscription;SANSU;Nicolas;M;1968-06-17;85;Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité);2024-07-08
-18;Cher;;;1803;3Ème Circonscription;KERVRAN;Loïc;M;1984-02-11;33;Cadre de la fonction publique;2024-07-08
+18;Cher;;;1803;3Ème Circonscription;RIOTTE;Emmanuel;M;1962-03-31;77;Ancien employé;2026-10-08
 19;Corrèze;;;1901;1Ère Circonscription;HOLLANDE;François;M;1954-08-12;74;Ancien cadre;2024-07-08
 19;Corrèze;;;1902;2Ème Circonscription;MEUNIER;Frédérique;F;1960-12-08;31;Profession libérale;2024-07-08
 21;Côte-D'Or;;;2101;1Ère Circonscription;GODARD;Océane;F;1982-11-22;37;Cadre administratif et commercial d'entreprise;2024-07-08
@@ -110,7 +108,7 @@ Code du département;Libellé du département;Code de la collectivité à statut
 27;Eure;;;2705;5Ème Circonscription;HOUSSIN;Timothée;M;1988-07-29;37;Cadre administratif et commercial d'entreprise;2024-07-08
 28;Eure-Et-Loir;;;2801;1Ère Circonscription;KASBARIAN;Guillaume;M;1987-02-28;37;Cadre administratif et commercial d'entreprise;2025-01-24
 28;Eure-Et-Loir;;;2802;2Ème Circonscription;MINARD;Christelle;F;1970-10-04;13;Agriculteur sur grande exploitation;2025-07-07
-28;Eure-Et-Loir;;;2803;3Ème Circonscription;HUWART;Harold;M;1982-01-03;33;Cadre de la fonction publique;2024-07-08
+28;Eure-Et-Loir;;;2803;3Ème Circonscription;GERARD;Eric;M;1962-01-19;31;Profession libérale;2026-07-26
 28;Eure-Et-Loir;;;2804;4Ème Circonscription;VIGIER;Philippe;M;1958-02-03;31;Profession libérale;2024-07-08
 29;Finistère;;;2901;1Ère Circonscription;LE MEUR;Annaïg;F;1973-04-29;31;Profession libérale;2024-07-08
 29;Finistère;;;2902;2Ème Circonscription;CADALEN;Pierre-Yves;M;1992-07-09;34;Professeur, profession scientifique;2024-07-08
@@ -129,7 +127,7 @@ Code du département;Libellé du département;Code de la collectivité à statut
 30;Gard;;;3003;3Ème Circonscription;DELLONG MENG;Catherine;F;1960-05-04;74;Ancien cadre;2026-04-14
 30;Gard;;;3004;4Ème Circonscription;MEURIN;Pierre;M;1989-11-30;37;Cadre administratif et commercial d'entreprise;2024-07-08
 30;Gard;;;3005;5Ème Circonscription;ALLEGRET-PILOT;Alexandre;M;1989-01-11;33;Cadre de la fonction publique;2024-07-08
-30;Gard;;;3006;6Ème Circonscription;JOSSERAND;Sylvie;F;1968-08-23;31;Profession libérale;2024-07-08
+30;Gard;;;3006;6Ème Circonscription;GARDET;Laurence;F;1969-06-01;22;Commerçant et assimilé;2026-10-08
 31;Haute-Garonne;;;3101;1Ère Circonscription;CLOUET;Hadrien;M;1991-07-13;34;Professeur, profession scientifique;2024-07-08
 31;Haute-Garonne;;;3102;2Ème Circonscription;STAMBACH-TERRENOIR;Anne;F;1980-06-23;35;Profession de l'information, des arts et des spectacles;2024-07-08
 31;Haute-Garonne;;;3103;3Ème Circonscription;VIGNON;Corinne;F;1963-06-10;37;Cadre administratif et commercial d'entreprise;2024-07-08
@@ -152,12 +150,11 @@ Code du département;Libellé du département;Code de la collectivité à statut
 33;Gironde;;;3308;8Ème Circonscription;PANONACLE;Sophie;F;1968-12-16;85;Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité);2024-07-08
 33;Gironde;;;3309;9Ème Circonscription;METTE;Sophie;F;1959-09-13;86;Personne diverse sans activité professionnelle de 60 ans et plus (sauf retraité);2024-07-08
 33;Gironde;;;3310;10Ème Circonscription;BERNADEAU;Marie-Sophie;F;1980-07-08;46;Profession intermédiaire administrative et commerciale des entreprises;2026-07-20
-33;Gironde;;;3311;11Ème Circonscription;DIAZ;Edwige;F;1987-10-15;37;Cadre administratif et commercial d'entreprise;2024-07-01
 33;Gironde;;;3312;12Ème Circonscription;FELD;Mathilde;F;1969-04-28;33;Cadre de la fonction publique;2024-07-08
 34;Hérault;;;3401;1Ère Circonscription;ROUMEGAS;Jean-Louis;M;1962-06-06;42;Professeur des écoles, instituteur et assimilé;2024-07-08
 34;Hérault;;;3402;2Ème Circonscription;OZIOL;Nathalie;F;1990-02-18;34;Professeur, profession scientifique;2024-07-01
 34;Hérault;;;3403;3Ème Circonscription;DOMBRE COSTE;Fanny;F;1956-12-26;72;Ancien artisan, commerçant, chef d'entreprise;2024-07-08
-34;Hérault;;;3404;4Ème Circonscription;BOUQUIN;Manon;F;1992-06-02;33;Cadre de la fonction publique;2024-07-08
+34;Hérault;;;3404;4Ème Circonscription;GILHET;Benoit;M;1970-11-20;83;Militaire du contingent;2026-10-08
 34;Hérault;;;3405;5Ème Circonscription;GALZY;Stéphanie;F;1981-10-21;54;Employé administratif d'entreprise;2024-07-08
 34;Hérault;;;3406;6Ème Circonscription;GABARRON;Julien;M;1981-03-11;37;Cadre administratif et commercial d'entreprise;2024-07-08
 34;Hérault;;;3407;7Ème Circonscription;CHAUMEIL;Bernard;M;1958-09-30;37;Cadre administratif et commercial d'entreprise;2026-04-26
@@ -215,7 +212,7 @@ Code du département;Libellé du département;Code de la collectivité à statut
 44;Loire-Atlantique;;;4408;8Ème Circonscription;TAVEL;Matthias;M;1987-07-06;33;Cadre de la fonction publique;2024-07-08
 44;Loire-Atlantique;;;4409;9Ème Circonscription;BRARD;Jean-Michel;M;1968-04-03;22;Commerçant et assimilé;2024-07-08
 44;Loire-Atlantique;;;4410;10Ème Circonscription;ERRANTE;Sophie;F;1971-07-22;23;Chef d'entreprise de 10 salariés ou plus;2024-07-08
-45;Loiret;;;4501;1Ère Circonscription;RIST;Stéphanie;F;1973-08-06;34;Professeur, profession scientifique;2026-01-26
+45;Loiret;;;4501;1Ère Circonscription;LUBET;Marie-Philippe;F;1957-09-06;45;Profession intermédiaire administrative de la fonction publique;2026-02-27
 45;Loiret;;;4502;2Ème Circonscription;DUPLESSY;Emmanuel;M;1990-01-02;33;Cadre de la fonction publique;2024-07-08
 45;Loiret;;;4503;3Ème Circonscription;DE PÉLICHY;Constance;F;1986-04-01;85;Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité);2024-07-08
 45;Loiret;;;4504;4Ème Circonscription;MÉNAGÉ;Thomas;M;1992-01-06;37;Cadre administratif et commercial d'entreprise;2024-07-08
@@ -323,7 +320,7 @@ Code du département;Libellé du département;Code de la collectivité à statut
 63;Puy-De-Dôme;;;6305;5Ème Circonscription;BRUGEROLLES;Julien;M;1982-07-05;45;Profession intermédiaire administrative de la fonction publique;2025-04-01
 64;Pyrénées-Atlantiques;;;6401;1Ère Circonscription;POUEYTO;Josy;F;1954-01-13;77;Ancien employé;2024-07-08
 64;Pyrénées-Atlantiques;;;6402;2Ème Circonscription;MATTEÏ;Jean-Paul;M;1954-03-21;31;Profession libérale;2024-07-08
-64;Pyrénées-Atlantiques;;;6403;3Ème Circonscription;HABIB;David;M;1961-03-16;37;Cadre administratif et commercial d'entreprise;2024-07-08
+64;Pyrénées-Atlantiques;;;6403;3Ème Circonscription;DUIZIDOU;David;M;1967-12-05;31;Profession libérale;2026-11-19
 64;Pyrénées-Atlantiques;;;6404;4Ème Circonscription;ECHANIZ;Iñaki;M;1993-09-02;33;Cadre de la fonction publique;2024-07-08
 64;Pyrénées-Atlantiques;;;6405;5Ème Circonscription;CAPDEVIELLE;Colette;F;1958-10-14;33;Cadre de la fonction publique;2024-07-08
 64;Pyrénées-Atlantiques;;;6406;6Ème Circonscription;DUFAU;Peio;M;1979-05-30;48;Contremaître, agent de maîtrise;2024-07-08
@@ -353,7 +350,7 @@ Code du département;Libellé du département;Code de la collectivité à statut
 69;Rhône;;;6903;3Ème Circonscription;GARIN;Marie-Charlotte;F;1995-09-02;85;Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité);2024-07-01
 69;Rhône;;;6904;4Ème Circonscription;RUNEL;Sandrine;F;1979-06-01;33;Cadre de la fonction publique;2024-07-08
 69;Rhône;;;6905;5Ème Circonscription;BROCARD;Blandine;F;1981-11-03;77;Ancien employé;2024-07-08
-69;Rhône;;;6906;6Ème Circonscription;AMARD;Gabriel;M;1967-05-05;37;Cadre administratif et commercial d'entreprise;2024-07-08
+69;Rhône;;;6906;6Ème Circonscription;HADJ-MIMOUNE;Melouka;F;1960-04-27;43;Profession intermédiaire de la santé et du travail social;2026-10-08
 69;Rhône;;;6907;7Ème Circonscription;LAHMAR;Abdelkader;M;1971-05-12;34;Professeur, profession scientifique;2024-07-08
 69;Rhône;;;6908;8Ème Circonscription;GERY;Jonathan;M;1986-10-12;53;Policier et militaire;2024-07-08
 69;Rhône;;;6909;9Ème Circonscription;PORTIER;Alexandre;M;1990-04-21;34;Professeur, profession scientifique;2025-01-24
@@ -423,8 +420,8 @@ Code du département;Libellé du département;Code de la collectivité à statut
 77;Seine-Et-Marne;;;7709;9Ème Circonscription;THIEBAULT-MARTINEZ;Céline;F;1974-08-04;37;Cadre administratif et commercial d'entreprise;2024-07-08
 77;Seine-Et-Marne;;;7710;10Ème Circonscription;LAISNEY;Maxime;M;1981-01-19;42;Professeur des écoles, instituteur et assimilé;2024-07-08
 77;Seine-Et-Marne;;;7711;11Ème Circonscription;FAURE;Olivier;M;1968-08-18;37;Cadre administratif et commercial d'entreprise;2024-07-01
-78;Yvelines;;;0102;2Ème Circonscription;BERGANTZ;Anne;F;1968-09-17;43;Profession intermédiaire de la santé et du travail social;2024-10-22
 78;Yvelines;;;7801;1Ère Circonscription;RODWELL;Charles;M;1996-07-26;33;Cadre de la fonction publique;2024-07-08
+78;Yvelines;;;7802;2Ème Circonscription;BERGANTZ;Anne;F;1968-09-17;43;Profession intermédiaire de la santé et du travail social;2024-10-22
 78;Yvelines;;;7803;3Ème Circonscription;PIRON;Béatrice;F;1965-08-30;72;Ancien artisan, commerçant, chef d'entreprise;2024-07-08
 78;Yvelines;;;7804;4Ème Circonscription;LEBEC;Marie;F;1990-12-17;33;Cadre de la fonction publique;2024-07-08
 78;Yvelines;;;7805;5Ème Circonscription;BRAUN-PIVET;Yaël;F;1970-12-07;31;Profession libérale;2024-07-08
@@ -453,8 +450,8 @@ Code du département;Libellé du département;Code de la collectivité à statut
 83;Var;;;8303;3Ème Circonscription;RAMBAUD;Stéphane;M;1960-04-05;74;Ancien cadre;2024-07-08
 83;Var;;;8304;4Ème Circonscription;LOTTIAUX;Philippe;M;1966-08-14;33;Cadre de la fonction publique;2024-07-01
 83;Var;;;8305;5Ème Circonscription;LECHANTEUX;Julie;F;1977-12-22;85;Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité);2024-07-01
-83;Var;;;8306;6Ème Circonscription;GILETTI;Frank;M;1973-03-01;33;Cadre de la fonction publique;2024-07-01
-83;Var;;;8307;7Ème Circonscription;BOCCALETTI;Frédéric;M;1973-11-23;85;Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité);2024-07-08
+83;Var;;;8306;6Ème Circonscription;FIOL;Muriel;F;1954-03-26;31;Profession libérale;2026-10-08
+83;Var;;;8307;7Ème Circonscription;DELYON;Isabelle;F;1955-08-03;74;Ancien cadre;2026-11-10
 83;Var;;;8308;8Ème Circonscription;SCHRECK;Philippe;M;1972-02-02;31;Profession libérale;2024-07-01
 84;Vaucluse;;;8401;1Ère Circonscription;ARNAULT;Raphaël;M;1995-01-08;52;Employé civil et agent de service de la fonction publique;2024-07-08
 84;Vaucluse;;;8402;2Ème Circonscription;AUZANOT;Bénédicte;F;1972-08-05;85;Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité);2024-07-08
@@ -462,7 +459,7 @@ Code du département;Libellé du département;Code de la collectivité à statut
 84;Vaucluse;;;8404;4Ème Circonscription;LORHO;Marie-France;F;1964-12-15;43;Profession intermédiaire de la santé et du travail social;2024-07-08
 84;Vaucluse;;;8405;5Ème Circonscription;RIMBERT;Catherine;F;1968-09-13;31;Profession libérale;2024-07-08
 85;Vendée;;;8501;1Ère Circonscription;LATOMBE;Philippe;M;1975-04-21;37;Cadre administratif et commercial d'entreprise;2024-07-08
-85;Vendée;;;8502;2Ème Circonscription;BELLAMY;Béatrice;F;1966-10-20;37;Cadre administratif et commercial d'entreprise;2024-07-08
+85;Vendée;;;8502;2Ème Circonscription;PAILLAT;Dominique;M;1958-06-11;74;Ancien cadre;2026-05-25
 85;Vendée;;;8503;3Ème Circonscription;BUCHOU;Stéphane;M;1974-03-14;37;Cadre administratif et commercial d'entreprise;2024-07-08
 85;Vendée;;;8504;4Ème Circonscription;BESSE;Véronique;F;1963-08-11;85;Personne diverse sans activité professionnelle de moins de 60 ans (sauf retraité);2024-07-08
 85;Vendée;;;8505;5Ème Circonscription;HENRIET;Pierre;M;1991-11-26;34;Professeur, profession scientifique;2024-07-08
